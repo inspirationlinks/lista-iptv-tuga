@@ -421,9 +421,9 @@ https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 --- 📺 𝙇𝙞𝙜𝙖 𝘽𝙚𝙩𝙘𝙡𝙞𝙘 ⚽️
 
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/LiveEventsSports.webp",Live ⚽️
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="http://lonewolftvpr.com/logos/events.png",Live ⚽️
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live.m3u8
-#EXTINF:-1 tvg-id="BTV1.HD.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/events.png",Live 1 ⚽️
+#EXTINF:-1 tvg-id="BTV1.HD.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="http://lonewolftvpr.com/logos/events.png",Live 1 ⚽️
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live1.m3u8
 
 #EXTINF:-1 cuid="142" tvg-chno="159" tvg-name="Disney+ 🇧🇷" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Liga Betclic 🇵🇹 ⚽️",Disney+ 🇧🇷
@@ -2995,13 +2995,13 @@ https://cloudserve.world/live/stream_nba1.m3u8
 #EXTINF:-1 cuid="982" tvg-chno="982" tvg-name="NBA" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Sports Live 🏆",NBA 🇺🇸
 http://49.0.64.96:8007/NBA
 
-#EXTINF:-1 cuid="977" tvg-chno="977" tvg-name="SKY F1 🇮🇹" tvg-id="Sky Sport F1 HD" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/skySportF1.webp" group-title="Sports Live 🏆",SKY F1 🇮🇹
-http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/90.m3u8
-
 #EXTINF:-1 cuid="980" tvg-chno="980" tvg-name="DAZN F1 🇪🇸 🏎️" tvg-id="DAZN.F1.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp" group-title="Sports Live 🏆",DAZN F1 🇪🇸 🏎️
 http://streamsy.online:2999/live/coachj88/N93DPKS9pJ/1650.ts
 
-#EXTINF:-1 cuid="978" tvg-chno="978" tvg-name="SKY MotoGP 🇮🇹" tvg-id="Sky Sport MotoGP HD" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/MotoGP.webp" group-title="Sports Live 🏆",SKY MotoGP 🇮🇹
+#EXTINF:-1 cuid="977" tvg-chno="977" tvg-name="SKY F1 🇮🇹" tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/skySportF1.webp" group-title="Sports Live 🏆",SKY F1 🇮🇹
+http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/90.m3u8
+
+#EXTINF:-1 cuid="978" tvg-chno="978" tvg-name="SKY MotoGP 🇮🇹" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/MotoGP.webp" group-title="Sports Live 🏆",SKY MotoGP 🇮🇹
 http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/91.m3u8
 
 #EXTINF:-1 cuid="988" tvg-chno="988" tvg-name="ESPN Premium 🇨🇱" tvg-id="ESPN.Premium.HDTV.(Chile).(FOXSP1HD).cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="Sports Live 🏆",ESPN Premium 🇨🇱 🏍
@@ -3013,7 +3013,7 @@ http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZcWWMaslMThxFXyrwzCTykm
 #EXTINF:-1 cuid="1022" tvg-chno="1022" tvg-name="Fox Deportes 🇲🇽" tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="Sports Live 🏆",Fox Sports Premium 🇲🇽
 http://tvbross.com:8880/live/mak-76BAn/baqte9-876baKA/88.ts
 
-#EXTINF:0 CUID="6780" tvg-chno="746" tvg-name="Liga Campeones 🇪🇸" tvg-ID="M+ Liga de Campeones" tvg-logo="https://logo.iptveditor.com/ligacampeones.png" group-title="Sports Live 🏆",Liga Campeones 🇪🇸
+#EXTINF:0 CUID="6780" tvg-chno="746" tvg-name="Liga Campeones 🇪🇸" tvg-ID="M+.Liga.de.Campeones.es" tvg-logo="https://logo.iptveditor.com/ligacampeones.png" group-title="Sports Live 🏆",Liga Campeones 🇪🇸
 http://streamsy.online:2999//live/happy2024/newyear/1773.ts
 
 #EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="4Sports Lives Events 🇺🇸" tvg-logo="https://i.postimg.cc/xT7TdfvD/imag.png" group-title="Sports Live 🏆",4Sports Live Events 🇺🇸
@@ -3024,7 +3024,7 @@ http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZdCEQyw4Rs2Ml__1a4eEaYe
 #EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkyPremiereHD.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Sports Live 🏆",Sky Sports Premier League 🇬🇧
 http://tv.cloudcdn.me/live.ts?channelId=286&deviceMac=00:1A:79:0A:3B:2D
 
-#EXTINF:-1 CUID="6759" tvg-chno="728" tvg-name="SuperSport LaLiga 🇿🇦" tvg-ID="SuperSport LaLiga" tvg-logo="https://logo.iptveditor.com/supersportlaliga.png" group-title="Sports Live 🏆",SuperSport LaLiga 🇿🇦
+#EXTINF:-1 CUID="6759" tvg-chno="728" tvg-name="SuperSport LaLiga 🇿🇦" tvg-ID="SS.LaLiga.Nigeria.ng" tvg-logo="https://logo.iptveditor.com/supersportlaliga.png" group-title="Sports Live 🏆",SuperSport LaLiga 🇿🇦
 http://tv.cloudcdn.me/live.ts?channelId=125442&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 CUID="6759" tvg-chno="728" tvg-id="" tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg" group-title="Sports Live 🏆",Sky Sports Bundesliga 🇬🇧
@@ -3154,7 +3154,7 @@ https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1 cuid="1015" tvg-chno="1015" tvg-name="InfoSport 🇫🇷" tvg-id="(FR)..INFO.SPORT.be" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/InfoSport.webp" group-title="Sports Live 🏆",InfoSport 🇫🇷
 http://212.102.60.80/Infosport/index.m3u8
 
-#EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="La Chaîne L'Équipe 🇫🇷" tvg-id="L&apos;Équipe.fr" tvg-logo="https://www.acces.tv/wp-content/uploads/2022/10/la-chaine-LEquipe-fond-blanc-e1665654560760.png" group-title="Sports Live 🏆",L'Équipe 🇫🇷
+#EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="La Chaîne L'Équipe 🇫🇷" tvg-id="(FR)..L&apos;EQUIPE.21.be" tvg-logo="https://www.acces.tv/wp-content/uploads/2022/10/la-chaine-LEquipe-fond-blanc-e1665654560760.png" group-title="Sports Live 🏆",L'Équipe 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
 #EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="La Chaîne L'Équipe 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://www.acces.tv/wp-content/uploads/2022/10/la-chaine-LEquipe-fond-blanc-e1665654560760.png" group-title="Sports Live 🏆",La Chaîne L'Équipe 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
@@ -3696,15 +3696,9 @@ https://abc.embedmax.site/bis/video.m3u8
 #EXTINF:-1 cuid="1206" tvg-chno="1206" tvg-name="Hallo! Music" tvg-logo="https://nxplay-images.comets.com.br/resize/67167045cf334_35638a5d8e90284bd5ddd0b644070015.png" group-title="Music 🎧",Hallo! Music 🇧🇷
 https://cdn-3.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 cuid="1207" tvg-chno="1207" tvg-name="Tomorrowland Radio ▶️" tvg-logo="https://yt3.googleusercontent.com/ELuL4kMKJpwlmnf2xkdGC5FJ40R9hufc3jYDvDOEXc-sbRLcd3xbW9EyVRpq-YUbTJSTONhdOvI=w0" group-title="Music 🎧",Tomorrowland Radio ▶️
-https://ythls-v3.onrender.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ.m3u8
-
-#EXTINF:-1 cuid="1208" tvg-chno="1208" tvg-name="Tomorrowland Radio² ▶️" tvg-logo="https://yt3.googleusercontent.com/ELuL4kMKJpwlmnf2xkdGC5FJ40R9hufc3jYDvDOEXc-sbRLcd3xbW9EyVRpq-YUbTJSTONhdOvI=w0" group-title="Music 🎧",Tomorrowland Radio² ▶️
-https://livestream.zazerconer.workers.dev/channel/UCvbKGLFg-bgjWvAglehxOFw.m3u8
-
-#EXTINF:-1 cuid="1211" tvg-chno="1209" tvg-name="Concert Channel" tvg-id="The.Concert.Channel.-.DLA.Premium.(CONCR).cl" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CONCERTTV.webp" group-title="Music 🎧",Concert Channel
+#EXTINF:-1 cuid="1211" tvg-chno="1209" tvg-name="Concert Channel" tvg-id="Canal.Concert.Channel.sv" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CONCERTTV.webp" group-title="Music 🎧",Concert Channel
 http://181.78.105.146:8800/play/a06t
-#EXTINF:-1 tvg-name="Concert Channel" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CONCERTTV.webp" group-title="Music 🎧",Concert Channel
+#EXTINF:-1 cuid="1211" tvg-chno="1209" tvg-name="Concert Channel" tvg-id="Canal.Concert.Channel.sv" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CONCERTTV.webp" group-title="Music 🎧",Concert Channel
 https://nxt.plus:8443/live/olmos/1234guz/171136.ts
 
 #EXTINF:-1 tvg-name="Qello Concerts" tvg-id="USBD3500024YB" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/QelloConcerts.webp" group-title="Music 🎧",Qello Concerts
