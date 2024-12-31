@@ -1,24 +1,24 @@
 #!/bin/bash
 
-# Obtém os nomes dos arquivos de entrada e saída dos argumentos do script
+# Get the input and output filenames from the script arguments
 input_file=$1
 output_file=$2
 
-# Cria um arquivo de saída vazio
+# Create an empty output file
 touch $output_file
 
-# Variável para armazenar o número do canal
+# Variable to store the channel number
 channel_number=1
 
-# Itera em cada linha do arquivo de entrada
+# Iterate through each line in the input file
 while read line; do
-  # Se a linha começa com "#EXTINF", significa que é uma linha descrevendo um canal
+  # If the line starts with "#EXTINF", it means it is a line describing a channel
   if [[ $line == "#EXTINF"* ]]; then
-    # Adiciona o número do canal ao parâmetro tvg-chno
+    # Append the channel number to the tvg-chno parameter
     line=$(echo $line | sed "s/tvg-name/tvg-chno=\"$channel_number\" tvg-name/")
-    # Incrementa o número do canal em 1
+    # Increment the channel number by 1
     channel_number=$((channel_number+1))
   fi
-  # Adiciona a linha ao arquivo de saída
+  # Append the line to the output file
   echo $line >> $output_file
 done < $input_file
