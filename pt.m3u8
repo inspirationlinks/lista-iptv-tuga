@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/EPGthomraider12gz,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/epgnz"
+#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/LIVETVepg,https://bit.ly/EPGthomraider12gz,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/epgnz"
 
 
 # (🇬🇧) -  It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, Rakuten, etc...)
@@ -145,8 +145,6 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 --- 📺 𝙊𝙐𝙏𝙍𝙊𝙎 🇵🇹
 
-#EXTINF:-1 cuid="33" tvg-chno="33" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/2080px-A_Grande_Conquista.png" group-title="Portugal 🇵🇹",A Grande Conquista 🇧🇷
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1425672&extension=ts
 #EXTINF:-1 cuid="33" tvg-chno="33" tvg-name="A Fazenda 🇧🇷" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9b/Fazenda2023.jpg/revision/latest/scale-to-width-down/1200?cb=20231004235951&path-prefix=pt-br" group-title="Portugal 🇵🇹",A Fazenda 🇧🇷
 #http://hzcdn.vood.top/hls/397630_.m3u8
 
@@ -207,9 +205,9 @@ http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/8159.ts
 http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/8160.ts
 
 #EXTINF:-1 tvg-name="Iberalia Caza" tvg-id="" group-title="Canais Temáticos" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Iberalia%20caza.webp",Iberalia 100% Caza 🇪🇸 
-https://65.108.40.211:2096/live/ache/Q3Yx7KHk4xZj/451.ts
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1547313&extension=ts&play_token=skTPx2GLfW&sn2=
 #EXTINF:-1 tvg-name="Iberalia Caza" tvg-id="" group-title="Canais Temáticos" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/Iberalia%20pesca.webp",Iberalia 100% Pesca 🇪🇸
-https://65.108.40.211:2096/live/ache/Q3Yx7KHk4xZj/452.ts
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1547314&extension=ts&play_token=ddz2h7Wsnj&sn2=
 
 #EXTINF:-1 cuid="46" tvg-chno="46" tvg-name="" tvg-id="OneToro.TV.pt" group-title="Canais Temáticos" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/OneToro.webp",OneToro 🇪🇸
 http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/8217.ts
@@ -461,13 +459,10 @@ https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live.m3u8
 #EXTINF:-1 tvg-id="BTV1.HD.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%2BFutebol.png",Live¹ ⚽️
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live1.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="http://lonewolftvpr.com/logos/events.png",Live² ⚽️🏍🏎️
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%2BFutebol.png",Live² ⚽️🏍🏎️
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live3.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%2BFutebol.png",Live³ ⚽️🏍🏎️
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live2.m3u8
-
-#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="4Sports Lives Events 🇺🇸" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Liga Betclic 🇵🇹 ⚽️",4Sports Live Events 🏍🏎️⚽️
-https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1 cuid="143" tvg-chno="151" tvg-name="Disney+ 🇧🇷" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Liga Betclic 🇵🇹 ⚽️",Disney+ 🇧🇷
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1718751&extension=ts
@@ -534,14 +529,11 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/g
 #EXTINF:-1 cuid="171" tvg-chno="179" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 http://4k4.klmvhn20.com:2082/play/live.php?mac=00:1A:79:C4:2E:77&stream=268016&extension=ts
 #EXTINF:-1 cuid="173" tvg-chno="181" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
-http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=156157&extension=ts
+https://live444.xyz/stream/23/index.m3u8
 #EXTINF:-1 cuid="172" tvg-chno="180" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 http://160.19.94.16:8080/live/OneTr_Yeni/jRqwpep3peB642/1544.ts
 #EXTINF:-1 cuid="168" tvg-chno="176" tvg-name="SportDigital 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 http://d1c06d46.akadatel.com/iptv/26TKCRLCUUW9LQ/19026/index.m3u8
-
-#EXTINF:-1 cuid="168" tvg-chno="176" tvg-id="Ring.BG.bg" group-title="Liga Bwin" tvg-logo="https://logo.iptveditor.com/ring.png group-title="Liga Betclic 🇵🇹 ⚽️",Ring 🇧🇬
-http://195.24.90.119:800/play/a0b3
 
 #EXTINF:-1 cuid="179" tvg-chno="187" tvg-name="SSC1 🇸🇦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1024px-Ssc_sports.png" group-title="Liga Betclic 🇵🇹 ⚽️",SSC1 🇸🇦
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/ssc.m3u8
@@ -1451,10 +1443,7 @@ https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8
 #EXTINF:-1 cuid="433" tvg-chno="433" tvg-name="tve Internacional 🇪🇸" tvg-id="TVEi.pt" tvg-logo="https://logo.iptveditor.com/tveinternacional.png" group-title="Hispanicos 🇪🇸🇲🇽🇺🇾",tve Internacional 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
-#EXTINF:-1 cuid="435" tvg-chno="435" tvg-name="La 1 🇪🇸" tvg-id="ESBC4100001NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="Hispanicos 🇪🇸🇲🇽🇺🇾",La 1 🇪🇸
-https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1 cuid="436" tvg-chno="436" tvg-name="La 1 🇪🇸" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Hispanicos 🇪🇸🇲🇽🇺🇾",La 1 🇪🇸
+#EXTINF:-1 cuid="436" tvg-chno="436" tvg-name="La 1 🇪🇸" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="Hispanicos 🇪🇸🇲🇽🇺🇾",La 1 🇪🇸
 https://bit.ly/48Xf5t6?profile=ESBC4100001NZ.m3u8
 
 #EXTINF:-1 cuid="437" tvg-chno="437" tvg-name="La 2 🇪🇸" tvg-id="ESBC4100002AG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Hispanicos 🇪🇸🇲🇽🇺🇾",La 2 🇪🇸
@@ -1475,9 +1464,11 @@ https://tvnoov.com/fadoo/antena3.m3u8
 http://lunar.pm:8080//live/KAY/mZMsckmeyH/67463.ts
 
 #EXTINF:-1 cuid="443" tvg-chno="443" tvg-name="Cuatro 🇪🇸" tvg-id="Cuatro.es" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png" group-title="Hispanicos 🇪🇸🇲🇽🇺🇾",Cuatro 🇪🇸
-https://tvnoov.com/fadoo/cuatrohd.m3u8
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=119018&extension=ts&play_token=iYGu8HYEsU&sn2=
 #EXTINF:-1 cuid="443" tvg-chno="443" tvg-name="Cuatro 🇪🇸" tvg-id="Cuatro.es" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png" group-title="Hispanicos 🇪🇸🇲🇽🇺🇾",Cuatro 🇪🇸
 http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/21316.ts
+#EXTINF:-1 cuid="443" tvg-chno="443" tvg-name="Cuatro 🇪🇸" tvg-id="Cuatro.es" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png" group-title="Hispanicos 🇪🇸🇲🇽🇺🇾",Cuatro 🇪🇸
+https://tvnoov.com/fadoo/cuatrohd.m3u8
 
 #EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Hispanicos 🇪🇸🇲🇽🇺🇾",Telecinco 🇪🇸
 https://tvnoov.com/fadoo/telecincohd.m3u8
@@ -1843,13 +1834,13 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/DiscSci.m3u8
 
 --- 📺 𝙁𝙧𝙖𝙣𝗰𝙚 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇫🇷 
 
-#EXTINF:-1 CUID="28627" tvg-chno="588" tvg-name="Canal+ Cinema" tvg-ID="Canal+ Cinema.fr" tvg-logo="https://logo.iptveditor.com/canal+cinema.png" group-title="França 🇫🇷",Canal+ Cinema 🇫🇷
+#EXTINF:-1 CUID="28627" tvg-chno="588" tvg-name="Canal+ Cinema" tvg-id="Canal+ Cinema.fr" tvg-logo="https://logo.iptveditor.com/canal+cinema.png" group-title="França 🇫🇷",Canal+ Cinema 🇫🇷
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/68334.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/cineemotion.png" group-title="França 🇫🇷",Cine+ Emotion 🇫🇷
 http://cdn.ottshow.net/kanaliURedirect2442/kd0dk39dkyxs0A/68335
-#EXTINF:-1 CUID="6589" tvg-chno="589" tvg-name="Cine+ Premier 🇫🇷" tvg-ID="Ciné+.Premier.fr" tvg-logo="https://logo.iptveditor.com/cinepremier.png" group-title="França 🇫🇷",Cine+ Premier 🇫🇷
+#EXTINF:-1 CUID="6589" tvg-chno="589" tvg-name="Cine+ Premier 🇫🇷" tvg-id="Ciné+.Premier.fr" tvg-logo="https://logo.iptveditor.com/cinepremier.png" group-title="França 🇫🇷",Cine+ Premier 🇫🇷
 http://cdn.ottshow.net/kanaliURedirect2442/kd0dk39dkyxs0A/68336
-#EXTINF:-1 CUID="6592" tvg-chno="592" tvg-name="Cine+ Frisson 🇫🇷" tvg-ID="Ciné+.Frisson.fr" tvg-logo="https://logo.iptveditor.com/cinefrisson.png" group-title="França 🇫🇷",Cine+ Frisson 🇫🇷
+#EXTINF:-1 CUID="6592" tvg-chno="592" tvg-name="Cine+ Frisson 🇫🇷" tvg-id="Ciné+.Frisson.fr" tvg-logo="https://logo.iptveditor.com/cinefrisson.png" group-title="França 🇫🇷",Cine+ Frisson 🇫🇷
 http://cdn.ottshow.net/kanaliURedirect2442/kd0dk39dkyxs0A/68337
 
 #EXTINF:-1 cuid="540" tvg-chno="540" tvg-name="France 2 🇫🇷" tvg-id="France.2.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp" group-title="França 🇫🇷",France 2 🇫🇷
@@ -1944,7 +1935,6 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m
 
 #EXTINF:-1 cuid="573" tvg-chno="573" tvg-name="Téva 🇫🇷" tvg-id="Téva.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/TEVA_HD_2014.png" group-title="França 🇫🇷",Téva 🇫🇷
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
-
 #EXTINF:-1 cuid="574" tvg-chno="574" tvg-name="Téva 🇫🇷" tvg-id="Téva.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/TEVA_HD_2014.png" group-title="França 🇫🇷",Téva 🇫🇷
 http://onrev.xyz//live/SPIDER_NjKqYj/UrdiVGcB5A/202631.ts
 
@@ -3232,6 +3222,8 @@ http://gzcdn.vood.top:80/hls/254078_.m3u8
 #EXTINF:-1 cuid="982" tvg-chno="982" tvg-name="NBA" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Vip Sports 🏆",NBA 🇺🇸
 http://49.0.64.96:8007/NBA
 
+--- 𝙈𝙊𝙏𝙊𝙍𝙎𝙋𝙊𝙍𝙏𝙎
+
 #EXTINF:-1 cuid="980" tvg-chno="980" tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/QvIPyxE.png" group-title="Vip Sports 🏆",SuperSport Motorsport 🇿🇦🇺🇸 🏎️
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZZEdnKM5G0N9zknwPuZ11uvDfz9tKxiSylA2p7eoGqwt/ts
 
@@ -3243,22 +3235,35 @@ http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZSkVg7zNYavgeJbHfEFa99g
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-name="SKY F1 🇮🇹" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/skySportF1.webp" group-title="Vip Sports 🏆",SKY Sport F1 🇮🇹
 http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/90.m3u8
 
-#EXTINF:-1 cuid="978" tvg-chno="978" tvg-name="SKY MotoGP 🇮🇹" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/MotoGP.webp" group-title="Vip Sports 🏆",SKY MotoGP 🇮🇹
+#EXTINF:-1 cuid="978" tvg-chno="978" tvg-name="SKY MotoGP 🇮🇹" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/MotoGP.webp" group-title="Vip Sports 🏆",SKY MotoGP 🇮🇹 🏍
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=920211&extension=ts
-#EXTINF:-1 cuid="978" tvg-chno="978" tvg-name="SKY MotoGP 🇮🇹" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/MotoGP.webp" group-title="Vip Sports 🏆",SKY MotoGP 🇮🇹
+#EXTINF:-1 cuid="978" tvg-chno="978" tvg-name="SKY MotoGP 🇮🇹" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/MotoGP.webp" group-title="Vip Sports 🏆",SKY MotoGP 🇮🇹 🏍
 http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/91.m3u8
 
 #EXTINF:-1 cuid="988" tvg-chno="988" tvg-name="ESPN Premium 🇨🇱" tvg-id="ESPN.Premium.HDTV.(Chile).(FOXSP1HD).cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="Vip Sports 🏆",ESPN Premium 🇨🇱 🏍
 http://45.184.87.142:8000/play/a045
 
-#EXTINF:-1 cuid="1022" tvg-chno="1022" tvg-name="Fox Deportes 🇲🇽" tvg-id="Fox.Deportes.us" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="Vip Sports 🏆",Fox Deportes 🇲🇽
-http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZcWWMaslMThxFXyrwzCTykmZYdHbFWNLcwvpkBk_kkyt/m3u8
+#EXTINF:-1 CUID="6759" tvg-chno="728" tvg-name="" tvg-id="ESPN.Deportes.us" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="Vip Sports 🏆",ESPN Deportes
+http://sdmx.vip:80/Eventos-Cplay/dBYYWawzQ7/2234662.ts
 
-#EXTINF:-1 cuid="1022" tvg-chno="1022" tvg-name="Fox Deportes 🇲🇽" tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="Vip Sports 🏆",Fox Sports Premium 🇲🇽
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="4Sports Lives Events 🇺🇸" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Vip Sports 🏆",4Sports Live Events 🏍🏎️⚽️
+https://hls.pokertvfa.live/hls/stream.m3u8
+
+--- 𝙋𝙍𝙀𝙈𝙞𝙀𝙍 𝙇𝙀𝘼𝙜𝙐𝙀 ▎ 𝙇𝘼 𝙇𝙞𝙜𝘼
+
+#EXTINF:-1 cuid="1022" tvg-chno="1022" tvg-name="Fox Deportes 🇲🇽" tvg-id="Fox.Deportes.us" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="Vip Sports 🏆",Fox Deportes 🇲🇽
+http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZcWWMaslMThxFXyrwzCTykmZYdHbFWNLcwvpkBk_kkyt/ts
+
+#EXTINF:-1 cuid="1022" tvg-chno="1022" tvg-name="Fox Deportes 🇲🇽" tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="Vip Sports 🏆",Fox Sports Premium 🇲🇽 🏎️
 http://tvbross.com:8880/live/mak-76BAn/baqte9-876baKA/88.ts
 
-#EXTINF:0 CUID="6780" tvg-chno="746" tvg-name="Liga Campeones 🇪🇸" tvg-ID="M+.Liga.de.Campeones.es" tvg-logo="https://logo.iptveditor.com/lcampeones.png" group-title="Vip Sports 🏆",Liga Campeones 🇪🇸
+#EXTINF:0 CUID="6780" tvg-chno="746" tvg-name="Liga Campeones 🇪🇸" tvg-id="M+.Liga.de.Campeones.es" tvg-logo="https://logo.iptveditor.com/lcampeones.png" group-title="Vip Sports 🏆",Liga Campeones 🇪🇸
 http://streamsy.online:2999//live/happy2024/newyear/1773.ts
+
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="" tvg-id="English.-.beIN.SPORTS.2.hk" tvg-logo="https://logo.iptveditor.com/aubeinsports2.png" group-title="Vip Sports 🏆",Bein Sports 2 🇬🇧
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="" tvg-id="English.-.beIN.SPORTS.3.hk" tvg-logo="https://logo.iptveditor.com/aubeinsports3.png" group-title="Vip Sports 🏆",Bein Sports 3 🇬🇧
+https://live444.xyz/stream/8/index.m3u8
 
 #EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Football" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Vip Sports 🏆",Sky Sports Football 🇬🇧
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=83452&extension=ts
@@ -3267,23 +3272,24 @@ http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZbPY3zwjaPV0hJZUU_-WgPy
 #EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Football" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Vip Sports 🏆",Sky Sports Football 🇬🇧
 http://62419-don.ott-cdn.me:80/play/live.php?mac=00:1A:79:7D:2B:67&stream=577995&extension=ts&play_token=Xjj1os2Eip&sn2=
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Vip Sports 🏆",Sky Sports Mix 🇬🇧
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportmix.png" group-title="Vip Sports 🏆",Sky Sports Mix 🇬🇧
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=83449&extension=ts
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Vip Sports 🏆",Sky Sports Mix 🇬🇧
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportmix.png" group-title="Vip Sports 🏆",Sky Sports Mix 🇬🇧
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZeZouilhFJdmHV0gZG7IqCBfzTDu1XUK3fn9UVzc3rCf/ts
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Vip Sports 🏆",Sky Sports Mix 🇬🇧
-http://62419-don.ott-cdn.me:80/play/live.php?mac=00:1A:79:7D:2B:67&stream=577970&extension=ts&play_token=XRjnTXtiy8&sn2=
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportmix.png" group-title="Vip Sports 🏆",Sky Sports Mix 🇬🇧
+http://62419-don.ott-cdn.me:80/play/live.php?mac=00:1A:79:7D:2B:67&stream=577970&extension=ts
 
 #EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkyPremiereHD.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Vip Sports 🏆",Sky Sports Premier League 🇬🇧
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1458669&extension=ts
 #EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkyPremiereHD.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Vip Sports 🏆",Sky Sports Premier League 🇬🇧
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZe2uQsaGAPkdLNk0frdNuGmRuAggm2mKM36JnfKB4ipj/ts
 
-#EXTINF:-1 CUID="6759" tvg-chno="728" tvg-name="SuperSport LaLiga 🇿🇦" tvg-ID="SS.LaLiga.Nigeria.ng" tvg-logo="https://logo.iptveditor.com/supersportlaliga.png" group-title="Vip Sports 🏆",SuperSport LaLiga 🇿🇦
-#http://tv.cloudcdn.me/live.ts?channelId=125442&deviceMac=00:1A:79:0A:3B:2D
-
-#EXTINF:-1 CUID="6759" tvg-chno="728" tvg-name="" tvg-ID="SS.LaLiga.Nigeria.ng" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="Vip Sports 🏆",ESPN Deportes
-http://sdmx.vip:80/Eventos-Cplay/dBYYWawzQ7/2234662.m3u8
+#EXTINF:-1 CUID="6759" tvg-chno="728" tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/truesport1.png" group-title="Vip Sports 🏆",True Premier Football 1 🇹🇭🇬🇧
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 CUID="6759" tvg-chno="728" tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/truesport2.png" group-title="Vip Sports 🏆",True Premier Football 2 🇹🇭🇬🇧
+https://live444.xyz/stream/3/index.m3u8
+#EXTINF:-1 CUID="6759" tvg-chno="728" tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/truesport3.png" group-title="Vip Sports 🏆",True Sports 3 🇹🇭🇬🇧
+https://live444.xyz/stream/11/index.m3u8
 
 #EXTINF:-1 cuid="1024" tvg-chno="1024" tvg-name="TUDN 🇺🇸🇲🇽" tvg-id="TUDN.us" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png" group-title="Vip Sports 🏆",TUDN 🇺🇸🇲🇽
 http://tkosportz.live:25461//live/swilder2023/6063815781/99415.ts
@@ -3294,6 +3300,8 @@ http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/9606.ts
 http://sdmx.vip:80/Eventos-Cplay/dBYYWawzQ7/2227794.m3u8
 #EXTINF:-1 cuid="1025" tvg-chno="1025" tvg-name="TUDN 🇲🇽" tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png" group-title="Vip Sports 🏆",TUDN 🇲🇽
 http://181.78.105.146:8800/play/a07e
+
+--- 𝙐𝙎𝘼 ▎ 𝘾𝘼𝙉𝘼𝘿𝘼 𝙎𝙋𝙊𝙍𝙏𝙎
 
 #EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="TSN 1 🇨🇦" tvg-id="TSN1.ca" tvg-logo="https://widgets.sports.bellmedia.ca/img/TSN/tsn-logo-2d.webp" group-title="Vip Sports 🏆",TSN 1 🇨🇦
 http://212.102.60.231/TSN_1/index.m3u8
@@ -3315,30 +3323,66 @@ https://b.trydarius.shop/espn.m3u8
 #EXTINF:-1 cuid="995" tvg-chno="995" tvg-name="ESPN 2 🇺🇸" tvg-id="ESPN2.us" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Vip Sports 🏆",ESPN 2 🇺🇸
 https://b.trydarius.shop/espn2.m3u8
 
+--- 𝙁𝙍𝘼𝙉𝘾𝙀 𝙎𝙋𝙊𝙍𝙏𝙎 🇫🇷
+
+#EXTINF:-1 cuid="985" tvg-chno="985" tvg-name="bein Sport 1 🇫🇷" tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp" group-title="Vip Sports 🏆",bein Sport 1 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
+
+#EXTINF:-1 cuid="1014" tvg-chno="1014" tvg-name="Sport en France 🇫🇷" tvg-id="Sport.en.France.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="Vip Sports 🏆",Sport en France 🇫🇷
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+
+#EXTINF:-1 cuid="1015" tvg-chno="1015" tvg-name="InfoSport 🇫🇷" tvg-id="(FR)..INFO.SPORT.be" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/InfoSport.webp" group-title="Vip Sports 🏆",InfoSport 🇫🇷
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 cuid="1015" tvg-chno="1015" tvg-name="InfoSport 🇫🇷" tvg-id="(FR)..INFO.SPORT.be" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/InfoSport.webp" group-title="Vip Sports 🏆",InfoSport 🇫🇷
+http://99.27.51.147:8080/Infosport/index.m3u8
+
+#EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="La Chaîne L'Équipe 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.iptveditor.com/lequipe.png" group-title="Vip Sports 🏆",L'Équipe 🇫🇷
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
+
+#EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="" tvg-id="" tvg-logo="https://medias.lequipe.fr/img-photo-jpg/-/1500000001976942/0:0,424:282-1200-800-75/71474.jpg" group-title="Vip Sports 🏆",L'Équipe Live Foot 🇫🇷
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot-dm.m3u8
+
+#EXTINF:-1 cuid="1017" tvg-chno="1017" tvg-name="L'Equipe Live 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/LEquipeLive1.webp" group-title="Vip Sports 🏆",L'Equipe Live 1 🇫🇷
+https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+#EXTINF:-1 cuid="1018" tvg-chno="1018" tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/LEquipeLive2.webp" group-title="Vip Sports 🏆",L'Equipe Live 2 🇫🇷
+https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+
+#EXTINF:-1 cuid="1017" tvg-chno="1017" tvg-id="Sports.Connect.distro" tvg-logo="https://i.imgur.com/CZ2wQig.png" group-title="Vip Sports 🏆",Sports Connect 🐴
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+
+#EXTINF:-1 cuid="1019" tvg-chno="1019" tvg-name="Équidia 🇫🇷" tvg-id="" tvg-logo="https://logo.iptveditor.com/equidialive.png" group-title="Vip Sports 🏆",ER1 🇫🇷 🐴
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing1.m3u8
+
+#EXTINF:-1 cuid="1019" tvg-chno="1019" tvg-name="Équidia 🇫🇷" tvg-id="Equidia.fr" tvg-logo="https://logo.iptveditor.com/equidialive.png" group-title="Vip Sports 🏆",Équidia 🇫🇷 🐴
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
+
+#EXTINF:-1 cuid="1019" tvg-chno="1019" tvg-name="Équidia 🇫🇷" tvg-id="Equidia.fr" tvg-logo="https://logo.iptveditor.com/equidialive.png" group-title="Vip Sports 🏆",Equidia Racing Galop 🇫🇷 🐴
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racinggalop.m3u8
+
+#EXTINF:-1 cuid="981" tvg-chno="981" tvg-name="Racing tv" tvg-id="Racing.TV.HD.uk" tvg-logo="https://play-lh.googleusercontent.com/L_cf3LeKYOrY8hqxKUebehMR3frjJ-GNoJHW0lKJ-MSeWwizl191HTMtN-wkDUu6TFKI" group-title="Vip Sports 🏆",Racing tv 🇬🇧 🐴
+http://tkosportz.live:25461//live/swilder2023/6063815781/105962.ts
+
+#EXTINF:-1 cuid="1154" tvg-chno="1154" tvg-name="Racing" tvg-id="Racingcom.au" tvg-logo="https://www.racing.com/resources/Racing/img/favicon/hub/apple-touch-icon-144x144.png" group-title="Vip Sports 🏆",Racing 🇺🇸 🐴
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+
 #EXTINF:-1 cuid="996" tvg-chno="996" tvg-name="Ten Sports 🇮🇳🇺🇸" tvg-id="Sony.Sports.Ten.1.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png" group-title="Vip Sports 🏆",Ten Sports 🇮🇳🇺🇸 🥊
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1 cuid="1002" tvg-chno="1002" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/SPORT1_CZ.webp" group-title="Vip Sports 🏆",Sport 1 🇨🇿
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:-1 cuid="1002" tvg-chno="1002" tvg-name="Sport2" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/SPORT2_CZ.webp" group-title="Vip Sports 🏆",Sport 2 🇨🇿
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
+--- 𝘾𝘼𝙉𝘼𝙞𝙎 𝙉𝙊𝙍𝘿𝙞𝘾𝙊𝙎
 
 #EXTINF:-1 cuid="1002" tvg-chno="1002" tvg-name="V Sport Vinter 🇸🇪" tvg-id="V.Sport.Vinter.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports 🏆",V Sport Vinter 🇸🇪
 http://62.210.211.188:2095/play/a00q
-#EXTINF:-1 cuid="1004" tvg-chno="1004" tvg-name="V Sport 1 🇸🇪" tvg-id="V.Sport.Live.1.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports 🏆",V Sport 1 🇸🇪
+#EXTINF:-1 cuid="1004" tvg-chno="1004" tvg-name="V Sport 1 🇸🇪" tvg-id="V.Sport.Premium.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports 🏆",V Sport Premier League 🇸🇪
 http://62.210.211.188:2095/play/a002
-#EXTINF:-1 cuid="1005" tvg-chno="1005" tvg-name="V Sport 2 🇸🇪" tvg-id="V.Sport.Live.2.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports 🏆",V Sport 2 🇸🇪
+#EXTINF:-1 cuid="1005" tvg-chno="1005" tvg-name="V Sport 2 🇸🇪" tvg-id="V.Sport.Premier.League.2.NO.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports 🏆",V Sport 2 🇸🇪
 http://62.210.211.188:2095/play/a003
-#EXTINF:-1 cuid="1006" tvg-chno="1006" tvg-name="V Sport 3 🇸🇪" tvg-id="V.Sport.Live.3.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports 🏆",V Sport 3 🇸🇪
+#EXTINF:-1 cuid="1006" tvg-chno="1006" tvg-name="V Sport 3 🇸🇪" tvg-id="V.Sport.Premier.League.3.NO.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports 🏆",V Sport 3 🇸🇪
 http://62.210.211.188:2095/play/a004
 #EXTINF:-1 cuid="1007" tvg-chno="1007" tvg-name="V Sport 4 🇸🇪" tvg-id="V.Sport.Live.4.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Vip Sports 🏆",V Sport 4 🇸🇪
 http://62.210.211.188:2095/play/a005
 
 #EXTINF:-1 cuid="1013" tvg-chno="1013" tvg-name="Spotv 🇲🇾🇺🇸 🏍" tvg-id="SPOTV.my" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/SPOTV.webp" group-title="Vip Sports 🏆",Spotv 🇲🇾🇺🇸 🏍
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-
-#EXTINF:-1 cuid="1013" tvg-chno="1013" tvg-name="" tvg-id="" tvg-logo="http://newwayplus.com/wp-content/uploads/2024/11/Fut-Net.png" group-title="Vip Sports 🏆",Futbol Network
-https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
 
 #EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Max Sport 1" tvg-id="Max.Sport.1.bg" tvg-logo="https://logo.iptveditor.com/maxsport1.png" group-title="Vip Sports 🏆",Max Sport 1 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport1
@@ -3355,6 +3399,12 @@ http://raalbatros.serv00.net/Gledai.php?ID=diemasport
 http://raalbatros.serv00.net/Gledai.php?ID=diemasport2
 #EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Max Sport 3" tvg-id="DIEMA.SPORT.3.bg" tvg-logo="https://logo.iptveditor.com/diemasport3.png" group-title="Vip Sports 🏆",Diema Sport 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
+
+#EXTINF:-1 cuid="1002" tvg-chno="1002" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/SPORT1_CZ.webp" group-title="Vip Sports 🏆",Sport 1 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
+
+#EXTINF:-1 cuid="1002" tvg-chno="1002" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/SPORT2_CZ.webp" group-title="Vip Sports 🏆",Sport 2 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 
 #EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Матч! Футбол 1 🇷🇺" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-title="Vip Sports 🏆",Матч! Футбол 1 🇷🇺
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
@@ -3395,44 +3445,6 @@ http://146.59.85.40:89/novasport3/mono.m3u8
 
 #EXTINF:-1 cuid="1042" tvg-chno="1042" tvg-name="NovaSports 4 🇬🇷" tvg-id="Novasports2.gr" tvg-logo="https://logo.iptveditor.com/novasport4.png" group-title="Vip Sports 🏆",NovaSports 4 🇬🇷
 http://146.59.85.40:89/novasport4/mono.m3u8
-
-#EXTINF:-1 cuid="985" tvg-chno="985" tvg-name="bein Sport 1 🇫🇷" tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp" group-title="Vip Sports 🏆",bein Sport 1 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
-
-#EXTINF:-1 cuid="1014" tvg-chno="1014" tvg-name="Sport en France 🇫🇷" tvg-id="Sport.en.France.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="Vip Sports 🏆",Sport en France 🇫🇷
-https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
-
-#EXTINF:-1 cuid="1015" tvg-chno="1015" tvg-name="InfoSport 🇫🇷" tvg-id="(FR)..INFO.SPORT.be" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/InfoSport.webp" group-title="Vip Sports 🏆",InfoSport 🇫🇷
-http://212.102.60.80/Infosport/index.m3u8
-
-#EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="La Chaîne L'Équipe 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.iptveditor.com/lequipe.png" group-title="Vip Sports 🏆",L'Équipe 🇫🇷
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
-
-#EXTINF:-1 cuid="1016" tvg-chno="1016" tvg-name="" tvg-id="" tvg-logo="https://medias.lequipe.fr/img-photo-jpg/-/1500000001976942/0:0,424:282-1200-800-75/71474.jpg" group-title="Vip Sports 🏆",L'Équipe Live Foot 🇫🇷
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot-dm.m3u8
-
-#EXTINF:-1 cuid="1017" tvg-chno="1017" tvg-name="L'Equipe Live 1 🇫🇷" tvg-id="FRBC4200004XH" tvg-logo="https://www.lequipe.fr/img/favicons/apple-touch-icon-114x114.png" group-title="Vip Sports 🏆",L'Equipe Live 1 🇫🇷
-https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
-#EXTINF:-1 cuid="1018" tvg-chno="1018" tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://www.lequipe.fr/img/favicons/apple-touch-icon-114x114.png" group-title="Vip Sports 🏆",L'Equipe Live 2 🇫🇷
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
-
-#EXTINF:-1 cuid="1017" tvg-chno="1017" tvg-id="Sports.Connect.distro" tvg-logo="https://i.imgur.com/CZ2wQig.png" group-title="Vip Sports 🏆",Sports Connect 🐴
-https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
-
-#EXTINF:-1 cuid="1019" tvg-chno="1019" tvg-name="Équidia 🇫🇷" tvg-id="" tvg-logo="https://static.equidia.fr/assets/img/favicons/android-chrome-192x192.png" group-title="Vip Sports 🏆",ER1 🇫🇷 🐴
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing1.m3u8
-
-#EXTINF:-1 cuid="1019" tvg-chno="1019" tvg-name="Équidia 🇫🇷" tvg-id="Equidia.fr" tvg-logo="https://logo.iptveditor.com/equidialive.png" group-title="Vip Sports 🏆",Équidia 🇫🇷 🐴
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
-
-#EXTINF:-1 cuid="1019" tvg-chno="1019" tvg-name="Équidia 🇫🇷" tvg-id="Equidia.fr" tvg-logo="https://logo.iptveditor.com/equidialive.png" group-title="Vip Sports 🏆",Equidia Racing Galop 🇫🇷 🐴
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racinggalop.m3u8
-
-#EXTINF:-1 cuid="981" tvg-chno="981" tvg-name="Racing tv" tvg-id="Racing.TV.HD.uk" tvg-logo="https://play-lh.googleusercontent.com/L_cf3LeKYOrY8hqxKUebehMR3frjJ-GNoJHW0lKJ-MSeWwizl191HTMtN-wkDUu6TFKI" group-title="Vip Sports 🏆",Racing tv 🇬🇧 🐴
-http://tkosportz.live:25461//live/swilder2023/6063815781/105962.ts
-
-#EXTINF:-1 cuid="1154" tvg-chno="1154" tvg-name="Racing" tvg-id="Racingcom.au" tvg-logo="https://www.racing.com/resources/Racing/img/favicon/hub/apple-touch-icon-144x144.png" group-title="Vip Sports 🏆",Racing 🇺🇸 🐴
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 #EXTINF:-1 cuid="1026" tvg-chno="1026" tvg-name="TYC Sports Play 🇦🇷" tvg-id="TyCSports.ar" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" group-title="Vip Sports 🏆",TYC Sports Play 🇦🇷
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
@@ -3557,6 +3569,9 @@ https://is.gd/P9HFAg?LaligaInside.m3u8
 
 #EXTINF:-1 cuid="1081" tvg-chno="1081" tvg-name="La Liga tv 🇪🇸" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg" group-title="Free Sports 🏀⚾🏈",La Liga tv 🇪🇸
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+
+#EXTINF:-1 cuid="1013" tvg-chno="1013" tvg-name="" tvg-id="" tvg-logo="http://newwayplus.com/wp-content/uploads/2024/11/Fut-Net.png" group-title="Free Sports 🏀⚾🏈",Futbol Network
+https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
 
 #EXTINF:-1 cuid="1082" tvg-chno="1082" tvg-name="Fubo Sports Network (vᴘɴ 🇺🇸)" tvg-id="USAJ2200023Z0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20240520T220026SQUARE.png" group-title="Free Sports 🏀⚾🏈",Fubo Sports Network (vᴘɴ 🇺🇸)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
@@ -4016,6 +4031,7 @@ http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/8317.ts
 
 #EXTINF:-1 cuid="1225" tvg-chno="1223" tvg-id="MCM.Pop.pt" tvg-name="MCM Pop" group-title="Music 🎧" tvg-logo="https://logo.iptveditor.com/mcmpop.png",MCM Pop 🇫🇷
 http://oldraindays.net/327425510/B297D7783q/112098
+
 #EXTINF:-1 cuid="1225" tvg-chno="1223" tvg-id="MCM.Top.pt" tvg-name="MCM Top" group-title="Music 🎧" tvg-logo="https://logo.iptveditor.com/mcmtop.png",MCM Top 🇫🇷
 http://109.200.130.123:7537/play/a029
 #EXTINF:-1 cuid="1225" tvg-chno="1223" tvg-id="MCM.Top.pt" tvg-name="MCM Top" group-title="Music 🎧" tvg-logo="https://logo.iptveditor.com/mcmtop.png",MCM Top 🇫🇷
@@ -4044,11 +4060,9 @@ https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 cuid="1231" tvg-chno="1229" tvg-name="Staccs Music TV 80’s Hits" tvg-id="IT1900004CG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1900004CG_20241022T043847SQUARE.png" group-title="Music 🎧",Staccs Music TV 80’s Hits
 https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/c6383a68-7837-4998-9804-e8786fd0d232/2.m3u8
 
-#EXTINF:-1 cuid="1241" tvg-chno="1239" tvg-id="" group-title="Music 🎧" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/magic-tv-uk.png",Magic tv 🇬🇧
+#EXTINF:-1 cuid="1241" tvg-chno="1239" tvg-id="" group-title="Music 🎧" tvg-logo="https://epg.serbianforum.org/Logo_znaci/Magic%20TV%20BG.png",Magic tv 🇬🇧
 http://lunar.pm:8080//live/KAY/mZMsckmeyH/116990.ts
 
-#EXTINF:-1 cuid="1241" tvg-chno="1239" tvg-id="Thats.Melody.uk" group-title="Music 🎧" tvg-logo="https://logo.iptveditor.com/thatsmelody.png",That's Melody 🇬🇧
-http://83.4.86.167:9981/stream/channelid/1316007193?profile=
 #EXTINF:-1 cuid="1241" tvg-chno="1239" tvg-id="Thats.Melody.uk" group-title="Music 🎧" tvg-logo="https://logo.iptveditor.com/thatsmelody.png",That's Melody 🇬🇧
 http://92.114.85.72:8000/play/a0lk
 
@@ -4079,6 +4093,8 @@ https://bit.ly/3B1M54o?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 cuid="1247" tvg-chno="1245" tvg-name="MTV 🇲🇽" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MTV.webp" group-title="Music 🎧",MTV 🇲🇽
 http://185.189.225.149/mtv/index.m3u8
+#EXTINF:-1 cuid="1247" tvg-chno="1245" tvg-name="MTV 🇲🇽" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MTV.webp" group-title="Music 🎧",MTV 🇫🇷
+http://99.27.51.147:8080/MTV/index.m3u8
 
 #EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MTV%20Live%20HD.webp" group-title="Music 🎧",MTV Live 🇺🇸
 http://tvbross.com:8880/live/mak-76BAn/baqte9-876baKA/6597.ts
@@ -4145,7 +4161,6 @@ http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 cuid="1233" tvg-chno="1231" tvg-name="Retro tv 🇨🇿" tvg-id="Retro.cz" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/retromusic.webp" group-title="Music 🎧",Retro tv 🇨🇿
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?profile=inspirationFreetv.m3u8
-
 #EXTINF:-1 cuid="1234" tvg-chno="1232" tvg-name="Retro tv 🇨🇿" tvg-id="Retro.cz" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/retromusic.webp" group-title="Music 🎧",Retro tv 🇨🇿
 http://78.130.250.2:8023/play/a02r/index.m3u8
 
