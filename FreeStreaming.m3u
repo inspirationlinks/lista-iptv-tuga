@@ -23,131 +23,6 @@
 
 
 
-
-
-
-
-
-
---- 📺 𝙉𝙤𝙫𝗲𝙡𝙖𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇧🇷🇲🇽
-
-#EXTINF:-1 cuid="492" tvg-chno="492" tvg-name="TV Novelas 🇧🇷" tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://is.gd/6WIlhD" group-title="Novelas",+Novelas 🇧🇷
-http://dzcdn.vood.top:80/hls/390578_.m3u8
-#EXTINF:-1 cuid="492" tvg-chno="492" tvg-name="TV Novelas 🇧🇷" tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Novelas",TV Novelas 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-
-#EXTINF:-1 cuid="493" tvg-chno="493" tvg-name="Novelisima 🇧🇷" tvg-id="Novelisima.us" tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB=w0" group-title="Novelas",Novelisima 🇧🇷
-https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
-
-#EXTINF:-1 cuid="494" tvg-chno="494" tvg-name="TNT Novelas 🇧🇷" tvg-id="TNTNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇧🇷
-http://gzcdn.vood.top:80/hls/264555_.m3u8
-#EXTINF:-1 cuid="494" tvg-chno="494" tvg-name="TNT Novelas 🇧🇷" tvg-id="TNTNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇧🇷
-http://svrhost.club//live/C96VW13E/DPIZ4JSVM/32.ts
-#EXTINF:-1 cuid="494" tvg-chno="494" tvg-name="TNT Novelas 🇧🇷" tvg-id="TNTNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇧🇷
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com
-https://embedcanaistv.club/tntnovelas/video.m3u8
-
-#EXTINF:-1 cuid="495" tvg-chno="495" tvg-name="TNT Novelas 🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇲🇽
-http://45.184.87.142:8000/play/a02j
-#EXTINF:-1 cuid="496" tvg-chno="496" tvg-name="TNT Novelas 🇲🇽" tvg-id="Canal.TNT.Novelas.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇲🇽
-http://45.175.139.194:8000/play/30
-#EXTINF:-1 cuid="497" tvg-chno="497" tvg-name="TNT Novelas 🇲🇽" tvg-id="Canal.TNT.Novelas.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇲🇽
-http://200.115.96.66:4000/play/a01p/index.m3u8
-
-#EXTINF:-1 cuid="498" tvg-chno="498" tvg-name="Novelisima 🇲🇽" tvg-id="plex.tv.Novelisima.plex" tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB=w0" group-title="Novelas",Novelisima 🇲🇽
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64d4e82ac5d4668c9cb7b5df.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xM9Mjpu7oDrpJDtG6jAx
-
-#EXTINF:-1 cuid="499" tvg-chno="499" tvg-name="Novelisima 🇲🇽" tvg-id="plex.tv.Novelisima.plex" tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB=w0" group-title="Novelas",Novelisima 🇲🇽
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
-#EXTINF:-1 cuid="500" tvg-chno="500" tvg-name="Rakuten viki 🇺🇸🇰🇷" tvg-id="5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rakutenviki.webp" group-title="Novelas",Rakuten viki 🇺🇸🇰🇷
-https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 cuid="501" tvg-chno="501" tvg-name="Rakuten viki 🇲🇽🇰🇷" tvg-id="UK:.Rakuten.VIKI.en" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rakutenviki.webp" group-title="Novelas",Rakuten viki 🇲🇽🇰🇷
-https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 cuid="502" tvg-chno="502" tvg-name="Asia Crush 🇺🇸🇰🇷" tvg-id="65e9ceb98145cb00084d64bc" tvg-logo="https://images.pluto.tv/channels/65e9ceb98145cb00084d64bc/colorLogoPNG.png" group-title="Novelas",Asia Crush 🇺🇸🇰🇷
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-
-#EXTINF:-1 cuid="503" tvg-chno="503" tvg-name="Passion Novelas 🇫🇷" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/NovelaChannel.webp" group-title="Novelas",Novela Channel 🇫🇷
-https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
-
-#EXTINF:-1 cuid="503" tvg-chno="503" tvg-name="Passion Novelas 🇫🇷" tvg-id="FRBD15000024B" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/passionNovelas.webp" group-title="Novelas",Passion Novelas 🇫🇷
-https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 cuid="504" tvg-chno="504" tvg-name="Televisa Telenovelas" tvg-id="FRBA3300022OA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000026G_20241022T043629SQUARE.png" group-title="Novelas",Televisa Telenovelas 🇫🇷
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 cuid="504" tvg-chno="504" tvg-name="Televisa Telenovelas" tvg-id="FRBA3300022OA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000026G_20241022T043629SQUARE.png" group-title="Novelas",Televisa Telenovelas 🇫🇷
-https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8
-
-#EXTINF:-1 cuid="504" tvg-chno="504" tvg-name="Televisa Telenovelas" tvg-id="FRBA3300031ZC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300031ZC_20241015T042657SQUARE.png" group-title="Novelas",Stormcast Novelas 🇫🇷
-https://78088d9226df47fb95e3320920b08ad7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_StormcastNovelas/playlist.m3u8
-
-#EXTINF:-1 cuid="505" tvg-chno="505" tvg-name="Todo Novelas 🇲🇽" tvg-id="plex.tv.Todo.Novelas,.más.Pasiones.plex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="Novelas",Todo Novelas 🇲🇽
-https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8
-
-#EXTINF:-1 cuid="506" tvg-chno="506" tvg-name="Sony One Novelas 🇲🇽" tvg-id="USAJ3000002OC" tvg-logo="https://yt3.googleusercontent.com/dWLvSHsdj3reb3NPjAztv10dTsbf3dC2ASKjYCwbW7AMg0_xl6JcuAaKqL_fLlR-KfwsWOFDjQ=w0" group-title="Novelas",Sony One Novelas 🇲🇽
-https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 cuid="507" tvg-chno="507" tvg-name="Sony One Novelas² 🇲🇽" tvg-id="USAJ3000002OC" tvg-logo="https://yt3.googleusercontent.com/dWLvSHsdj3reb3NPjAztv10dTsbf3dC2ASKjYCwbW7AMg0_xl6JcuAaKqL_fLlR-KfwsWOFDjQ=w0" group-title="Novelas",Sony One Novelas ² 🇲🇽
-https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 cuid="508" tvg-chno="508" tvg-name="Sony One Novelas³ 🇲🇽" tvg-id="USAJ3000002OC" tvg-logo="https://yt3.googleusercontent.com/dWLvSHsdj3reb3NPjAztv10dTsbf3dC2ASKjYCwbW7AMg0_xl6JcuAaKqL_fLlR-KfwsWOFDjQ=w0" group-title="Novelas",Sony One Novelas ³ 🇲🇽
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-
-#EXTINF:-1 cuid="509" tvg-chno="509" tvg-name="Novelas Turcas 🇺🇸🇲🇽" tvg-id="US27000033D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20240826T235549SQUARE.png" group-title="Novelas",Novelas Turcas 🇺🇸🇲🇽
-https://d3tqgr18sdql14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pgcp345otohoa/Novelas_Turcas.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US27000033D
-
-#EXTINF:-1 cuid="510" tvg-chno="510" tvg-name="ViX Novelas de Romance 🇺🇸🇲🇽" tvg-id="USBB44000099N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png" group-title="Novelas",ViX Novelas de Romance 🇺🇸🇲🇽
-https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/AwpWpKfpemEGixBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqichOfESE0Mvx1Jtn81PnLjGdX8c5rM6Wbz0X-r4kuUokXxDkVNpGrQXJTNlajn8qyE95SuHf6gHV8f03sl1yUQPzBd2gJbrGfq1mHgoJOVVQC8UfN_6AliJQgUcTWDV5ZOF4aiSuTPOG1p4BgbFAnlCS7ZWKyFTBksAnep57l4OGJUnnpzLB5grmYE-eSo9WA/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB44000099N
-
-#EXTINF:-1 cuid="513" tvg-chno="513" tvg-name="Tlnovela 🇲🇽" tvg-id="Canal.TLNovelas.(México).sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovela 🇲🇽
-http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
-#EXTINF:-1 cuid="513" tvg-chno="513" tvg-name="Tlnovela 🇲🇽" tvg-id="Canal.TLNovelas.(México).sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovela 🇲🇽
-http://tkosportz.live:25461//live/swilder2023/6063815781/99409.ts
-#EXTINF:-1 cuid="511" tvg-chno="511" tvg-name="Tlnovela 🇲🇽" tvg-id="Canal.TLNovelas.(Costa.Rica).cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovela 🇲🇽
-http://45.175.139.194:8000/play/57
-#EXTINF:-1 cuid="512" tvg-chno="512" tvg-name="Tlnovela ѕᴅ 🇲🇽" tvg-id="Canal.TLNovelas.(Costa.Rica).cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovela ѕᴅ 🇲🇽
-http://179.189.222.226:8000/play/ch45
-
-#EXTINF:-1 cuid="515" tvg-chno="515" tvg-name="Telemundo Novelas Clasicas 🇵🇷" tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Novelas",Telemundo Novelas Clasicas 🇵🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-#EXTINF:-1 cuid="516" tvg-chno="516" tvg-name="13 Teleseries 🇨🇱" tvg-logo="https://i.imgur.com/aJMBnse.png" group-title="Novelas",13 Teleseries 🇨🇱
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-
---- 📺 𝘼𝙙𝙪𝗹𝙩 𝙎𝙬𝙞𝙢 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇺🇸 (vᴘɴ 🇺🇸)
-
-#EXTINF:-1 cuid="260" tvg-chno="268" tvg-name="Adult Swim 🇺🇸 (Channel 5)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Channel 5)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_7.m3u8
-
-#EXTINF:-1 cuid="261" tvg-chno="269" tvg-name="Adult Swim 🇺🇸 (Rick and Morty)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Rick and Morty)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
-
-#EXTINF:-1 cuid="262" tvg-chno="270" tvg-name="Adult Swim 🇺🇸 (Samurai Jack)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Samurai Jack)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
-
-#EXTINF:-1 cuid="263" tvg-chno="271" tvg-name="Adult Swim 🇺🇸 (Aqua Teen Hunger Force)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Aqua Teen Hunger Force)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
-
-#EXTINF:-1 cuid="264" tvg-chno="272" tvg-name="Adult Swim 🇺🇸 (Robot Chicken)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Robot Chicken)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
-
-#EXTINF:-1 cuid="265" tvg-chno="273" tvg-name="Adult Swim 🇺🇸 (The Venture Bros)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (The Venture Bros)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
-
-#EXTINF:-1 cuid="266" tvg-chno="274" tvg-name="Adult Swim 🇺🇸 (Off The Air)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Off The Air)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
-
-#EXTINF:-1 cuid="267" tvg-chno="275" tvg-name="Adult Swim 🇺🇸 (Dream Corp LLC)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Dream Corp LLC)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
-
-#EXTINF:-1 cuid="268" tvg-chno="276" tvg-name="Adult Swim 🇺🇸 (Metalocalypse)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Metalocalypse)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
-
-#EXTINF:-1 cuid="269" tvg-chno="277" tvg-name="Adult Swim 🇺🇸 (Last Stream On The Left)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Last Stream On The Left)(vᴘɴ 🇺🇸)
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_7.m3u8
-
 --- 📺 𝙋𝗲𝙩𝙨 & 𝙇𝙊𝙇 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🐶😂
 
 #EXTINF:-1 cuid="270" tvg-chno="278" tvg-name="AKC Dogs tv 🇺🇸" tvg-id="plex.tv.AKC.tv.plex" tvg-logo="https://web.akctvcontrol.com/webapp/assets/AKCtv-masthead-wTM-min.png" group-title="Pets ✬ LOL Channels ",AKC Dogs tv 🇺🇸
@@ -199,6 +74,38 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 cuid="285" tvg-chno="293" tvg-name="The Pet Collective 🇺🇸🇲🇽" tvg-id="USAJ3504704A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20240520T214709SQUARE.png" group-title="Pets ✬ LOL Channels ",The Pet Collective 🇺🇸🇲🇽
 https://bit.ly/3sYLlrg?profile=inspirationFreetv.m3u8
+
+--- 📺 𝘼𝙙𝙪𝗹𝙩 𝙎𝙬𝙞𝙢 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇺🇸 (vᴘɴ 🇺🇸)
+
+#EXTINF:-1 cuid="260" tvg-chno="268" tvg-name="Adult Swim 🇺🇸 (Channel 5)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Channel 5)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_7.m3u8
+
+#EXTINF:-1 cuid="261" tvg-chno="269" tvg-name="Adult Swim 🇺🇸 (Rick and Morty)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Rick and Morty)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+
+#EXTINF:-1 cuid="262" tvg-chno="270" tvg-name="Adult Swim 🇺🇸 (Samurai Jack)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Samurai Jack)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
+
+#EXTINF:-1 cuid="263" tvg-chno="271" tvg-name="Adult Swim 🇺🇸 (Aqua Teen Hunger Force)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Aqua Teen Hunger Force)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
+
+#EXTINF:-1 cuid="264" tvg-chno="272" tvg-name="Adult Swim 🇺🇸 (Robot Chicken)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Robot Chicken)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
+
+#EXTINF:-1 cuid="265" tvg-chno="273" tvg-name="Adult Swim 🇺🇸 (The Venture Bros)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (The Venture Bros)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
+
+#EXTINF:-1 cuid="266" tvg-chno="274" tvg-name="Adult Swim 🇺🇸 (Off The Air)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Off The Air)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
+
+#EXTINF:-1 cuid="267" tvg-chno="275" tvg-name="Adult Swim 🇺🇸 (Dream Corp LLC)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Dream Corp LLC)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
+
+#EXTINF:-1 cuid="268" tvg-chno="276" tvg-name="Adult Swim 🇺🇸 (Metalocalypse)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Metalocalypse)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
+
+#EXTINF:-1 cuid="269" tvg-chno="277" tvg-name="Adult Swim 🇺🇸 (Last Stream On The Left)(vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/AdultSwim.webp" group-title="Kids ✬ Gaming",Adult Swim 🇺🇸 (Last Stream On The Left)(vᴘɴ 🇺🇸)
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_7.m3u8
 
 --- 📺 𝙏𝙧𝙖𝙫𝙚𝙡 & 𝙁𝙤𝙤𝙙 ✈️🍽️
 
@@ -1106,11 +1013,6 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 #EXTINF:-1 cuid="917" tvg-chno="917" tvg-name="Love The Planet 🇮🇹" tvg-id="65c243143ef47d00084c90a9" tvg-logo="https://images.pluto.tv/channels/65c243143ef47d00084c90a9/colorLogoPNG.png" group-title="Animals ✬ Nature 🐘",Love The Planet 🇮🇹
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetit-xiaomi/playlist.m3u8
 
-#EXTINF:-1 cuid="918" tvg-chno="918" tvg-name="Animal Planet HD 🇮🇳🇺🇸" tvg-id="Animal.Planet.HD.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="Animals ✬ Nature 🐘",Animal Planet HD 🇮🇳🇺🇸
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.mizhls.ru/lb/premium304/index.m3u8
-
 
 #EXTINF:-1 cuid="919" tvg-chno="919" tvg-name="Earthday 365 🇺🇸" tvg-id="650b69cfd1f20c0008586bac" tvg-logo="https://images.pluto.tv/channels/650b69cfd1f20c0008586bac/colorLogoPNG.png" group-title="Animals ✬ Nature 🐘",Earthday 365 🇺🇸
 https://is.gd/nIrRFD?650b69cfd1f20c0008586bac.m3u8
@@ -1623,6 +1525,14 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:-1 cuid="1201" tvg-chno="1201" tvg-name="Billiard TV ² 🇺🇸" tvg-id="Billiard.TV.distro" tvg-logo="https://images.pluto.tv/channels/65df112b66eec8000897b965/colorLogoPNG.png" group-title="Billard 🎱",Billiard TV ² 🇺🇸
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 cuid="1355" tvg-chno="1355" tvg-name="✯ Lista de IPTV em formato M3U otimizada com conteúdo de canais de sinal aberto,com canais de 📺 e estações de 📻. A lista contem canais de várias Nacionalidades: 🇵🇹🇧🇷🇪🇸🇬🇧🇵🇱🇫🇷🇩🇪🇹🇭🇺🇸🇧🇦🇨🇳. ✯" tvg-logo="https://jerrymoz.wordpress.com/wp-content/uploads/2024/03/qr_paypal.png" group-title="𝘼𝙏𝙏𝙀𝙉𝙏𝙞𝙊𝙉 ⚠️",✯ Lista de IPTV em formato M3U otimizada com conteúdo de canais de sinal aberto,com canais de 📺 e estações de 📻. A lista contem canais de várias Nacionalidades: 🇵🇹🇧🇷🇪🇸🇬🇧🇵🇱🇫🇷🇩🇪🇹🇭🇺🇸🇧🇦🇨🇳. ✯
