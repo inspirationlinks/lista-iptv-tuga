@@ -16,13 +16,6 @@
 
 
 
-
-
-
-
-
-
-
 --- 📺 𝙋𝗲𝙩𝙨 & 𝙇𝙊𝙇 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🐶😂
 
 #EXTINF:-1 cuid="270" tvg-chno="278" tvg-name="AKC Dogs tv 🇺🇸" tvg-id="plex.tv.AKC.tv.plex" tvg-logo="https://web.akctvcontrol.com/webapp/assets/AKCtv-masthead-wTM-min.png" group-title="Pets ✬ LOL Channels ",AKC Dogs tv 🇺🇸
@@ -169,13 +162,16 @@ https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u
 #EXTINF:-1 cuid="644" tvg-chno="644" tvg-name="Mundo Viajero 🇪🇸" tvg-id="60511efd71ec430007f50d97" tvg-logo="https://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png" group-title=" Travel ✬ Food ✈️ ",Mundo Viajero 🇪🇸
 https://bit.ly/3I0AOVr?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 cuid="645" tvg-chno="645" tvg-name="WBTV Travel + Adventure 🇺🇸" tvg-logo="https://tap9.myagentgenie.com/mrdramatic08/wp-content/uploads/sites/7785/2024/02/wbtravel-png-e1710719840364.png" group-title=" Travel ✬ Food ✈️ ",WBTV Travel + Adventure 🇺🇸
+#EXTINF:-1 cuid="645" tvg-chno="645" tvg-name="WBTV Travel + Adventure 🇺🇸" tvg-id="" tvg-logo="https://tap9.myagentgenie.com/mrdramatic08/wp-content/uploads/sites/7785/2024/02/wbtravel-png-e1710719840364.png" group-title=" Travel ✬ Food ✈️ ",WBTV Travel + Adventure 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Travel-and-Adventure.m3u8
 
-#EXTINF:-1 cuid="646" tvg-chno="646" tvg-name="BRB Travel and Food 🇺🇸" tvg-logo="https://image.roku.com/developer_channels/prod/84eb660434d71858932fdb136f766bf8e5d2d4b916c9650db634f5f557aa88e9.png" group-title=" Travel ✬ Food ✈️ ",BRB Travel and Food 🇺🇸
+#EXTINF:-1 cuid="646" tvg-chno="646" tvg-name="" tvg-id="" tvg-logo="" group-title=" Travel ✬ Food ✈️ ",Travel and food 🇬🇧
+https://linear-795.frequency.stream/mt/studio/795/hls/master/playlist.m3u8
+
+#EXTINF:-1 cuid="646" tvg-chno="646" tvg-name="BRB Travel and Food 🇺🇸" tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/84eb660434d71858932fdb136f766bf8e5d2d4b916c9650db634f5f557aa88e9.png" group-title=" Travel ✬ Food ✈️ ",BRB Travel and Food 🇺🇸
 https://playworksdigital-brb-1-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="647" tvg-chno="647" tvg-name="Life Down Under 🇺🇸" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/LifeDownUnder.png" group-title=" Travel ✬ Food ✈️ ",Life Down Under 🇺🇸
+#EXTINF:-1 cuid="647" tvg-chno="647" tvg-name="Life Down Under 🇺🇸" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/LifeDownUnder.png" group-title=" Travel ✬ Food ✈️ ",Life Down Under 🇺🇸
 https://wtfn-lifedownunder-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="648" tvg-chno="648" tvg-name="Nautical Channel 🇺🇸" tvg-id="Nautical.Channel.pt" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-UCLjlC3fh-KPfXMiAwI4DhchBLQIeJXS4_Uo64aCq2Q=s900-c-k-c0x00ffffff-no-rj" group-title=" Travel ✬ Food ✈️ ",Nautical Channel 🇺🇸
@@ -400,6 +396,8 @@ https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist_4300k.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fb9ade112ca70007d8441d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
 #EXTINF:-1 cuid="721" tvg-chno="721" tvg-name="MHz Now 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-611152a48f945c002c40021a" tvg-logo="https://mhznetworks.com/wp-content/uploads/2021/09/MHz_NOW_Logo-uai-258x258.png" group-title="Tv Shows ✬ Series",MHz Now 🇺🇸
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 cuid="721" tvg-chno="721" tvg-name="MHz Now 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-611152a48f945c002c40021a" tvg-logo="https://mhznetworks.com/wp-content/uploads/2021/09/MHz_NOW_Logo-uai-258x258.png" group-title="Tv Shows ✬ Series",MHz Now 🇺🇸
 https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_MHz/playlist.m3u8
 
 #EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="Tv Shows ✬ Series",Stories By AMC  🇺🇸
@@ -509,6 +507,8 @@ https://0219a5c3ba50427ba7885f9cf5e2ccdd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 cuid="756" tvg-chno="756" tvg-name="Tubi Originals 🇺🇸" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Tubi_Originals_2021.png" group-title="Movies Channels 🎬",Tubi Originals 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tubi-Originals.m3u8
 
+#EXTINF:-1 cuid="757" tvg-chno="757" tvg-name="Freebie tv 🇺🇸" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="Movies Channels 🎬",Freebie tv 🇺🇸
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 #EXTINF:-1 cuid="757" tvg-chno="757" tvg-name="Freebie tv 🇺🇸" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="Movies Channels 🎬",Freebie tv 🇺🇸
 https://d1h1d6qoy9vnra.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/9d6b0d9d-78e2-4f1e-85a6-ae695397d75c/2.m3u8
 
@@ -708,6 +708,11 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
 #EXTINF:-1 cuid="820" tvg-chno="820" tvg-name="TCM 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="Western ✬ Classics Tv 📽️",TCM 🇺🇸
 http://143.244.60.30/TCM/index.m3u8
+
+#EXTINF:-1 cuid="820" tvg-chno="820" tvg-name="" tvg-id="plex.tv.Wild.West.TV.plex" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/thumbnail.jpg" group-title="Western ✬ Classics Tv 📽️",Wild West tv 🇺🇸
+https://linear-799.frequency.stream/mt/studio/799/hls/master/playlist.m3u8
+#EXTINF:-1 cuid="820" tvg-chno="820" tvg-name="" tvg-id="664e640a0120f40008be4582" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/thumbnail.jpg" group-title="Western ✬ Classics Tv 📽️",Wild West tv 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664e640a0120f40008be4582/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="821" tvg-chno="821" tvg-name="RCM 🇮🇹🇺🇸" tvg-id="plex.tv.RCM.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e9e9106-bf71-4255-a888-f89b1b8f3bd1/RCM_artwork_horizontal_-_Angela_ChanRDX.jpg" group-title="Western ✬ Classics Tv 📽️",RCM 🇮🇹🇺🇸
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
