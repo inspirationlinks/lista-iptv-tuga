@@ -945,7 +945,7 @@ https://bit.ly/fbi_inspiration_m3u8
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
 #EXTINF:-1 cuid="894" tvg-chno="894" tvg-name="Biography The Icons 🇺🇸" tvg-id="US26000201N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20240826T235527SQUARE.png" group-title="History ✬ Docu. 🏛️",Biography The Icons 🇺🇸
-https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US26000201N
+https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8
 
 #EXTINF:-1 cuid="895" tvg-chno="895" tvg-name="Music Legends 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10fa00f9-1e92-4991-ac14-e391416f6a7c/Music_Legends_artwork_horizontalrdx2.jpg" group-title="History ✬ Docu. 🏛️",Music Legends 🇺🇸
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MVSK7xh_LKaeJg6sWTT7
@@ -1130,6 +1130,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d0269d60bc8f000890f
 
 #EXTINF:-1 cuid="1077" tvg-chno="1077" tvg-name="Fox Deportes Español 🇲🇽" tvg-id="Fox.Deportes.us" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="Free Sports 🏀⚾🏈",Fox Deportes Español 🇲🇽
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 cuid="1077" tvg-chno="1077" tvg-name="" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240520T212951SQUARE.png" group-title="Free Sports 🏀⚾🏈",Zona TUDN 🇲🇽
+https://is.gd/BUqSed?USBD1700016X9.m3u8
 
 #EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="Fox Sports" tvg-id="US2700001QY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="Free Sports 🏀⚾🏈",Fox Sports 🇺🇸
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
