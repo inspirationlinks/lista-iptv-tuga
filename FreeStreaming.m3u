@@ -247,7 +247,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/
 
 --- 📺 𝘾𝙚𝙡𝙚𝘽𝙧𝙞𝙩𝙞𝙚𝙨
 
-#EXTINF:-1 cuid="673" tvg-chno="673" tvg-name="¡HOLA! Play 🇪🇸" tvg-id="ESBA1400008NE" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="Lifestyles ✬ Celebrities",¡HOLA! Play 🇪🇸
+#EXTINF:-1 cuid="673" tvg-chno="673" tvg-name="¡HOLA! Play 🇪🇸" tvg-id="ES:.¡HOLA!.Play.es" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="Lifestyles ✬ Celebrities",¡HOLA! Play 🇪🇸
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
 #EXTINF:-1 cuid="674" tvg-chno="674" tvg-name="young hollywood tv 🇺🇸" tvg-id="Young.Hollywood.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Young_Hollywood_logo.png" group-title="Lifestyles ✬ Celebrities",Young Hollywood tv 🇺🇸
@@ -1111,9 +1111,6 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 cuid="975" tvg-chno="975" tvg-name="Real Madrid Tv 🇪🇸" tvg-id="Real.Madrid.TV.es" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png" group-title="Free Sports 🏀⚾🏈",Real Madrid Tv 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-#EXTINF:-1 cuid="976" tvg-chno="976" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Free Sports 🏀⚾🏈",tdp 🇪🇸
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 #EXTINF:-1 cuid="1072" tvg-chno="1072" tvg-name="Bein SportsXtra ñ 🇪🇸" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Free Sports 🏀⚾🏈",Bein SportsXtra ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
