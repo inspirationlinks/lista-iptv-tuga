@@ -567,15 +567,13 @@ https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 cuid="161" tvg-chno="169" tvg-name="ESPN 6 🇧🇷 🥎🏈🏍" tvg-id="ESPN6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="Liga Betclic 🇵🇹 ⚽️",ESPN 6 🇧🇷 🥎🏈🏍
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 
-#EXTINF:-1 cuid="163" tvg-chno="171" tvg-name="Goltv 🇺🇸" tvg-id="GOL.TV.HD.(MONTECABLE)..uy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="Liga Betclic 🇵🇹 ⚽️",Goltv 🇺🇸
+#EXTINF:-1 cuid="163" tvg-chno="171" tvg-name="Goltv 🇺🇸" tvg-id="Gol.TV.USA.us" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="Liga Betclic 🇵🇹 ⚽️",Goltv 🇺🇸
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/goltv.m3u8
 
 #EXTINF:-1 cuid="171" tvg-chno="179" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 http://4k4.klmvhn20.com:2082/play/live.php?mac=00:1A:79:C4:2E:77&stream=268016&extension=ts
 #EXTINF:-1 cuid="173" tvg-chno="181" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 https://live444.xyz/stream/23/index.m3u8
-#EXTINF:-1 cuid="172" tvg-chno="180" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
-http://160.19.94.16:8080/live/OneTr_Yeni/jRqwpep3peB642/1544.ts
 #EXTINF:-1 cuid="168" tvg-chno="176" tvg-name="SportDigital 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 http://d1c06d46.akadatel.com/iptv/26TKCRLCUUW9LQ/19026/index.m3u8
 
@@ -642,10 +640,10 @@ http://svrhost.club//live/C96VW13E/DPIZ4JSVM/2039.ts
 https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
 #EXTINF:-1 cuid="208" tvg-chno="216" tvg-name="" tvg-id="TOONCAST" tvg-logo="https://logo.iptveditor.com/tooncast.png" group-title="Kids 🧒",Tooncast 🇧🇷
-https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/10654.ts
 
 #EXTINF:-1 cuid="208" tvg-chno="216" tvg-name="DreamWorks 🇧🇷" tvg-id="Dreamworks.br" tvg-logo="https://www.dreamworks.com/images/favicon/android-icon-192x192.png" group-title="Kids 🧒",DreamWorks 🇧🇷
-https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
+#https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
 
 #EXTINF:-1 cuid="199" tvg-chno="207" tvg-name="Retro Cartoon 🇧🇷" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png" group-title="Kids 🧒",Retro Cartoon 🇧🇷
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -2317,11 +2315,21 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
 
 --- 📺 𝙉𝘽𝘼 | 𝙋𝙊𝙆𝙀𝙍 | 𝘽𝙊𝐱 🇺🇸 
 
-#EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Sports Live 🏆",NBA Live 🇺🇸
+#EXTINF:-1 cuid="6759" tvg-chno="728" tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://logo.iptveditor.com/nflredzone.png" group-title="Sports Live 🏆",NFL RedZone 🇺🇸
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium667/index.m3u8
+
+#EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Sports Live 🏆",Live Events
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium9/index.m3u8
+
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="4Sports" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Sports Live 🏆",4Sports Live Events 🏍🏎️⚽️
+https://hls.pokertvfa.live/hls/stream.m3u8
+
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Sports Live 🏆",NBA 🇺🇸
 http://gzcdn.vood.top:80/hls/254078_.m3u8
 #EXTINF:-1 cuid="982" tvg-chno="982" tvg-name="NBA" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Sports Live 🏆",NBA 🇺🇸
@@ -2355,15 +2363,6 @@ http://45.184.87.142:8000/play/a045
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 #EXTVLCOPT:network-caching=1000
 https://xyzdddd.mizhls.ru/lb/premium375/index.m3u8
-
-#EXTINF:-1 cuid="6759" tvg-chno="728" tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://logo.iptveditor.com/nflredzone.png" group-title="Sports Live 🏆",NFL RedZone 🇺🇸
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium667/index.m3u8
-
-#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="4Sports Lives Events 🇺🇸" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Sports Live 🏆",4Sports Live Events 🏍🏎️⚽️
-https://hls.pokertvfa.live/hls/stream.m3u8
 
 --- 𝙋𝙍𝙀𝙈𝙞𝙀𝙍 𝙇𝙀𝘼𝙜𝙐𝙀 ▎ 𝙇𝘼 𝙇𝙞𝙜𝘼
 
@@ -2774,9 +2773,9 @@ http://lunar.pm:8080//live/KAY/mZMsckmeyH/116993.ts
 #EXTINF:-1 cuid="1243" tvg-chno="1241" tvg-name="NOW ROCK 🇬🇧" tvg-id="6568a78d635c3c0008765f41" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NowRock.webp" group-title="Music 🎧",NOW ROCK 🇬🇧
 https://bit.ly/3B1M54o?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 cuid="1243" tvg-chno="1241" tvg-id="MTVClassic.uk" tvg-name="" tvg-logo="https://logo.iptveditor.com/mtvclassic.png"  group-title="Music 🎧",MTV Classic 🇺🇸 
+#EXTINF:-1 cuid="1243" tvg-chno="1241" tvg-id="MTV.Classic.-.East.us" tvg-name="" tvg-logo="https://logo.iptveditor.com/mtvclassic.png"  group-title="Music 🎧",MTV Classic 🇺🇸 
 http://tkosportz.live:25461//live/swilder2023/6063815781/46110.ts
-#EXTINF:-1 cuid="1243" tvg-chno="1241" tvg-id="MTVClassic.uk" tvg-name="" tvg-logo="https://logo.iptveditor.com/mtvclassic.png"  group-title="Music 🎧",MTV Classic 🇺🇸 
+#EXTINF:-1 cuid="1243" tvg-chno="1241" tvg-id="MTV.Classic.-.East.us" tvg-name="" tvg-logo="https://logo.iptveditor.com/mtvclassic.png"  group-title="Music 🎧",MTV Classic 🇺🇸 
 https://6oclock.xyz:8443/Tyrone43147/My3boys/28271
 
 #EXTINF:-1 cuid="1244" tvg-chno="1242" tvg-name="MTV Classic 🇬🇧" tvg-id="66a11a21a79dea0008aa90ca" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-title="Music 🎧",MTV Classic 🇬🇧
@@ -2812,7 +2811,7 @@ http://181.78.105.146:6060/play/a03n/index.m3u8
 #EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MTV%20Live%20HD.webp" group-title="Music 🎧",MTV Live
 http://stream01.vnet.am/Channel_117/mono.m3u8
 
-#EXTINF:-1 cuid="1247" tvg-chno="1245" tvg-name="MTV 🇲🇽" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MTV.webp" group-title="Music 🎧",MTV 🇫🇷
+#EXTINF:-1 cuid="1247" tvg-chno="1245" tvg-name="MTV" tvg-id="MTV.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MTV.webp" group-title="Music 🎧",MTV 🇫🇷
 http://99.27.51.147:8080/MTV/index.m3u8
 
 #EXTINF:-1 cuid="1250" tvg-chno="1248" tvg-name="MTV Unplugged" tvg-id="5f98471110cca20007d39f76" tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" group-title="Music 🎧",MTV Unplugged
@@ -2850,7 +2849,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u
 #EXTINF:-1 cuid="1256" tvg-chno="1254" tvg-name="XITE" tvg-id="ATBA22000070N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Xitelogo.jpg" group-title="Music 🎧",XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="1262" tvg-chno="1260" tvg-name="XITE Hits" tvg-id="ATBA22000070N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Xitelogo.jpg" group-title="Music 🎧",XITE Hits
+#EXTINF:-1 cuid="1262" tvg-chno="1260" tvg-name="XITE Hits" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="Music 🎧",XITE Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="1267" tvg-chno="1265" tvg-name="Vevo Pop" tvg-id="CABC52000180Z" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/vevo.webp" group-title="Music 🎧",Vevo Pop
