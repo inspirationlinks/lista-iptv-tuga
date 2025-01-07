@@ -1,0 +1,33 @@
+name: daily-iptv-regenerate
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # runs every midnight
+
+# on:
+#   push:
+#     branches:
+#       - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2
+      - name: setup deno
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y unzip
+          wget https://github.com/denoland/deno/releases/download/v1.23.3/deno-x86_64-unknown-linux-gnu.zip
+          unzip deno-x86_64-unknown-linux-gnu.zip
+          sudo mv deno /usr/local/bin
+      - name: re-generate Freetv.m3u
+        run: |
+          deno run --allow-all generate.ts
+      - name: commit files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: auto regen
+          
