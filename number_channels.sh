@@ -2,7 +2,7 @@
 
 # Get the input and output filenames from the script arguments
 input_file="Freetv.m3u"
-output_file="Freetv.m3u"
+output_file="Freetv.txt"
 
 # Create an empty output file
 touch $output_file
