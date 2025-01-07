@@ -128,7 +128,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 cuid="28" tvg-chno="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="Portugal 🇵🇹",CNN Portugal 🇵🇹
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjUgODozOTo1NCBQTSZoYXNoX3ZhbHVlPW1RSUtyUmhXREFaTVB5bUc2YWRwSUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMDFkZDQ5Zi0zNGQ4LTQ1MDEtODFjNS1iOTAwNTg3OTZlNzM=/
 
-
 #EXTINF:-1 cuid="29" tvg-chno="29" tvg-name="V+ TVI 🇵🇹" tvg-id="V+TVI.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp" group-title="Portugal 🇵🇹",V+ TVI 🇵🇹
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
 #EXTINF:-1 cuid="30" tvg-chno="30" tvg-name="V+ TVI 🇵🇹" tvg-id="V+TVI.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp" group-title="Portugal 🇵🇹",V+ TVI 🇵🇹
@@ -357,7 +356,7 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="El Pais 🇪🇸" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="World News 🌍",El Pais 🇪🇸
 https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="" tvg-id="ESBD3400001AA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="World News 🌍",Negócios tv 🇪🇸
+#EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="" tvg-id="ESBD3400001AA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20241022T050601SQUARE.png" group-title="World News 🌍",Negócios tv 🇪🇸
 https://negociostv-negociostv-samsunges.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8
 
 #EXTINF:-1 cuid="103" tvg-chno="111" tvg-name="Noticias Telemundo Ahora 🇺🇸🇲🇽" tvg-id="US3000005RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20241014T232258SQUARE.png" group-title="World News 🌍",Noticias Telemundo Ahora 🇺🇸🇲🇽
@@ -1766,8 +1765,11 @@ https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
 
 --- 📺 𝙐𝙎𝘼 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇺🇸🇨🇦
 
-#EXTINF:-1 cuid="527" tvg-chno="527" tvg-name="NBC ei 🇺🇸 🏎️" tvg-id="Cinebox.Dummy.us" tvg-logo="https://www.nbc.com/generetic/generated/images/4fac8d8aaa7d8798a512dac0322d8d14.png" group-title="USA 🇺🇸",NBC ei 🇺🇸 🏎️
+#EXTINF:-1 cuid="527" tvg-chno="527" tvg-name="NBC ei 🇺🇸 🏎️" tvg-id="Cinebox.Dummy.us" tvg-logo="https://www.nbc.com/generetic/generated/images/4fac8d8aaa7d8798a512dac0322d8d14.png" group-title="USA 🇺🇸",NBC ei 🇺🇸
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+
+#EXTINF:-1 tvg-name="5 StarMax"tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://logo.iptveditor.com/5starmax.png" group-title="USA 🇺🇸",5 StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1 CUID="28640" tvg-chno="492" tvg-name="Crave 1 🇨🇦" tvg-ID="Crave1.-.East.ca" tvg-logo="https://www.crave.ca/static/logos/craveLogo.png" group-title="USA 🇺🇸",Crave 1 🇨🇦
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZYHiwynkKKb4RaSlbRDraBEy_kV7RfrJptblDoCifiGS/ts
@@ -2029,11 +2031,9 @@ https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1 cuid="602" tvg-chno="602" tvg-name="Rai 1 🇮🇹" tvg-id="Rai1.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp" group-title="Italia 🇮🇹",Rai 1 🇮🇹
 http://46.232.186.35:35001/play/a05a
 #EXTINF:-1 cuid="603" tvg-chno="603" tvg-name="Rai 1 🇮🇹" tvg-id="Rai1.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp" group-title="Italia 🇮🇹",Rai 1 🇮🇹
-http://45.65.112.49:8000/play/a078
-#EXTINF:-1 cuid="603" tvg-chno="603" tvg-name="Rai 1 🇮🇹" tvg-id="Rai1.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp" group-title="Italia 🇮🇹",Rai 1 🇮🇹
 http://188.60.179.180:8000/play/xxRai1xx
 #EXTINF:-1 cuid="604" tvg-chno="604" tvg-name="Rai 1 🇮🇹" tvg-id="Rai1.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp" group-title="Italia 🇮🇹",Rai 1 🇮🇹
-http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/1.m3u8
+http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/1.ts
 
 #EXTINF:-1 cuid="605" tvg-chno="605" tvg-name="Rai 2 🇮🇹" tvg-id="Rai2.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp" group-title="Italia 🇮🇹",Rai 2 🇮🇹
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
@@ -2447,6 +2447,12 @@ https://xyzdddd.mizhls.ru/lb/premium393/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium453/index.m3u8
 
+#EXTINF:-1 tvg-id="135" tvg-name="Sport Klub" tvg-id="SK1.ba" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/pavwzb1604073102.png" group-title="Sports Live 🏆",Sport Klub 2 🇧🇦
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub1%5BSerbia%5D
+
 #EXTINF:-1 tvg-id="135" tvg-name="Sport Klub 2" tvg-id="SK2.ba" tvg-logo="https://logo.iptveditor.com/exyusportklub2.png" group-title="Sports Live 🏆",Sport Klub 2 🇧🇦
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -2458,6 +2464,11 @@ https://xyzdddd.mizhls.ru/lb/premium102/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium103/index.m3u8
+#EXTINF:-1 tvg-id="135" tvg-name="Sport Klub 3" tvg-id="SK3.ba" tvg-logo="https://logo.iptveditor.com/exyusportklub3.png" group-title="Sports Live 🏆",Sport Klub 3 🇧🇦
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub3%5BSerbia%5D
 
 #EXTINF:-1 tvg-id="135" tvg-name="COSMOTE.Sport.1" tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://logo.iptveditor.com/cosmotesport1.png" group-title="Sports Live 🏆",Cosmote Sport 1 🇬🇷
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
@@ -2470,6 +2481,11 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="TSN 1 🇨🇦" tvg-id="TSN1.ca" tvg-logo="https://logo.iptveditor.com/tsn.png" group-title="Sports Live 🏆",TSN 1 🇨🇦
 http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="TSN 1 🇨🇦" tvg-id="TSN1.ca" tvg-logo="https://logo.iptveditor.com/tsn.png" group-title="Sports Live 🏆",TSN 1 🇨🇦
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN1%5BCanada%5D
 
 #EXTINF:-1 cuid="990" tvg-chno="990" tvg-name="TSN 2 🇨🇦" tvg-id="TSN2.ca" tvg-logo="https://logo.iptveditor.com/tsn.png" group-title="Sports Live 🏆",TSN 2 🇨🇦
 http://212.102.60.231/TSN_2/index.m3u8
