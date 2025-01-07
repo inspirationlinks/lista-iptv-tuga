@@ -2484,6 +2484,9 @@ http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 cuid="993" tvg-chno="993" tvg-name="TSN 5 🇨🇦" tvg-id="TSN5.ca" tvg-logo="https://logo.iptveditor.com/tsn.png" group-title="Sports Live 🏆",TSN 5 🇨🇦
 http://212.102.60.231/TSN_5/index.m3u8
 
+#EXTINF:-1 cuid="1013" tvg-chno="1013" tvg-name="Spotv 🇲🇾🇺🇸 🏍" tvg-id="SPOTV.my" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/SPOTV.webp" group-title="Sports Live 🏆",Spotv 🇲🇾🇺🇸 🏍
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
 --- 𝙁𝙍𝘼𝙉𝘾𝙀 𝙎𝙋𝙊𝙍𝙏𝙎 🇫🇷
 
 #EXTINF:-1 cuid="1014" tvg-chno="1014" tvg-name="Sport en France 🇫🇷" tvg-id="Sport.en.France.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="Sports Live 🏆",Sport en France 🇫🇷
@@ -2505,9 +2508,6 @@ https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 cuid="1018" tvg-chno="1018" tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="FRBC4200005X2" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/LEquipeLive2.webp" group-title="Sports Live 🏆",L'Equipe Live 2 🇫🇷
 https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 
-#EXTINF:-1 cuid="1017" tvg-chno="1017" tvg-id="Sports.Connect.distro" tvg-logo="https://i.imgur.com/CZ2wQig.png" group-title="Sports Live 🏆",Sports Connect 🐴
-https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
-
 #EXTINF:-1 cuid="1019" tvg-chno="1019" tvg-name="Équidia 🇫🇷" tvg-id="" tvg-logo="https://logo.iptveditor.com/equidialive.png" group-title="Sports Live 🏆",ER1 🇫🇷 🐴
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing1.m3u8
 
@@ -2523,18 +2523,10 @@ http://tkosportz.live:25461//live/swilder2023/6063815781/105962.ts
 #EXTINF:-1 cuid="1154" tvg-chno="1154" tvg-name="Racing" tvg-id="Racingcom.au" tvg-logo="https://www.racing.com/resources/Racing/img/favicon/hub/apple-touch-icon-144x144.png" group-title="Sports Live 🏆",Racing 🇺🇸 🐴
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
-#EXTINF:-1 cuid="1013" tvg-chno="1013" tvg-name="Spotv 🇲🇾🇺🇸 🏍" tvg-id="SPOTV.my" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/SPOTV.webp" group-title="Sports Live 🏆",Spotv 🇲🇾🇺🇸 🏍
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+--- 𝘾𝘼𝙉𝘼𝙞𝙎 𝙇𝙀𝙎𝙏𝙀 𝙀𝙐𝙍𝙊
 
 #EXTINF:-1 cuid="996" tvg-chno="996" tvg-name="Ten Sports 🇮🇳🇺🇸" tvg-id="Sony.Sports.Ten.1.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png" group-title="Sports Live 🏆",Ten Sports 🇮🇳🇺🇸 🥊
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
---- 𝘾𝘼𝙉𝘼𝙞𝙎 𝙇𝙀𝙎𝙏𝙀 𝙀𝙐𝙍𝙊
-
-#EXTINF:-1 cuid="1002" tvg-chno="1002" tvg-name="V Sport Vinter 🇸🇪" tvg-id="V.Sport.Vinter.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Sports Live 🏆",V Sport Vinter 🇸🇪
-http://62.210.211.188:2095/play/a00q
-#EXTINF:-1 cuid="1004" tvg-chno="1004" tvg-name="V Sport 1 🇸🇪" tvg-id="V.Sport.Premium.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Sports Live 🏆",V Sport Premier League 🇸🇪
-http://62.210.211.188:2095/play/a002
 
 #EXTINF:-1 cuid="1028" tvg-chno="1028" tvg-name="Матч! Футбол 1 🇷🇺" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-title="Sports Live 🏆",Матч! Футбол 1 🇷🇺
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
