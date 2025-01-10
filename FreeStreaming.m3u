@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/epgnz"
+#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/Brazilepg,https://bit.ly/All_FreeStreaming"
 
 
 # (🇬🇧) -  It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, Rakuten, etc...)
@@ -103,6 +103,19 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 #EXTINF:-1 cuid="1077" tvg-chno="1077" tvg-name="" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240520T212951SQUARE.png" group-title="Sports Free 🏀⚾🏈",Zona TUDN 🇲🇽
 https://is.gd/BUqSed?USBD1700016X9.m3u8
+
+#EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="" tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/OHSQUeln9PTvbg==/033a7701-c6ef-42be-a66e-b517d36a83e1/CHgQeDoFMS4xLjJAAQ==" group-title="Sports Free 🏀⚾🏈",Fanduel tv Extra 🇺🇸
+https://apollo.production-public.tubi.io/live/fanduel.m3u8
+
+#EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="" tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/M21SbPNaRf7XiQ==/7d258341-afc7-4022-acd4-ce330c6db573/CHgQeDoFMS4xLjJAAQ==" group-title="Sports Free 🏀⚾🏈",NBA Fast Channel (vᴘɴ 🇺🇸)
+https://apollo.production-public.tubi.io/live/nba-xveaQ4.m3u8
+#EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="" tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/M21SbPNaRf7XiQ==/7d258341-afc7-4022-acd4-ce330c6db573/CHgQeDoFMS4xLjJAAQ==" group-title="Sports Free 🏀⚾🏈",NBA Fast Channel (vᴘɴ 🇺🇸)
+https://live-manifest.production-public.tubi.io/live/9309d123-2269-421c-b789-9512f1387a73/playlist.m3u8
+
+#EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="" tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/ZwZnn6E_ZevNWQ==/ece47be9-0d12-47d3-a818-12be0f5a80a5/CHgQeDoFMS4xLjJAAQ==" group-title="Sports Free 🏀⚾🏈",NBA G League (vᴘɴ 🇺🇸)
+https://live-manifest.production-public.tubi.io/live/6b792a90-6adb-45aa-b4b4-aa6ea4f31d9a/playlist.m3u8
+#EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="" tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/ZwZnn6E_ZevNWQ==/ece47be9-0d12-47d3-a818-12be0f5a80a5/CHgQeDoFMS4xLjJAAQ==" group-title="Sports Free 🏀⚾🏈",NBA G League (vᴘɴ 🇺🇸)
+https://apollo.production-public.tubi.io/live/nba-g-league.m3u8
 
 #EXTINF:-1 cuid="1097" tvg-chno="1097" tvg-name="Fox Sports" tvg-id="US2700001QY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="Sports Free 🏀⚾🏈",Fox Sports 🇺🇸
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
@@ -505,6 +518,8 @@ https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="1184" tvg-chno="1184" tvg-name="Dazn Ringside 🇺🇸" tvg-id="65b14aae0cb1a100087a216e" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" group-title="Combat 🥊",DAZN Ringside 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/65b14aae0cb1a100087a216e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c6d80ad9-6948-11ef-a12a-067b07706ed1
+#EXTINF:-1 cuid="1184" tvg-chno="1184" tvg-name="Dazn Ringside 🇺🇸" tvg-id="65b14aae0cb1a100087a216e" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" group-title="Combat 🥊",DAZN Ringside 🇺🇸
+https://live-manifest.production-public.tubi.io/live/656fc320-a76f-4be3-9b0d-50bc42fa59dd/playlist.m3u8
 
 #EXTINF:-1 cuid="1185" tvg-chno="1185" tvg-name="Dazn Combat 🇺🇸" tvg-id="64df7a9a44fe100009b6ac5a" tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png" group-title="Combat 🥊",DAZN Combat 🇺🇸
 https://is.gd/nWkt1L?64df7a9a44fe100009b6ac5a.m3u8
@@ -1279,10 +1294,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a9b20f0c7ff50008d3a
 #EXTINF:-1 cuid="815" tvg-chno="815" tvg-name="Cinevault 80s 🇺🇸" tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240730T222508SQUARE.png" group-title="Western ✬ Classics Tv 📽️",Cinevault 80s 🇺🇸
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 
-#EXTINF:-1 cuid="816" tvg-chno="816" tvg-name="Cinevault Classics 🇺🇸" tvg-id="USBB3200015M8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20240730T222520SQUARE.png" group-title="Western ✬ Classics Tv 📽️",Cinevault Classics 🇺🇸
+#EXTINF:-1 cuid="816" tvg-chno="816" tvg-name="Cinevault Classics 🇺🇸" tvg-id="USBB3200015M8" tvg-logo="https://canvas-lb.tubitv.com/opts/Skmb-4dsXftLLw==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjJAAQ==" group-title="Western ✬ Classics Tv 📽️",Cinevault Classics 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Classics.m3u8
 
-#EXTINF:-1 cuid="817" tvg-chno="817" tvg-name="Cinevault Westerns 🇺🇸" tvg-id="USAK3508709A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508709A_20240730T222513SQUARE.png" group-title="Western ✬ Classics Tv 📽️",Cinevault Westerns 🇺🇸
+#EXTINF:-1 cuid="817" tvg-chno="817" tvg-name="Cinevault Westerns 🇺🇸" tvg-id="USAK3508709A" tvg-logo="https://canvas-lb.tubitv.com/opts/BSRHayGaLjPoXA==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjVAAQ==" group-title="Western ✬ Classics Tv 📽️",Cinevault Westerns 🇺🇸
 https://gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="818" tvg-chno="818" tvg-name="LoneStar 🇺🇸" tvg-id="UK:.Lone.Star.en" tvg-logo="https://is.gd/noEcbn" group-title="Western ✬ Classics Tv 📽️",LoneStar 🇺🇸
