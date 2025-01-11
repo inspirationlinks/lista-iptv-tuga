@@ -106,7 +106,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #EXTINF:-1 cuid="23" tvg-chno="23" tvg-name="TVI Internacional 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 cuid="24" tvg-chno="24" tvg-name="TVI Internacional 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDI6NDoxMyBBTSZoYXNoX3ZhbHVlPTNwb25wRWlZYkhDYlozNktsc3I0cHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMzViNmNmYS05N2Y5LTRmYmItOWU2ZS0wM2Q5MzU3MzgzZDE=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDQ6NDE6MjggQU0maGFzaF92YWx1ZT1rdW1DeERDS0NGRnVDVGZMSmxJdXlRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzMyMmM4MGYtZGVmNy00YjRlLWEwMTgtNzc0ZDdlZGVlNTY5/
 
 #EXTINF:-1 cuid="25" tvg-chno="25" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="Portugal 🇵🇹",TVI 🇵🇹 
 http://sure.streams.me.uk:25461/live/GQGGcVHZjBpn/HsuYn7hVT93U/23.ts
@@ -115,7 +115,7 @@ https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 #EXTINF:-1 cuid="25" tvg-chno="25" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="Portugal 🇵🇹",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 cuid="26" tvg-chno="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDI6NDoxMSBBTSZoYXNoX3ZhbHVlPTlocHA4cDNrQWRSTjg0OFRxczJIaHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zNjVjZGVhYy1kMWU3LTQ2MmItODg1MS02Y2MzYzMwZDZjODA=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDQ6NDE6MjYgQU0maGFzaF92YWx1ZT1QVTFnaDBxS1JNYms2WXgxRGRqdFh3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2FlMGQ1YzItNzAxNi00MDU3LThhMzAtYzk1NGU2MzBkZWU5/
 
 #EXTINF:-1 cuid="27" tvg-chno="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="Portugal 🇵🇹",CNN Portugal 🇵🇹 
 http://sure.streams.me.uk:25461/live/GQGGcVHZjBpn/HsuYn7hVT93U/25.ts
@@ -124,7 +124,7 @@ https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 cuid="27" tvg-chno="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="Portugal 🇵🇹",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 cuid="28" tvg-chno="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="Portugal 🇵🇹",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDI6NDoxMiBBTSZoYXNoX3ZhbHVlPVFWc1RVMnB1YTlONjlwRkRTTzlVS2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02NzhhMWQ1YS01YjU3LTQ3YTktYTZkNy00YzIzNWFlZDQ3YTE=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDQ6NDE6MjcgQU0maGFzaF92YWx1ZT1rUnVzeUt5M3FoSmFRQXd0bnBLZjJBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmVmNjMwNjQtNzRlZS00OTBhLTkyZjEtM2IwMTA2Nzg4Njk1/
 
 #EXTINF:-1 cuid="29" tvg-chno="29" tvg-name="V+ TVI 🇵🇹" tvg-id="V+TVI.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp" group-title="Portugal 🇵🇹",V+ TVI 🇵🇹
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
