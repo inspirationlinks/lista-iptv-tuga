@@ -38,14 +38,12 @@ https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 cuid="8" tvg-chno="8" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹",RTP 1 🇵🇹
-http://sure.streams.me.uk:25461/live/GQGGcVHZjBpn/HsuYn7hVT93U/19.ts
-#EXTINF:-1 cuid="8" tvg-chno="8" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹",RTP 1 🇵🇹
-https://raw.githubusercontent.com/thomraider12/canaistvpt/refs/heads/main/m3u8s/rtp1.m3u8
+http://fut.curmaresiurat.store:8080//live/muresan.marius/cjendiebekend/72879.ts
 
 #EXTINF:-1 cuid="9" tvg-chno="9" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹",RTP 1 🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://rtp.pt/
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 cuid="10" tvg-chno="10" tvg-name="RTP 2 🇵🇹" tvg-id="RTP.2.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Portugal 🇵🇹",RTP 2 🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -2036,38 +2034,41 @@ http://46.232.186.35:35001/play/a047
 #EXTINF:-1 cuid="600" tvg-chno="600" tvg-name="20Mediaset 🇮🇹" tvg-id="20Mediaset.HD.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/02/11/151429547-4cb308a8-3e57-4a99-9652-b6a19528f5c0@3.png" group-title="Italia 🇮🇹",20Mediaset 🇮🇹
 http://cdn.ottshow.net//live/kanaliURedirect2442/kd0dk39dkyxs0A/68341.ts
 
+#EXTINF:-1 cuid="600" tvg-chno="600" tvg-name="20Mediaset 🇮🇹" tvg-id="Mediaset.Italia.mt" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/02/11/151429547-4cb308a8-3e57-4a99-9652-b6a19528f5c0@3.png" group-title="Italia 🇮🇹",Mediaset Italia 🇮🇹
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+
 #EXTINF:-1 cuid="601" tvg-chno="601" tvg-name="TopCrime 🇮🇹" tvg-id="TOPcrime.HD.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/02/12/110858971-595427e3-a5c9-461b-bda0-70eb5215a664@3.png" group-title="Italia 🇮🇹",TopCrime 🇮🇹
 http://46.232.186.35:35001/play/a02k
 
 #EXTINF:-1 cuid="602" tvg-chno="602" tvg-name="Rai 1 🇮🇹" tvg-id="Rai1.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp" group-title="Italia 🇮🇹",Rai 1 🇮🇹
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:-1 cuid="602" tvg-chno="602" tvg-name="Rai 1 🇮🇹" tvg-id="Rai1.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp" group-title="Italia 🇮🇹",Rai 1 🇮🇹
-http://46.232.186.35:35001/play/a05a
 #EXTINF:-1 cuid="603" tvg-chno="603" tvg-name="Rai 1 🇮🇹" tvg-id="Rai1.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp" group-title="Italia 🇮🇹",Rai 1 🇮🇹
 http://188.60.179.180:8000/play/xxRai1xx
+#EXTINF:-1 cuid="602" tvg-chno="602" tvg-name="Rai 1 🇮🇹" tvg-id="Rai1.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp" group-title="Italia 🇮🇹",Rai 1 🇮🇹
+http://46.232.186.35:35001/play/a05a
 
+#EXTINF:-1 cuid="606" tvg-chno="606" tvg-name="Rai 2 🇮🇹" tvg-id="Rai2.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp" group-title="Italia 🇮🇹",Rai 2 🇮🇹
+http://188.60.179.180:8000/play/xxRai2xx
 #EXTINF:-1 cuid="605" tvg-chno="605" tvg-name="Rai 2 🇮🇹" tvg-id="Rai2.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp" group-title="Italia 🇮🇹",Rai 2 🇮🇹
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:-1 cuid="605" tvg-chno="605" tvg-name="Rai 2 🇮🇹" tvg-id="Rai2.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp" group-title="Italia 🇮🇹",Rai 2 🇮🇹
 http://46.232.186.35:35001/play/a058
-#EXTINF:-1 cuid="606" tvg-chno="606" tvg-name="Rai 2 🇮🇹" tvg-id="Rai2.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp" group-title="Italia 🇮🇹",Rai 2 🇮🇹
-http://45.65.112.49:8000/play/a079
 
 #EXTINF:-1 cuid="607" tvg-chno="607" tvg-name="Rai 3 🇮🇹" tvg-id="Rai3.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp" group-title="Italia 🇮🇹",Rai 3 🇮🇹
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 #EXTINF:-1 cuid="607" tvg-chno="607" tvg-name="Rai 3 🇮🇹" tvg-id="Rai3.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp" group-title="Italia 🇮🇹",Rai 3 🇮🇹
-http://45.65.112.49:8000/play/a07a
+http://188.60.179.180:8000/play/xxRai3xx
 #EXTINF:-1 cuid="608" tvg-chno="608" tvg-name="Rai 3 🇮🇹🇩🇪" tvg-id="Rai3.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai3.webp" group-title="Italia 🇮🇹",Rai 3 🇮🇹🇩🇪
 https://bit.ly/3OyVjNs?profile=inspirationLivetv.m3u8
 
 #EXTINF:-1 cuid="609" tvg-chno="609" tvg-name="Rai 4 🇮🇹" tvg-id="Rai4.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai4.webp" group-title="Italia 🇮🇹",Rai 4 🇮🇹
-http://45.65.112.49:8000/play/a07b
+http://188.60.179.180:8000/play/xxRai4xx
 
 #EXTINF:-1 cuid="610" tvg-chno="610" tvg-name="Rai 5 🇮🇹" tvg-id="Rai5.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai5.webp" group-title="Italia 🇮🇹",Rai 5 🇮🇹
 http://45.65.112.49:8000/play/a0mb
 
 #EXTINF:-1 cuid="611" tvg-chno="611" tvg-name="Rai Storia 🇮🇹" tvg-id="RaiStoria.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiStoria.webp" group-title="Italia 🇮🇹",Rai Storia 🇮🇹
-http://45.65.112.49:8000/play/a0m2
+https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
 
 #EXTINF:-1 cuid="612" tvg-chno="612" tvg-name="RAI Italia" tvg-id="Rai.Italia.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp" group-title="Italia 🇮🇹",RAI Italia 🇮🇹
 http://181.209.114.13:8000/play/a02p/index.m3u8
@@ -2079,14 +2080,19 @@ http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 cuid="613" tvg-chno="613" tvg-name="Rai Movie 🇮🇹" tvg-id="RaiMovie.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiMovie.webp" group-title="Italia 🇮🇹",Rai Movie 🇮🇹
 http://45.65.112.49:8000/play/a07c
 
+#EXTINF:-1 cuid="614" tvg-chno="614" tvg-name="Rai Premium 🇮🇹" tvg-id="RaiPremium.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp" group-title="Italia 🇮🇹",Rai World Premium 🇮🇹
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+
 #EXTINF:-1 cuid="614" tvg-chno="614" tvg-name="Rai Premium 🇮🇹" tvg-id="RaiPremium.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp" group-title="Italia 🇮🇹",Rai Premium 🇮🇹
 http://cdn.ottshow.net//live/kanaliURedirect2442/kd0dk39dkyxs0A/68345.ts
+#EXTINF:-1 cuid="614" tvg-chno="614" tvg-name="Rai Premium 🇮🇹" tvg-id="RaiPremium.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp" group-title="Italia 🇮🇹",Rai Premium 🇮🇹
+http://188.60.179.180:8000/play/a0oy
 
 #EXTINF:-1 cuid="615" tvg-chno="615" tvg-name="Rai Premium 🇮🇹" tvg-id="RaiPremium.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiPremium.webp" group-title="Italia 🇮🇹",Rai Premium 🇮🇹
 http://45.65.112.49:8000/play/a0m6
 
-#EXTINF:-1 cuid="616" tvg-chno="616" tvg-name="Rai Sport 🇮🇹" tvg-id="RaiSport.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp" group-title="Italia 🇮🇹",Rai Sport 🇮🇹
-http://45.65.112.49:8000/play/a0ma
+#EXTINF:-1 cuid="616" tvg-chno="616" tvg-name="Rai Sport 🇮🇹" tvg-id="RAI.Sport.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp" group-title="Italia 🇮🇹",Rai Sport 🇮🇹
+http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
 
 #EXTINF:-1 cuid="617" tvg-chno="617" tvg-name="DMAX 🇮🇹 (vᴘɴ 🇺🇸)" tvg-id="ITBD4400001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400001X5_20231213T033155SQUARE.png_20231213033156.png" group-title="Italia 🇮🇹",DMAX 🇮🇹 (vᴘɴ 🇺🇸)
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -2388,6 +2394,8 @@ http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1442.ts
 http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/94466.ts
 
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-name="SKY F1 🇮🇹" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/skySportF1.webp" group-title="Desportos Premium 🌟",SKY Sport F1 🇬🇧
+http://54.36.162.3/skspf1/index.m3u8
+#EXTINF:-1 cuid="977" tvg-chno="977" tvg-name="SKY F1 🇮🇹" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/skySportF1.webp" group-title="Desportos Premium 🌟",SKY Sport F1 🇬🇧
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2502,6 +2510,8 @@ https://xyzdddd.mizhls.ru/lb/premium557/index.m3u8
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMainEvent%5BUK%5D
 
 #EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkySp.PL.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Desportos Premium 🌟",Sky Sports Premier League 🇬🇧
+http://54.36.162.3/sksppremierleague/index.m3u8
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="SkySp.PL.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Desportos Premium 🌟",Sky Sports Premier League 🇬🇧
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 #EXTVLCOPT:network-caching=1000
@@ -2512,6 +2522,9 @@ https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportPremierLeague%5BSouthAfrica%5D
+
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports Premier League" tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-logo="https://logo.iptveditor.com/supersport.png" group-title="Desportos Premium 🌟",Star Sports Select 1 🇬🇧
+http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports 1 🇬🇧" tvg-ID="TNT.Sports.1.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="Desportos Premium 🌟",TNT Sports 1 🇬🇧
 #EXTVLCOPT:http-referrer=https://topembed.pw/
@@ -2579,7 +2592,6 @@ http://212.102.60.231/TSN_4/index.m3u8
 
 #EXTINF:-1 cuid="993" tvg-chno="993" tvg-name="TSN 5 🇨🇦" tvg-id="TSN5.ca" tvg-logo="https://logo.iptveditor.com/tsn.png" group-title="Desportos Premium 🌟",TSN 5 🇨🇦
 http://212.102.60.231/TSN_5/index.m3u8
-
 
 --- 📺 𝙕𝙞𝗚𝗚𝗢 | 𝙎𝙆 | 𝗚𝐑
 
@@ -2676,6 +2688,8 @@ http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
 #EXTINF:-1 cuid="1055" tvg-chno="1049" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORTS.HD.in" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 🇷🇺🇬🇧
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 
+#EXTINF:-1 cuid="1058" tvg-chno="1058" tvg-name="Eurosport 1 🇮🇹" tvg-id="EUROSPORT.1.FRANCE.eurosport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 1 🇫🇷
+http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:-1 cuid="1058" tvg-chno="1058" tvg-name="Eurosport 1 🇮🇹" tvg-id="EUROSPORT.1.ITALY.eurosport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 1 🇮🇹
 http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=403774&extension=ts
 #EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 1 🇪🇸
@@ -2694,6 +2708,8 @@ https://xyzdddd.mizhls.ru/lb/premium41/index.m3u8
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BUK%5D
 #EXTINF:-1 cuid="1049" tvg-chno="1051" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 1 🇬🇧
 http://62.210.123.134:98/live/an75d/75d/144.ts
+#EXTINF:-1 cuid="1049" tvg-chno="1051" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORT.1.GERMANY.eurosport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 1 🇩🇪
+http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/3420
 #EXTINF:-1 cuid="1049" tvg-chno="1051" tvg-name="Eurosport 1 🇬🇧" tvg-id="Eurosport.1.de" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 1 🇩🇪🇬🇧
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZcIAAquza1KNanRtrJIBOqIOhgukzeb9EkuVoQQLKL8g/ts
 #EXTINF:-1 cuid="1051" tvg-chno="1053" tvg-name="Eurosport 1 🇩🇪" tvg-id="Eurosport.1.de" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 1 🇩🇪
@@ -2723,6 +2739,8 @@ https://xyzdddd.mizhls.ru/lb/premium42/index.m3u8
 http://62419-don.ott-cdn.me:80/play/live.php?mac=00:1A:79:7D:2B:67&stream=577984&extension=ts&play_token=cO2jqluIiO&sn2=
 #EXTINF:-1 cuid="1068" tvg-chno="1068" tvg-name="Eurosport 2 🇬🇧" tvg-id="Eurosport.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Eurosport Channels",Eurosport 2 🇬🇧
 http://62.210.123.134:98/live/an75d/75d/145.ts
+#EXTINF:-1 cuid="1065" tvg-chno="1065" tvg-name="Eurosport 2 🇩🇪" tvg-id="EUROSPORT.2.GERMANY.eurosport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Eurosport Channels",Eurosport 2 🇩🇪
+http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/4096
 #EXTINF:-1 cuid="1065" tvg-chno="1065" tvg-name="Eurosport 2 🇩🇪" tvg-id="Eurosport.2.de" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Eurosport Channels",Eurosport 2 🇩🇪
 rtmp://5.182.229.90//7203
 #EXTINF:-1 cuid="1066" tvg-chno="1066" tvg-name="Eurosport 2 🇩🇪" tvg-id="Eurosport.2.de" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Eurosport Channels",Eurosport 2 🇩🇪
@@ -2948,6 +2966,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsunga
 
 #EXTINF:-1 cuid="1252" tvg-chno="1250" tvg-name="Love Songs" tvg-id="619b80acac5329000740c022" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="Music 🎧",Love Songs
 https://bit.ly/3twVIny?profile=inspirationFreetv.m3u8
+
+
+#EXTINF:-1 cuid="1252" tvg-chno="1250" tvg-id="Virgin.Radio.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Music 🎧",Virgin Radio 🇮🇹
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 
 #EXTINF:-1 cuid="1217" tvg-chno="1215" tvg-name="XPTV 1" tvg-logo="https://players.rcast.net/uploads/images/202305/img_x300_646314ac954144-70583156-85346286.png" group-title="Music 🎧",XPTV 1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
