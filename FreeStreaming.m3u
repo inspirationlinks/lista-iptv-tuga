@@ -41,7 +41,7 @@ https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 
 #EXTINF:-1 cuid="934" tvg-chno="934" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="IT600001L6" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Hunting ✬ Fishing 🎣",Italian Fishing TV 🇮🇹
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
-#EXTINF:-1 cuid="935" tvg-chno="935" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="ItalianFishingTV.it" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Hunting ✬ Fishing 🎣",Italian Fishing TV 🇮🇹
+#EXTINF:-1 cuid="935" tvg-chno="935" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="Italian.Fishing.TV.ch" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Hunting ✬ Fishing 🎣",Italian Fishing TV 🇮🇹
 http://45.65.112.49:8000/play/a0nq
 
 #EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Hunting ✬ Fishing 🎣",Fishing 🇺🇸
@@ -583,54 +583,54 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 --- 📺 𝙋𝗲𝙩𝙨 & 𝙇𝙊𝙇 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🐶😂
 
-#EXTINF:-1 cuid="270" tvg-chno="278" tvg-name="AKC Dogs tv 🇺🇸" tvg-id="plex.tv.AKC.tv.plex" tvg-logo="https://web.akctvcontrol.com/webapp/assets/AKCtv-masthead-wTM-min.png" group-title="Pets ✬ LOL Channels ",AKC Dogs tv 🇺🇸
+#EXTINF:-1 cuid="270" tvg-chno="278" tvg-name="AKC Dogs tv 🇺🇸" tvg-id="plex.tv.AKC.tv.plex" tvg-logo="https://web.akctvcontrol.com/webapp/assets/AKCtv-masthead-wTM-min.png" group-title="Pets ✬ LOL Channels",AKC Dogs tv 🇺🇸
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 
-#EXTINF:-1 cuid="271" tvg-chno="279" tvg-name="Tv + Pet 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png" group-title="Pets ✬ LOL Channels ",Tv + Pet 🇧🇷
+#EXTINF:-1 cuid="271" tvg-chno="279" tvg-name="Tv + Pet 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png" group-title="Pets ✬ LOL Channels",Tv + Pet 🇧🇷
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 cuid="272" tvg-chno="280" tvg-name="Pet Lovers tv 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LovePets.webp" group-title="Pets ✬ LOL Channels ",Pet Lovers tv 🇧🇷
+#EXTINF:-1 cuid="272" tvg-chno="280" tvg-name="Pet Lovers tv 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LovePets.webp" group-title="Pets ✬ LOL Channels",Pet Lovers tv 🇧🇷
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
-#EXTINF:-1 cuid="273" tvg-chno="281" tvg-name="Vivir con Perros 🇪🇸" tvg-id="ESBC3900001G6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20241022T051156SQUARE.png" group-title="Pets ✬ LOL Channels ",Vivir con Perros 🇪🇸
+#EXTINF:-1 cuid="273" tvg-chno="281" tvg-name="Vivir con Perros 🇪🇸" tvg-id="ESBC3900001G6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20241022T051156SQUARE.png" group-title="Pets ✬ LOL Channels",Vivir con Perros 🇪🇸
 https://is.gd/BpRRBK?ESBC3900001G6.m3u8
 
-#EXTINF:-1 cuid="274" tvg-chno="282" tvg-name="Vivir con Gatos 🇪🇸" tvg-id="ESBC3900002L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20241022T051153SQUARE.png" group-title="Pets ✬ LOL Channels ",Vivir con Gatos 🇪🇸
+#EXTINF:-1 cuid="274" tvg-chno="282" tvg-name="Vivir con Gatos 🇪🇸" tvg-id="ESBC3900002L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20241022T051153SQUARE.png" group-title="Pets ✬ LOL Channels",Vivir con Gatos 🇪🇸
 https://is.gd/Q8mVOn?ESBC3900002L8.m3u8
 
-#EXTINF:-1 cuid="275" tvg-chno="283" tvg-name="Love Pets 🇺🇸" tvg-id="UK:.Love.Pets.en" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LovePets.webp" group-title="Pets ✬ LOL Channels ",Love Pets 🇺🇸
+#EXTINF:-1 cuid="275" tvg-chno="283" tvg-name="Love Pets 🇺🇸" tvg-id="UK:.Love.Pets.en" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/LovePets.webp" group-title="Pets ✬ LOL Channels",Love Pets 🇺🇸
 https://bit.ly/3uVGkoY?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 cuid="276" tvg-chno="284" tvg-name="Pet Club tv 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/PetClubtv.webp" group-title="Pets ✬ LOL Channels ",Pet Club tv 🇺🇸
+#EXTINF:-1 cuid="276" tvg-chno="284" tvg-name="Pet Club tv 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/PetClubtv.webp" group-title="Pets ✬ LOL Channels",Pet Club tv 🇺🇸
 https://lightning-petclub-xiaomi.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="277" tvg-chno="285" tvg-name="Barktv 🇺🇸" tvg-id="BarkTV.distro" tvg-logo="https://streamstak.com/barktv/wp-content/uploads/sites/55/2024/04/barktv_logo.png" group-title="Pets ✬ LOL Channels ",Barktv 🇺🇸
+#EXTINF:-1 cuid="277" tvg-chno="285" tvg-name="Barktv 🇺🇸" tvg-id="BarkTV.distro" tvg-logo="https://streamstak.com/barktv/wp-content/uploads/sites/55/2024/04/barktv_logo.png" group-title="Pets ✬ LOL Channels",Barktv 🇺🇸
 https://bit.ly/41putuh?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 cuid="278" tvg-chno="286" tvg-name="Lucky Dog 🇺🇸" tvg-id="USBA3000044BJ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/87/USBA3000044BJ_20210525T051454.png" group-title="Pets ✬ LOL Channels ",Lucky Dog 🇺🇸
+#EXTINF:-1 cuid="278" tvg-chno="286" tvg-name="Lucky Dog 🇺🇸" tvg-id="USBA3000044BJ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/87/USBA3000044BJ_20210525T051454.png" group-title="Pets ✬ LOL Channels",Lucky Dog 🇺🇸
 https://is.gd/ipgdro?USBA3000044BJ.m3u8
 
-#EXTINF:-1 cuid="279" tvg-chno="287" tvg-name="Dog Whisperer 🇺🇸" tvg-id="60e453641239a700071f53a1" tvg-logo="https://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png" group-title="Pets ✬ LOL Channels ",Dog Whisperer 🇺🇸
+#EXTINF:-1 cuid="279" tvg-chno="287" tvg-name="Dog Whisperer 🇺🇸" tvg-id="60e453641239a700071f53a1" tvg-logo="https://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png" group-title="Pets ✬ LOL Channels",Dog Whisperer 🇺🇸
 https://bit.ly/39hYnuP?profile=60e453641239a700071f53a1.m3u8
 
-#EXTINF:-1 cuid="280" tvg-chno="288" tvg-name="Dogs 24/7 🇺🇸" tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets ✬ LOL Channels ",Dogs 24/7 🇺🇸
+#EXTINF:-1 cuid="280" tvg-chno="288" tvg-name="Dogs 24/7 🇺🇸" tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets ✬ LOL Channels",Dogs 24/7 🇺🇸
 https://bit.ly/dogs24-7?profile=5b329e0a7b9d8872aeb49ceb.m3u8
 
-#EXTINF:-1 cuid="281" tvg-chno="289" tvg-name="Cats 24/7 🇺🇸" tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets ✬ LOL Channels ",Cats 24/7 🇺🇸
+#EXTINF:-1 cuid="281" tvg-chno="289" tvg-name="Cats 24/7 🇺🇸" tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets ✬ LOL Channels",Cats 24/7 🇺🇸
 https://bit.ly/Cats24-7?profile=599375885ceaac3cabccbed7.m3u8
 
 --- 📺 𝙇𝙊𝙇 😂😂
 
-#EXTINF:-1 cuid="282" tvg-chno="290" tvg-name="Tales From the Clip't 🇺🇸" tvg-id="LOL.distro" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="Pets ✬ LOL Channels ",Tales From the Clip't 🇺🇸
+#EXTINF:-1 cuid="282" tvg-chno="290" tvg-name="Tales From the Clip't 🇺🇸" tvg-id="LOL.distro" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="Pets ✬ LOL Channels",Tales From the Clip't 🇺🇸
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8
 
-#EXTINF:-1 cuid="283" tvg-chno="291" tvg-name="FailArmy Internacional 🇺🇸" tvg-id="UK:.Fail.Army.en" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="Pets ✬ LOL Channels ",FailArmy Internacional 🇺🇸
+#EXTINF:-1 cuid="283" tvg-chno="291" tvg-name="FailArmy Internacional 🇺🇸" tvg-id="UK:.Fail.Army.en" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="Pets ✬ LOL Channels",FailArmy Internacional 🇺🇸
 https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="284" tvg-chno="292" tvg-name="FailArmy 🇺🇸" tvg-id="554158e864526b29254ff105" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Pets ✬ LOL Channels ",FailArmy 🇺🇸
+#EXTINF:-1 cuid="284" tvg-chno="292" tvg-name="FailArmy 🇺🇸" tvg-id="554158e864526b29254ff105" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Pets ✬ LOL Channels",FailArmy 🇺🇸
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
-#EXTINF:-1 cuid="285" tvg-chno="293" tvg-name="The Pet Collective 🇺🇸🇲🇽" tvg-id="USAJ3504704A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20240520T214709SQUARE.png" group-title="Pets ✬ LOL Channels ",The Pet Collective 🇺🇸🇲🇽
+#EXTINF:-1 cuid="285" tvg-chno="293" tvg-name="The Pet Collective 🇺🇸🇲🇽" tvg-id="USAJ3504704A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20240520T214709SQUARE.png" group-title="Pets ✬ LOL Channels",The Pet Collective 🇺🇸🇲🇽
 https://bit.ly/3sYLlrg?profile=inspirationFreetv.m3u8
 
 --- 📺 𝘼𝙣𝙞𝙢𝙖𝙡𝙨 & 𝙉𝙖𝙩𝙪𝙧𝙚 🐘 🐅 
@@ -1409,12 +1409,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
 --- 📺  𝙋𝙖𝙧𝙖𝙣𝙤𝙧𝙢𝙖𝙡 𝙏𝙫 👽  
-
-#EXTINF:-1 cuid="850" tvg-chno="850" tvg-name="Assombrações 🇧🇷" tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Paranormal 👽",Assombrações 🇧🇷
-https://is.gd/Mq5Ocd?620d1512c7986a0007220213.m3u8
-
-#EXTINF:-1 cuid="851" tvg-chno="851" tvg-name="Estado Paranormal 🇧🇷" tvg-id="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="Paranormal 👽",Estado Paranormal 🇧🇷
-https://stitcher.pluto.tv/stitch/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceType=web&servertSideAds=true&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
 
 #EXTINF:-1 cuid="852" tvg-chno="852" tvg-name="Unidentified 🇺🇸" tvg-id="USBB10000047W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20240520T214719SQUARE.png" group-title="Paranormal 👽",Unidentified 🇺🇸
 https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
