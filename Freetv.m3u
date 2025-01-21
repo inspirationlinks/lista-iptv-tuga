@@ -166,35 +166,6 @@ https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/64158
 #EXTINF:-1 cuid="40" tvg-chno="40" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://pt.euronews.com/favicon-192x192.png" group-title="Portugal 🇵🇹",Euronews 🇵🇹
 https://bit.ly/46RyCcU?profile=inspirationFreetv.m3u8
 
---- 📺 𝙑𝙞𝘿𝙀𝙊 𝘾𝙇𝙐𝘽 
-
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="VideoClube 🇵🇹",HBO Go₂₄.₇ 🇵🇹🇧🇷
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028884&extension=ts&play_token=0MCBqIkDU1&sn2=
-
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="VideoClube 🇵🇹",Netflix Channel₂₄.₇ 🇵🇹🇧🇷
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028886&extension=ts&play_token=zGNoAGtoi1&sn2=
-
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="VideoClube 🇵🇹",Amazon Prime Video₂₄.₇ 🇵🇹🇧🇷
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028888&extension=ts&play_token=sFLkSehTKl&sn2=
-
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="VideoClube 🇵🇹",The Horror Channel₂₄.₇ 🇵🇹🇧🇷
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028889&extension=ts&play_token=C24OQmsYiI&sn2=
-
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="VideoClube 🇵🇹",Action Movies₂₄.₇ 🇵🇹🇧🇷
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028871&extension=ts&play_token=2n5MLvzlFP&sn2=
-
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="VideoClube 🇵🇹",Science Fiction₂₄.₇ 🇵🇹🇧🇷
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028882&extension=ts&play_token=h1AvBzaeLZ&sn2=
-
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="VideoClube 🇵🇹",Films Comédia₂₄.₇ 🇵🇹🇧🇷
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028876&extension=ts&play_token=IrGsNSeT8x&sn2=
-
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="VideoClube 🇵🇹",Animação₂₄.₇ 🇵🇹🇧🇷
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028872&extension=ts&play_token=1si5QhwOiM&sn2=
-
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="VideoClube 🇵🇹",Disney+₂₄.₇ 🇵🇹🇧🇷
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028878&extension=ts&play_token=x2822RuOvP&sn2=
-
 --- 📺 𝘼𝙇𝙏𝙀𝙍𝙉𝘼𝙏𝙞𝙑𝘼 🇵🇹
 
 #EXTINF:-1 cuid="72" tvg-chno="72" tvg-name="DarkFlix (cc 🇧🇷)" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/DARK_FLIX_-_logo_-_soul_reduzido_1EoBqbu.png" group-title="Portugal 🇵🇹",DarkFlix (cc 🇧🇷)
@@ -269,7 +240,9 @@ https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8
 #EXTINF:-1 cuid="687" tvg-chno="687" tvg-name="Conan O'Brien TV" tvg-id="GB300001QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300001QO_20240319T052351SQUARE.png" group-title="Temáticos 💡",Conan O'Brien TVᶠᴴᴰ 🇺🇸
 https://dsvt0yq4k5a5x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkvjbxpwh4s5n/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB300001QO
 
-#EXTINF:-1 cuid="672" tvg-chno="672" tvg-name="MAS CHIC" tvg-id="Canal.Más.Chic.Latinoamérica.ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/mas-chic.png" group-title="Temáticos 💡",MAS CHIC 🇦🇷🇲🇽
+#EXTINF:-1 cuid="672" tvg-chno="672" tvg-name="MAS CHIC" tvg-id="Canal.Más.Chic.Latinoamérica.ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/mas-chic.png" group-title="Temáticos 💡",MAS CHIC 🇦🇷
+http://187.249.112.44:9981/stream/channelid/428525580?profile=pass
+#EXTINF:-1 cuid="672" tvg-chno="672" tvg-name="MAS CHIC" tvg-id="Canal.Más.Chic.Latinoamérica.ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/mas-chic.png" group-title="Temáticos 💡",MAS CHIC 🇦🇷
 http://tkosportz.live:25461//live/swilder2023/6063815781/99377&f=.ts
 
 #EXTINF:-1 cuid="673" tvg-chno="673" tvg-id="Canal.¡HOLA!.TV.mx" tvg-name="¡HOLA! TV 🇪🇸" tvg-logo="https://logo.iptveditor.com/holatv.png" group-title="Temáticos 💡",¡Hola! tvᶠᴴᴰ 🇪🇸 
@@ -1550,16 +1523,16 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 cuid="432" tvg-chno="432" tvg-name="A3Player Equipo Investigacion 🇪🇸" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/atresplayer.webp" group-title="Espanha 🇪🇸",A3Player Equipo Investigacionᶠᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
-#EXTINF:-1 tvg-id="Flooxer.TV" tvg-name="flooxer" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Espanha 🇪🇸",flooxerᶠᴴᴰ 🇪🇸
+#EXTINF:-1 cuid="432" tvg-chno="432" tvg-id="Flooxer.TV" tvg-name="flooxer" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Espanha 🇪🇸",flooxerᶠᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
-#EXTINF:-1 cuid="72" tvg-chno="72" tvg-name="" tvg-id="Hollywood.es" tvg-logo="https://logo.iptveditor.com/canalhollywood.png" group-title="Espanha 🇪🇸",Hollywood 🇪🇸🇬🇧
+#EXTINF:-1 cuid="433" tvg-chno="433" tvg-name="Hollywood" tvg-id="Hollywood.es" tvg-logo="https://logo.iptveditor.com/canalhollywood.png" group-title="Espanha 🇪🇸",Hollywood 🇪🇸🇬🇧
 http://185.189.225.150:85/Hollywood/index.m3u8
 
-#EXTINF:-1 cuid="922" tvg-chno="922" tvg-name="" tvg-id="Odisea.es" tvg-logo="https://logo.iptveditor.com/odisea.png" group-title="Espanha 🇪🇸",Od!seaᶠᴴᴰ 🇪🇸 
+#EXTINF:-1 cuid="434" tvg-chno="434" tvg-name="Odisea" tvg-id="Odisea.es" tvg-logo="https://logo.iptveditor.com/odisea.png" group-title="Espanha 🇪🇸",Odiseaᶠᴴᴰ 🇪🇸 
 http://185.189.225.150:85/odisea/index.m3u8
 
-#EXTINF:-1 cuid="922" tvg-chno="922" tvg-name="" tvg-id="Nat.Geo.Wild.es" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="Espanha 🇪🇸",Nat Geo Wildᴸᴼᵂ 🇪🇸 
+#EXTINF:-1 cuid="435" tvg-chno="435" tvg-name="" tvg-id="Nat.Geo.Wild.es" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="Espanha 🇪🇸",Nat Geo Wildᴸᴼᵂ 🇪🇸 
 http://185.189.225.150:85/natgeowild/index.m3u8
 
 #EXTINF:-1 cuid="440" tvg-chno="440" tvg-name="CGTN Español 🇪🇸" tvg-id="CGTN Español.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/CGTNEspanol.webp" group-title="Espanha 🇪🇸",CGTN Españolᶠᴴᴰ 🇪🇸
@@ -2288,6 +2261,8 @@ https://xyzdddd.hlsjs.ru/lb/premium392/index.m3u8
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium392/index.m3u8
 
+#EXTINF:-1 cuid="495" tvg-chno="495" tvg-name="TNT Novelas 🇲🇽" tvg-id="Canal.TNT.Novelas.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇲🇽
+http://187.249.112.44:9981/stream/channelid/1283072187?profile=pass
 #EXTINF:-1 cuid="495" tvg-chno="495" tvg-name="TNT Novelas 🇲🇽" tvg-id="Canal.TNT.Novelas.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇲🇽
 http://45.184.87.142:8000/play/a02j
 #EXTINF:-1 cuid="496" tvg-chno="496" tvg-name="TNT Novelas 🇲🇽" tvg-id="Canal.TNT.Novelas.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas 🇲🇽
