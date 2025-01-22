@@ -1504,11 +1504,32 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 #EXTINF:-1 cuid="432" tvg-chno="432" tvg-id="Flooxer.TV" tvg-name="flooxer" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Espanha 🇪🇸",flooxerᶠᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="Somos" tvg-id="Somos.es" tvg-logo="https://logo.iptveditor.com/somos.png" group-title="Espanha 🇪🇸",Somos 🇪🇸
+http://185.189.225.150:85/somos/index.m3u8
+
 #EXTINF:-1 cuid="433" tvg-chno="433" tvg-name="Hollywood" tvg-id="Hollywood.es" tvg-logo="https://logo.iptveditor.com/canalhollywood.png" group-title="Espanha 🇪🇸",Hollywood 🇪🇸🇬🇧
 http://185.189.225.150:85/Hollywood/index.m3u8
 
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="AMC" tvg-id="AMC.es" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="Espanha 🇪🇸",AMC 🇪🇸
+http://185.189.225.150:85/AMC/index.m3u8
+
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="AXN" tvg-id="AXN.es" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Espanha 🇪🇸",AXN 🇪🇸
+http://185.189.225.150:85/AXN/index.m3u8
+
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="syfy" tvg-id="SYFY.es" tvg-logo="https://logo.iptveditor.com/osnsyfy.png" group-title="Espanha 🇪🇸",SYFY 🇪🇸
+http://185.189.225.150:85/syfy/index.m3u8
+
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="calle13" tvg-id="Calle 13.es" tvg-logo="https://logo.iptveditor.com/calle13.png" group-title="Espanha 🇪🇸",Calle13 🇪🇸
+http://185.189.225.150:85/calle13/index.m3u8
+
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="Paramount Network" tvg-id="Paramount Network.es" tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="Espanha 🇪🇸",Paramount Network 🇪🇸
+http://185.189.225.150:85/Paramount/index.m3u8
+
 #EXTINF:-1 cuid="434" tvg-chno="434" tvg-name="Odisea" tvg-id="Odisea.es" tvg-logo="https://logo.iptveditor.com/odisea.png" group-title="Espanha 🇪🇸",Odiseaᶠᴴᴰ 🇪🇸 
 http://185.189.225.150:85/odisea/index.m3u8
+
+#EXTINF:-1 cuid="435" tvg-chno="435" tvg-name="National Geographic" tvg-id="National Geographic.es" tvg-logo="https://logo.iptveditor.com/natgeographic.png" group-title="Espanha 🇪🇸",National Geographic 🇪🇸 
+http://185.189.225.150:85/NationalGeographic/index.m3u8
 
 #EXTINF:-1 cuid="435" tvg-chno="435" tvg-name="" tvg-id="Nat.Geo.Wild.es" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="Espanha 🇪🇸",Nat Geo Wildᴸᴼᵂ 🇪🇸 
 http://185.189.225.150:85/natgeowild/index.m3u8
@@ -1554,6 +1575,8 @@ http://176.65.146.224:8401/play/a0ab/index.m3u8
 http://176.65.146.224:8401/play/a0a6/index.m3u8
 
 #EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="Espanha 🇪🇸",fdf 🇪🇸
+http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="Espanha 🇪🇸",fdf 🇪🇸
 https://tvnoov.com/fadoo/fdf.m3u8
 #EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="Espanha 🇪🇸",fdfᶠᴴᴰ 🇪🇸
 http://176.65.146.224:8401/play/a0a9/index.m3u8
@@ -1571,6 +1594,8 @@ http://176.65.146.224:8401/play/a09t/index.m3u8
 #EXTINF:-1 cuid="449" tvg-chno="449" tvg-name="Mega 🇪🇸" tvg-id="Mega.es" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200" group-title="Espanha 🇪🇸",Megaᴸᴼᵂ 🇪🇸
 http://185.189.225.150:85/mega/index.m3u8
 
+#EXTINF:-1 cuid="450" tvg-chno="450" tvg-name="Neox 🇪🇸" tvg-id="Neox.es" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Espanha 🇪🇸",Neox 🇪🇸
+http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 cuid="450" tvg-chno="450" tvg-name="Neox 🇪🇸" tvg-id="Neox.es" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Espanha 🇪🇸",Neoxᶠᴴᴰ 🇪🇸
 http://176.65.146.224:8401/play/a0a7/index.m3u8
 
@@ -3022,7 +3047,7 @@ https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 ---
 
 #EXTINF:-1 cuid="1221" tvg-chno="1219" tvg-id="Nick.Music.(NICM).us" tvg-name="" group-title="Music 🎧" tvg-logo="https://logo.iptveditor.com/nickmusic.png",Nick Music 🇬🇧
-#http://185.236.229.62:9981/play/a064
+http://185.236.229.62:9981/play/a064
 
 #EXTINF:-1 cuid="1222" tvg-chno="1220" tvg-name="Sol Musica 🇪🇸" tvg-id="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="Music 🎧",Sol Musica 🇪🇸
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
@@ -3130,7 +3155,7 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 cuid="1273" tvg-chno="1271" tvg-name="Trace UK" tvg-id="GBBD19000026B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png" group-title="Music 🎧",Trace UK
 https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8
 
-#EXTINF:-1 cuid="1277" tvg-chno="1275" tvg-name="Trace Brasil" tvg-id="Trace.Brazuca.br" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tracebrazuca.webp" group-title="Music 🎧",Trace Brasilᶠᴴᴰ 🇧🇷
+#EXTINF:-1 cuid="1277" tvg-chno="1275" tvg-name="Trace Brasil" tvg-id="TRACEBRAZUCA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tracebrazuca.webp" group-title="Music 🎧",Trace Brasilᶠᴴᴰ 🇧🇷
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
 
 #EXTINF:-1 cuid="1275" tvg-chno="1273" tvg-name="Trace Urban ²" tvg-id="ITBA3300041LY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music 🎧",Trace Urban²ᶠᴴᴰ
