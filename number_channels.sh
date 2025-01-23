@@ -5,13 +5,13 @@ input_file="Freetv.m3u"
 output_file="Freetv.txt"
 
 # Create an empty output file
-: > "$output_file"
+: > "Freetv.txt"
 
 # Variable to store the channel number
 channel_number=1
 
 # Variable to store the output content
-output_content=""
+output_content="t_file="Freetv.txt"
 
 # Iterate through each line in the input file
 while IFS= read -r line; do
