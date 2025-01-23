@@ -11,7 +11,7 @@ output_file="Freetv.txt"
 channel_number=1
 
 # Variable to store the output content
-output_content="t_file="Freetv.txt"
+output_content="Freetv.txt"
 
 # Iterate through each line in the input file
 while IFS= read -r line; do
