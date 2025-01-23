@@ -104,6 +104,9 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 
 --- 📺 𝙏𝙑𝙡
 
+#EXTINF:-1 cuid="23" tvg-chno="23" tvg-name="TVI 🇵🇹" tvg-id="TVI.Internacional.ptt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="Portugal 🇵🇹",TVI Internacionalᶠᴴᴰ 🇵🇹 
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI1IDQ6Nzo2IFBNJmhhc2hfdmFsdWU9Kyt6OGZ5RXdKZVJoQkxuWUpyZnVGdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU2MGMxZWJhLWIzMWMtNGEyNy1iMWRjLWQ4NWYyZjM3OGYzNA==/
+
 #EXTINF:-1 cuid="25" tvg-chno="25" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="Portugal 🇵🇹",TVIᶠᴴᴰ 🇵🇹 
 http://sure.streams.me.uk:25461/live/GQGGcVHZjBpn/HsuYn7hVT93U/23.ts
 #EXTINF:-1 cuid="25" tvg-chno="25" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="Portugal 🇵🇹",TVI 🇵🇹 (𝓑𝙮: thomraider12)
@@ -2551,11 +2554,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNBATV%5BUSA%5D
-
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",NBA 🇺🇸
 http://gzcdn.vood.top:80/hls/254078_.m3u8
-#EXTINF:-1 cuid="982" tvg-chno="982" tvg-name="NBA" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",NBA 🇺🇸
-http://49.0.64.96:8007/NBA
 
 --- 📺 𝙈𝙊𝙏𝙊𝙍𝙎𝙋𝙊𝙍𝙏𝙎 🇬🇧🇪🇸🇮🇹
 
@@ -2872,8 +2872,7 @@ https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium383/index.m3u8
 
-#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.6.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 6 🇳🇱
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", group-title="Ziggo",Ziggo 6 HD
+#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.6.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 6 🇳🇱 🏌️
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
