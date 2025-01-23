@@ -5,20 +5,26 @@ input_file="Freetv.m3u"
 output_file="Freetv.txt"
 
 # Create an empty output file
-touch $output_file
+: > "$output_file"
 
 # Variable to store the channel number
 channel_number=1
 
+# Variable to store the output content
+output_content=""
+
 # Iterate through each line in the input file
-while read line; do
+while IFS= read -r line; do
   # If the line starts with "#EXTINF", it means it is a line describing a channel
   if [[ $line == "#EXTINF"* ]]; then
-    # Append the channel number to the tvg-chno parameter
-    line=$(echo $line | sed "s/tvg-name/tvg-chno=\"$channel_number\" tvg-name/")
+    # Append the channel number to the tvg-chno parameter using bash string manipulation
+    line="${line/tvg-name/tvg-chno=\"$channel_number\" tvg-name}"
     # Increment the channel number by 1
     channel_number=$((channel_number+1))
   fi
-  # Append the line to the output file
-  echo $line >> $output_file
-done < $input_file
+  # Append the line to the output content
+  output_content+="$line"$'\n'
+done < "$input_file"
+
+# Write the output content to the output file
+echo "$output_content" > "$output_file"
