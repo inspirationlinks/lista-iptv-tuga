@@ -195,7 +195,10 @@ https://bit.ly/3uQwRzn?5f1ef1a8cec6be00072a7ac9.m3u8
 https://ythls-v3.onrender.com/channel/UC0R-K3crhMX9jzswbmfIORw.m3u8
 
 #EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="" tvg-id="ZAP.Viva.HD.pt" group-title="Temáticos 💡" tvg-logo="https://logo.iptveditor.com/zapviva.png",Zap Vivaᴸᴼᵂ 🇲🇿🇵🇹
-http://cord-cutter.net:8080/30550113/30550113/164853&f=.ch
+http://cord-cutter.net:8080//live/30550113/30550113/164853&f=.ts
+#EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="" tvg-id="ZAP.Viva.HD.pt" group-title="Temáticos 💡" tvg-logo="https://logo.iptveditor.com/zapviva.png",Zap Vivaᴸᴼᵂ 🇲🇿🇵🇹
+http://oldraindays.net/live/228463308/r576049x/112104&f=.ts
+
 
 #EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="" tvg-id="TCV.Internacional.pt" group-title="Temáticos 💡" tvg-logo="https://logo.iptveditor.com/tcv.png",TCViᴸᴼᵂ 🇦🇴🇵🇹
 http://62419-don.ott-cdn.me:80/play/live.php?mac=00:1A:79:7D:2B:67&stream=311474&extension=ts
@@ -540,9 +543,10 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/l
 
 
 #EXTINF:-1 cuid="143" tvg-chno="151" tvg-name="Disney+ 🇧🇷" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Liga Betclic 🇵🇹 ⚽️",Disney+ 🇧🇷
-http://izcdn.vood.top/hls/232232_.m3u8
+http://izcdn.vood.top/hls/232246_.m3u8
 #EXTINF:-1 cuid="143" tvg-chno="151" tvg-name="Disney+ 🇧🇷" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="Liga Betclic 🇵🇹 ⚽️",Disney+ 🇧🇷
-http://authxplus-2.xyz:2082/live/Xplus-1-tiaIQclyoa/XibmyDxkvK/1276.m3u8
+http://fzcdn.vood.top/hls/232247_.m3u8
+
 
 #EXTINF:-1 cuid="146" tvg-chno="154" tvg-name="ESPN 🇧🇷" tvg-id="ESPN" tvg-logo="https://logo.iptveditor.com/auespn.png" group-title="Liga Betclic 🇵🇹 ⚽️",ESPN 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -596,30 +600,32 @@ https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 cuid="161" tvg-chno="169" tvg-name="ESPN 6 🇧🇷 🥎🏈🏍" tvg-id="ESPN6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="Liga Betclic 🇵🇹 ⚽️",ESPN 6 🇧🇷 🥎🏈🏍
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 
+---
+
 #EXTINF:-1 cuid="163" tvg-chno="171" tvg-name="Goltv 🇺🇸" tvg-id="Gol.TV.USA.us" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp" group-title="Liga Betclic 🇵🇹 ⚽️",Goltv 🇺🇸
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/goltv.m3u8
 
 #EXTINF:-1 cuid="171" tvg-chno="179" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 http://4k4.klmvhn20.com:2082/play/live.php?mac=00:1A:79:C4:2E:77&stream=268016&extension=ts
 #EXTINF:-1 cuid="173" tvg-chno="181" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
-https://live444.xyz/stream/23/index.m3u8
-#EXTINF:-1 cuid="168" tvg-chno="176" tvg-name="SportDigital 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
-http://d1c06d46.akadatel.com/iptv/26TKCRLCUUW9LQ/19026/index.m3u8
+
 
 #EXTINF:-1 cuid="179" tvg-chno="187" tvg-id="Ring.BG.bg" tvg-logo="https://logo.iptveditor.com/ring.png" group-title="Liga Betclic 🇵🇹 ⚽️",Ring HD 🇧🇬
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium471/playlist.m3u8
-#EXTINF:-1 cuid="179" tvg-chno="187" tvg-id="Ring.BG.bg" tvg-logo="https://logo.iptveditor.com/ring.png" group-title="Liga Betclic 🇵🇹 ⚽️",Ring HD 🇧🇬
-http://195.24.90.119:800/play/a0b3
 
+#EXTINF:-1 cuid="179" tvg-chno="187" tvg-name="SSC1 🇸🇦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1024px-Ssc_sports.png" group-title="Liga Betclic 🇵🇹 ⚽️",SSC1 🇸🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 cuid="179" tvg-chno="187" tvg-name="SSC1 🇸🇦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1024px-Ssc_sports.png" group-title="Liga Betclic 🇵🇹 ⚽️",SSC1 🇸🇦
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium2/index.m3u8
-
 #EXTINF:-1 cuid="179" tvg-chno="187" tvg-name="SSC1 🇸🇦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1024px-Ssc_sports.png" group-title="Liga Betclic 🇵🇹 ⚽️",SSC1 🇸🇦
 http://45.139.122.148:8000/play/a00d
 
@@ -693,6 +699,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8a
 
 #EXTINF:-1 cuid="203" tvg-chno="211" tvg-name="De Criança para Criança 🇧🇷" tvg-logo="https://decriancaparacrianca.com.br/wp-content/themes/dcpc/shared/images/logo/de-crianca-para-crianca.png" group-title="Kids 🧒",De Criança para Criança 🇧🇷
 #https://cdn-3.nxplay.com.br/dcpc/index.m3u8
+
+#EXTINF:-1 cuid="248" tvg-chno="256" tvg-name="Toon Goggles 🇪🇸" tvg-id="Toon.Goggles.en.Español.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="Kids 🧒",Toon Goggles 🇧🇷
+https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 
 #EXTINF:-1 cuid="204" tvg-chno="212" tvg-name="Cineminha 🇧🇷" tvg-id="66c8ca1280a0af00085b5b83" tvg-logo="https://images.pluto.tv/channels/66c8ca1280a0af00085b5b83/colorLogoPNG.png" group-title="Kids 🧒",Cineminha 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
@@ -849,10 +858,7 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 https://amg00627-amg00627c27-samsung-au-3944.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanko-samsungau/playlist.m3u8
 
 #EXTINF:-1 cuid="247" tvg-chno="255" tvg-name="Pocoyó 🇪🇸" tvg-id="ES:.Pocoyó.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png" group-title="Kids 🧒",Pocoyó 🇪🇸
-https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qca6wh0s76e45-ssai-prd/fast-channel-pocoyo.m3u8
-
-#EXTINF:-1 cuid="248" tvg-chno="256" tvg-name="Toon Goggles 🇪🇸" tvg-id="Toon.Goggles.en.Español.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="Kids 🧒",Toon Goggles 🇪🇸
-https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
+#https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qca6wh0s76e45-ssai-prd/fast-channel-pocoyo.m3u8
 
 #EXTINF:-1 cuid="249" tvg-chno="257" tvg-name="Pequeradio TV 🇪🇸" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Kids 🧒",Pequeradio TV 🇪🇸
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -1816,8 +1822,6 @@ http://81.137.213.119:4200/bysid/4287
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 #EXTVLCOPT:network-caching=1000
 https://xyzdddd.mizhls.ru/lb/premium358/index.m3u8
-#EXTINF:-1 cuid="521" tvg-chno="521" tvg-name="BBC Three 🇬🇧" tvg-id="BBC.Three.HD.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20Three.webp" group-title="English 🇬🇧",BBC Threeᶠᴴᴰ 🇬🇧
-http://92.114.85.72:8000/play/a0mu
 
 #EXTINF:-1 cuid="521" tvg-chno="521" tvg-name="BBC Three 🇬🇧" tvg-id="BBC.Four.HD.uk" tvg-logo="https://logo.iptveditor.com/bbcfour.png" group-title="English 🇬🇧",BBC Four 🇬🇧
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1880,7 +1884,7 @@ http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/240.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium279/index.m3u8
 
-#EXTINF:-1 tvg-name="5 StarMax"tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://logo.iptveditor.com/5starmax.png" group-title="USA 🇺🇸",5 StarMax
+#EXTINF:-1 tvg-name="5 StarMax"tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://logo.iptveditor.com/5starmax.png" group-title="USA 🇺🇸",5 StarMax 🇺🇸
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime Women (East).us" tvg-name="" tvg-logo="https://logo.iptveditor.com/showtimewomen.png" group-title="USA 🇺🇸",Showtime Women (West) 🇺🇸
@@ -1914,7 +1918,13 @@ http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 cuid="531" tvg-chno="531" tvg-name="TBS East 🇺🇸" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="https://logo.iptveditor.com/vh1.png" group-title="USA 🇺🇸",VH1 🇺🇸
 https://streamer1.nexgen.bz/VH1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 cuid="533" tvg-chno="533" tvg-name="TLC 🇮🇳🇺🇸" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TLC.webp" group-title="USA 🇺🇸",TLC 🇺🇸
+#EXTINF:-1 cuid="533" tvg-chno="533" tvg-name="" tvg-id="HITS.NOW.my" tvg-logo="https://logo.iptveditor.com/hitsnow.png" group-title="USA 🇺🇸",Hits Now 🇺🇸🇲🇾
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd 
+
+#EXTINF:-1 cuid="533" tvg-chno="533" tvg-name="TLC 🇮🇳🇺🇸" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="USA 🇺🇸",TLC 🇺🇸
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://xyzdddd.mizhls.ru/lb/premium337/index.m3u8
@@ -1937,6 +1947,11 @@ https://xyzdddd.mizhls.ru/lb/premium669/index.m3u8
 
 #EXTINF:-1 cuid="537" tvg-chno="537" tvg-name="IDiscovery 🇮🇳🇺🇸" tvg-id="Investigation.Discovery.in" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp" group-title="USA 🇺🇸",IDiscovery 🇺🇸
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZcFKJH42SuelJdL-R5Rlh9Vqr0GIseLRf9lC6Vd5t-3y/ts
+#EXTINF:-1 cuid="537" tvg-chno="537" tvg-name="IDiscovery 🇮🇳🇺🇸" tvg-id="Investigation.Discovery.in" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp" group-title="USA 🇺🇸",IDiscovery 🇺🇸🇲🇾
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #EXTINF:-1 cuid="537" tvg-chno="537" tvg-name="IDiscovery 🇮🇳🇺🇸" tvg-id="Investigation.Discovery.in" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp" group-title="USA 🇺🇸",IDiscovery 🇺🇸
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
@@ -1957,6 +1972,11 @@ https://xyzdddd.mizhls.ru/lb/premium294/index.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://xyzdddd.mizhls.ru/lb/premium304/index.m3u8
+#EXTINF:-1 cuid="918" tvg-chno="918" tvg-name="Animal Planet" tvg-id="Animal.Planet.HD.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA 🇺🇸",Animal Planet HD🇲🇾 🇺🇸
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 ---
 
@@ -1974,21 +1994,17 @@ http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZX9u5NWftkDYj93O6J7ZNhz
 #EXTINF:-1 cuid="28627" tvg-chno="588" tvg-name="Canal+ Cinema" tvg-id="CANAL+.CINEMA.fr" tvg-logo="https://logo.iptveditor.com/canal+cinema.png" group-title="França 🇫🇷",Canal+ Cinema 🇫🇷
 http://line.4smart.in:80/live/TYHZRW6/MF7V7X2/56815.m3u8
 #EXTINF:-1 cuid="28627" tvg-chno="588" tvg-name="" tvg-id="Ciné+.Emotion.fr" tvg-logo="https://logo.iptveditor.com/cineemotion.png" group-title="França 🇫🇷",Cine+ Emotion 🇫🇷
-http://cdn.ottshow.net/kanaliURedirect2442/kd0dk39dkyxs0A/68335
+http://line.4smart.in:80/live/TYHZRW6/MF7V7X2/56811.m3u8
 #EXTINF:-1 cuid="6589" tvg-chno="589" tvg-name="Cine+ Premier 🇫🇷" tvg-id="Ciné+.Premier.fr" tvg-logo="https://logo.iptveditor.com/cinepremier.png" group-title="França 🇫🇷",Cine+ Premier 🇫🇷
 http://line.4smart.in:80/live/TYHZRW6/MF7V7X2/56811.m3u8
 #EXTINF:-1 cuid="6592" tvg-chno="592" tvg-name="Cine+ Frisson 🇫🇷" tvg-id="Ciné+.Frisson.fr" tvg-logo="https://logo.iptveditor.com/cinefrisson.png" group-title="França 🇫🇷",Cine+ Frisson 🇫🇷
 http://line.4smart.in:80/live/TYHZRW6/MF7V7X2/56807.m3u8
 
 #EXTINF:-1 cuid="540" tvg-chno="540" tvg-name="France 2 🇫🇷" tvg-id="France.2.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp" group-title="França 🇫🇷",France 2 🇫🇷
-http://41.205.93.154/FRANCE2/mpegts
-#EXTINF:-1 cuid="540" tvg-chno="540" tvg-name="France 2 🇫🇷" tvg-id="France.2.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp" group-title="França 🇫🇷",France 2 🇫🇷
 http://51.178.65.238/France2/index.m3u8
 #EXTINF:-1 cuid="541" tvg-chno="541" tvg-name="France 2 🇫🇷" tvg-id="France.2.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp" group-title="França 🇫🇷",France 2 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
 
-#EXTINF:-1 cuid="542" tvg-chno="542" tvg-name="France 3 🇫🇷" tvg-id="France.3.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp" group-title="França 🇫🇷",France 3 🇫🇷
-http://41.205.93.154/FRANCE3/mpegts
 #EXTINF:-1 cuid="542" tvg-chno="542" tvg-name="France 3 🇫🇷" tvg-id="France.3.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp" group-title="França 🇫🇷",France 3 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
 #EXTINF:-1 cuid="543" tvg-chno="543" tvg-name="France 3 🇫🇷" tvg-id="France.3.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp" group-title="França 🇫🇷",France 3 🇫🇷
@@ -2196,10 +2212,13 @@ http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=287211&e
 https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
 
 #EXTINF:-1 cuid="612" tvg-chno="612" tvg-name="RAI Italia" tvg-id="Rai.Italia.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp" group-title="Italia 🇮🇹",RAI Italia 🇮🇹
-http://181.209.114.13:8000/play/a02p/index.m3u8
-#EXTINF:-1 cuid="612" tvg-chno="612" tvg-name="RAI Italia" tvg-id="Rai.Italia.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp" group-title="Italia 🇮🇹",RAI Italia 🇮🇹
 http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/428.m3u8
-#EXTINF:-1 cuid="612" tvg-chno="612" tvg-name="RAI Italia" tvg-id="Rai.Italia.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp" group-title="Italia 🇮🇹",RAI Italia 🇮🇹
+#EXTINF:-1 cuid="612" tvg-chno="612" tvg-name="RAI Italia" tvg-id="RAIITALIA.au" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp" group-title="Italia 🇮🇹",RAI Italia Asia 🇮🇹
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875 
+https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd 
+#EXTINF:-1 cuid="612" tvg-chno="612" tvg-name="RAI Italia" tvg-id="RAIITALIA.au" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiItalia.webp" group-title="Italia 🇮🇹",RAI Italia Asia 🇮🇹
 http://49.0.64.96:8007/RAI_Asia
 
 #EXTINF:-1 cuid="613" tvg-chno="613" tvg-name="Rai Movie 🇮🇹" tvg-id="RaiMovie.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiMovie.webp" group-title="Italia 🇮🇹",Rai Movie 🇮🇹
@@ -2524,10 +2543,15 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 https://xyzdddd.mizhls.ru/lb/premium9/index.m3u8
 
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",NBA 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+#EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",NBA 🇺🇸
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNBATV%5BUSA%5D
+
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",NBA 🇺🇸
 http://gzcdn.vood.top:80/hls/254078_.m3u8
 #EXTINF:-1 cuid="982" tvg-chno="982" tvg-name="NBA" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",NBA 🇺🇸
@@ -2685,9 +2709,6 @@ http://line.4smart.in:80/live/TYHZRW6/MF7V7X2/252098.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportPremierLeague%5BSouthAfrica%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="" tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-logo="https://logo.iptveditor.com/starsportsselect1.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Star Sports Select 1 🇬🇧
-http://41.205.93.154/STARSPORTS1/index.m3u8
-
 #EXTINF:-1 cuid="1126" tvg-chno="1126" tvg-name="NBC Golf 🇺🇸" tvg-id="Golf.Channel.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",NBC Golfᶠᴴᴰ 🇺🇸
 http://czcdn.vood.top/hls/237176_.m3u8
 
@@ -2796,8 +2817,19 @@ http://212.102.60.231/TSN_5/index.m3u8
 
 --- 📺 𝙕𝙞𝗚𝗚𝗢 | 𝙎𝙆 | 𝗚𝐑
 
-#EXTINF:-1 cuid="1013" tvg-chno="1013" tvg-name="Spotv 🇲🇾🇺🇸 🏍" tvg-id="SPOTV.my" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/SPOTV.webp" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Spotv 🇲🇾🇺🇸 🏍
+#EXTINF:-1 cuid="1013" tvg-chno="1013" tvg-name="Spotv 🇲🇾🇺🇸 🏍" tvg-id="SPOTV.my" tvg-logo="https://logo.iptveditor.com/spotv.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Spotv 🇲🇾🇺🇸 🏍
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:-1 cuid="1013" tvg-chno="1013" tvg-name="Spotv 🇲🇾🇺🇸 🏍" tvg-id="SPOTV.my" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/SPOTV.webp" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Spotv 🇲🇾🇺🇸 🏍
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#EXTINF:-1 cuid="1013" tvg-chno="1013" tvg-name="Spotv 🇲🇾🇺🇸 🏍" tvg-id="SPOTV2.my" tvg-logo="https://logo.iptveditor.com/spotv2.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Spotv 2 🇲🇾🇺🇸 🏍
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 🇳🇱
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
@@ -2805,13 +2837,49 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium393/index.m3u8
 
-#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 5 🇳🇱
+#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 🇳🇱
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
+
+#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 2 🇳🇱
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
+
+#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.3.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 3 🇳🇱
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436234920010b8800010302000000000000000b.id.cdn.upcbroadband.com/wp/wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd?p=web
+
+#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 4 🇳🇱
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-fhd-avc/NL_000097_019370.mpd?p=web
+
+#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.5.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 5 🇳🇱
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd?p=web
+#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.5.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 5 🇳🇱
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium383/index.m3u8
 
---- SK Sports 🇷🇸
+#EXTINF:-1 cuid="989" tvg-chno="989" tvg-name="" tvg-id="Ziggo.Sport.6.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",Ziggo Sport 6 🇳🇱
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/49a26fb10000640005041fa3/0x0.png", group-title="Ziggo",Ziggo 6 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
+
+--- 𝙎𝙆 Sports 🇷🇸
 
 #EXTINF:-1 tvg-id="135" tvg-name="Sport Klub" tvg-id="SK.HD.ba" tvg-logo="https://logo.iptveditor.com/exyusportklub3.png" group-title="Desportos 𝙞𝙣𝙩'𝙡 ⚽️",SK HD 🇷🇸
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
@@ -2904,6 +2972,11 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 --- 📺  𝙀𝙪𝙧𝙤𝙨𝗽𝙤𝙧𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇪🇸🇵🇱🇬🇧🇳🇱
 
+#EXTINF:-1 cuid="1054" tvg-chno="1048" tvg-name="Eurosport" tvg-id="Eurosport.in" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 🇬🇧🇲🇾
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTINF:-1 cuid="1054" tvg-chno="1048" tvg-name="Eurosport 1 🇬🇧" tvg-id="BRITISH.EUROSPORT.HD.eurosport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 🇷🇺🇬🇧
 http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
 #EXTINF:-1 cuid="1055" tvg-chno="1049" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORTS.HD.in" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosport Channels",Eurosport 🇷🇺🇬🇧
@@ -3195,11 +3268,18 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a11a21a79dea0008aa9
 #EXTINF:-1 cuid="1245" tvg-chno="1243" tvg-name="MTV 80s" tvg-id="MTV.80s.uk" tvg-logo="https://logo.iptveditor.com/mtv80s.png" group-title="Music 🎧",MTV 80'ᴸᴼᵂ 
 http://181.78.105.146:8800/play/a048
 #EXTINF:-1 cuid="1245" tvg-chno="1243" tvg-name="MTV 80s" tvg-id="MTV.80s.uk" tvg-logo="https://logo.iptveditor.com/mtv80s.png" group-title="Music 🎧",MTV 80'ᴸᴼᵂ 
+https://iptv.prosto.tv/id263/video.m3u8
+#EXTINF:-1 cuid="1245" tvg-chno="1243" tvg-name="MTV 80s" tvg-id="MTV.80s.uk" tvg-logo="https://logo.iptveditor.com/mtv80s.png" group-title="Music 🎧",MTV 80'ᴸᴼᵂ 
 http://92.114.85.72:8000/play/a0a3
 
-#EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 90s" tvg-id="MTV.90s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv90s.png" group-title="Music 🎧",MTV 90'ᴸᴼᵂ (Test)
+#EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 90s" tvg-id="MTV.90s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv90s.png" group-title="Music 🎧",MTV 90'ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+#EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 90s" tvg-id="MTV.90s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv90s.png" group-title="Music 🎧",MTV 90'ᴸᴼᵂ
 http://ott.watch/stream/A2Q8BAKW82/88.m3u8
-#EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 90s" tvg-id="MTV.90s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv90s.png" group-title="Music 🎧",MTV 90'ᴸᴼᵂ (Test)
+#EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 90s" tvg-id="MTV.90s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv90s.png" group-title="Music 🎧",MTV 90'ᴸᴼᵂ
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 90s" tvg-id="MTV.90s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv90s.png" group-title="Music 🎧",MTV 90'ᴸᴼᵂ
 http://92.114.85.72:8000/play/a0a2
@@ -3207,9 +3287,11 @@ http://92.114.85.72:8000/play/a0a2
 #EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 00s" tvg-id="MTV.00s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="Music 🎧",MTV 00'
 http://czcdn.vood.top/hls/2511_.m3u8
 #EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 00s" tvg-id="MTV.00s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="Music 🎧",MTV 00'
+https://iptv.prosto.tv/id125/video.m3u8
+#EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 00s" tvg-id="MTV.00s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="Music 🎧",MTV 00'
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/2498
 
-#EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-id="Club.MTV.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtvclub.png" group-title="Music 🎧",MTV Clubᴸᴼᵂ 🇺🇸 (Test)
+#EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-id="Club.MTV.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtvclub.png" group-title="Music 🎧",MTV Clubᴸᴼᵂ 🇺🇸
 https://iptv.prosto.tv/id126/video.m3u8
 #EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-id="Club.MTV.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtvclub.png" group-title="Music 🎧",MTV Clubᴸᴼᵂ 🇺🇸 
 http://live.admuspeh.my/8998/index.m3u8?token=4gPHp5ZVYqDAR4oz
@@ -3217,10 +3299,13 @@ http://live.admuspeh.my/8998/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://logo.iptveditor.com/mtvu.png" group-title="Music 🎧",MTVUᴸᴼᵂ 🇺🇸 
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZQJSs0CE_Mm3zpQF32_Bm0ey2yAeajAz2-3oCjo5fd2c/ts
 
-#EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="Music 🎧",MTV Liveᶠᴴᴰ (Test)
+#EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="Music 🎧",MTV Liveᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+#EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="Music 🎧",MTV Liveᶠᴴᴰ
 http://ott.watch/stream/A2Q8BAKW82/215.m3u8
-#EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="Music 🎧",MTV Liveᴸᴼᵂ 🇺🇸
-http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1193&f=.ts
 #EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="Music 🎧",MTV Live
 http://gzcdn.vood.top/hls/2507_.m3u8
 #EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="Music 🎧",MTV Liveᶠᴴᴰ (Test)
