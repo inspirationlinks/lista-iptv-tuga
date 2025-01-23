@@ -24,7 +24,7 @@ while IFS= read -r line; do
   fi
   # Append the line to the output content
   output_content+="$line"$'\n'
-done < "$input_file"
+done < "Freetv.m3u"
 
 # Write the output content to the output file
-echo "$output_content" > "$output_file"
+echo "Freetv.txt" > "Freetv.txt"
