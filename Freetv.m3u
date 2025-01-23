@@ -39,13 +39,16 @@ http://jmrk.xyz:8880//live/mikedodson21.md@gmail.com/r4HLZ88nNQ/663153.ts
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
+
 #EXTINF:-1 cuid="8" tvg-chno="8" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹",RTP 1 🇵🇹
 http://ezcdn.vood.top:80/hls/111937_.m3u8
 #EXTINF:-1 cuid="8" tvg-chno="8" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹",RTP 1ᶠᴴᴰ 🇵🇹
-http://sure.streams.me.uk:25461/live/GQGGcVHZjBpn/HsuYn7hVT93U/19.m3u8
+http://sure.streams.me.uk:25461/live/GQGGcVHZjBpn/HsuYn7hVT93U/19.ts
 #EXTINF:-1 cuid="9" tvg-chno="9" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹",RTP 1 🇵🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://github.com/inspirationlinks/m3u/raw/live/Streams/rtp1.m3u8
+#EXTINF:-1 cuid="9" tvg-chno="9" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹",RTP 1 🇵🇹
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://www.rtp.pt
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 cuid="10" tvg-chno="10" tvg-name="RTP 2 🇵🇹" tvg-id="RTP.2.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Portugal 🇵🇹",RTP 2 🇵🇹
@@ -104,7 +107,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 
 --- 📺 𝙏𝙑𝙡
 
-#EXTINF:-1 cuid="23" tvg-chno="23" tvg-name="TVI 🇵🇹" tvg-id="TVI.Internacional.ptt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="Portugal 🇵🇹",TVI Internacionalᶠᴴᴰ 🇵🇹 
+#EXTINF:-1 cuid="23" tvg-chno="23" tvg-name="TVI 🇵🇹" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="Portugal 🇵🇹",TVI Internacionalᶠᴴᴰ 🇵🇹 
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI1IDQ6Nzo2IFBNJmhhc2hfdmFsdWU9Kyt6OGZ5RXdKZVJoQkxuWUpyZnVGdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU2MGMxZWJhLWIzMWMtNGEyNy1iMWRjLWQ4NWYyZjM3OGYzNA==/
 
 #EXTINF:-1 cuid="25" tvg-chno="25" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="Portugal 🇵🇹",TVIᶠᴴᴰ 🇵🇹 
@@ -1896,8 +1899,9 @@ http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZT8S3r4fyhiuBn-vUtBDCge
 #EXTINF:-1 tvg-id="Me.TV.us" tvg-name="" tvg-logo="https://logo.iptveditor.com/metv.png" group-title="USA 🇺🇸",METV 🇺🇸
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZSnoVtAmf3CcOWx1PllA4nhHzN0DvLebnmQMrINKfrlw/ts
 
-#EXTINF:-1 cuid="528" tvg-chno="528" tvg-name="AMC+ 🇺🇸" tvg-id="The Movie Channel (East).us" tvg-logo="https://logo.iptveditor.com/themoviechannel.png" group-title="USA 🇺🇸",AMC+ 🇺🇸
+#EXTINF:-1 cuid="527" tvg-chno="527" tvg-name="The Movie Channel" tvg-id="The Movie Channel (East).us" tvg-logo="https://logo.iptveditor.com/themoviechannel.png" group-title="USA 🇺🇸",The Movie Channel 🇺🇸
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZRXVPtfT9ZJQzu5m3bIzl-eIr0EBu01gnRyRbCweSbLE/ts
+
 #EXTINF:-1 cuid="528" tvg-chno="528" tvg-name="AMC+ 🇺🇸" tvg-id="AMC+.us" tvg-logo="https://logo.iptveditor.com/amcplus.png" group-title="USA 🇺🇸",AMC+ 🇺🇸
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
