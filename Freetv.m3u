@@ -1885,10 +1885,10 @@ http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/240.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium279/index.m3u8
 
-#EXTINF:-1 tvg-name="5 StarMax"tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://logo.iptveditor.com/5starmax.png" group-title="USA 🇺🇸",5 StarMax 🇺🇸
+#EXTINF:-1 cuid="525" tvg-chno="525" tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://logo.iptveditor.com/5starmax.png" group-title="USA 🇺🇸",5 StarMax 🇺🇸
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime Women (East).us" tvg-name="" tvg-logo="https://logo.iptveditor.com/showtimewomen.png" group-title="USA 🇺🇸",Showtime Women (West) 🇺🇸
+#EXTINF:-1 cuid="526" tvg-chno="526" tvg-id="Showtime Women (East).us" tvg-name="" tvg-logo="https://logo.iptveditor.com/showtimewomen.png" group-title="USA 🇺🇸",Showtime Women (West) 🇺🇸
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZT8S3r4fyhiuBn-vUtBDCgeUmrcEITOL7QSuul_w1hUU/ts
 
 #EXTINF:-1 tvg-id="Me.TV.us" tvg-name="" tvg-logo="https://logo.iptveditor.com/metv.png" group-title="USA 🇺🇸",METV 🇺🇸
