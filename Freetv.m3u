@@ -784,7 +784,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869
 https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.iptveditor.com/tomejerry.png" group-title="•➤ Kids 🧒",Tom & Jerry
-http://oldraindays.net/live/228463308/r576049x/272852&f=.ts
+http://oldraindays.net/live/486261694/n827A6440r/272852&f=.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.iptveditor.com/tomejerry.png" group-title="•➤ Kids 🧒",Tom & Jerry
 http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-vzGZ1r09eZ/isxgTlNGBH/733&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.iptveditor.com/tomejerry.png" group-title="•➤ Kids 🧒",Tom & Jerry
@@ -2042,15 +2043,20 @@ http://69.64.57.208:8080/france5/playlist.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 
 #EXTINF:-1 cuid="548" tvg-chno="548" tvg-name="M6 🇫🇷" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp" group-title="•➤ França 🇫🇷",M6 🇫🇷
+http://213.246.39.14:8070/M6_HD/index.m3u8
+#EXTINF:-1 cuid="548" tvg-chno="548" tvg-name="M6 🇫🇷" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp" group-title="•➤ França 🇫🇷",M6 🇫🇷
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 cuid="548" tvg-chno="548" tvg-name="M6 🇫🇷" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp" group-title="•➤ França 🇫🇷",M6 🇫🇷
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
 #EXTINF:-1 cuid="550" tvg-chno="550" tvg-name="M6 🇫🇷" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp" group-title="•➤ França 🇫🇷",M6 🇫🇷
 https://gitlab.com/movrey/movrel/-/raw/732c5b9670791228d114e0c9cecb656b8b9bd4c0/msixx.m3u8
 
 #EXTINF:-1 cuid="551" tvg-chno="551" tvg-name="LCI 🇫🇷" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-a422bb-0@3x.png" group-title="•➤ França 🇫🇷",LCI 🇫🇷
+http://213.246.39.14:8070/LCI/index.m3u8
+#EXTINF:-1 cuid="551" tvg-chno="551" tvg-name="LCI 🇫🇷" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-a422bb-0@3x.png" group-title="•➤ França 🇫🇷",LCI 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/lci.m3u8
 #EXTINF:-1 cuid="552" tvg-chno="552" tvg-name="LCI 🇫🇷" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-a422bb-0@3x.png" group-title="•➤ França 🇫🇷",LCI 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
-
 
 #EXTINF:-1 cuid="554" tvg-chno="554" tvg-name="TFX 🇫🇷" tvg-id="TFX.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp" group-title="•➤ França 🇫🇷",TFX 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tfx.m3u8
@@ -2100,10 +2106,17 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/canalp
 #EXTINF:-1 cuid="570" tvg-chno="570" tvg-name="C8 🇫🇷" tvg-id="C8.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp" group-title="•➤ França 🇫🇷",C8 🇫🇷
 https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/master.m3u8?hdnts=exp=1732112495~acl=/*~hmac=5334951abede5368621c454526b6394b6614a8b49fdc80a4d8e2b1e8f296cc56
 
+#EXTINF:-1 cuid="571" tvg-chno="571" tvg-name="" tvg-id="W9.fr" tvg-logo="https://logo.iptveditor.com/w9.png" group-title="•➤ França 🇫🇷",W9 🇫🇷
+http://213.246.39.14:8070/W9_HD/index.m3u8
+#EXTINF:-1 cuid="571" tvg-chno="571" tvg-name="" tvg-id="W9.fr" tvg-logo="https://logo.iptveditor.com/w9.png" group-title="•➤ França 🇫🇷",W9 🇫🇷
+http://99.27.51.147:8080/W9/index.m3u8
+
 #EXTINF:-1 cuid="571" tvg-chno="571" tvg-name="RTL 9 🇫🇷" tvg-id="RTL9.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RTL9.webp" group-title="•➤ França 🇫🇷",RTL 9 🇫🇷
 #http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/30999&f=.ts
 
-#EXTINF:-1 cuid="572" tvg-chno="572" tvg-name="CSTAR" tvg-id="CStar.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CStar.webp" group-title="•➤ França 🇫🇷",CSTAR
+#EXTINF:-1 cuid="572" tvg-chno="572" tvg-name="CSTAR" tvg-id="CStar.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CStar.webp" group-title="•➤ França 🇫🇷",CSTAR 🇫🇷
+http://213.246.39.14:8070/cstar/index.m3u8
+#EXTINF:-1 cuid="572" tvg-chno="572" tvg-name="CSTAR" tvg-id="CStar.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CStar.webp" group-title="•➤ França 🇫🇷",CSTAR 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
 
 #EXTINF:-1 cuid="573" tvg-chno="573" tvg-name="Téva 🇫🇷" tvg-id="Téva.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/TEVA_HD_2014.png" group-title="•➤ França 🇫🇷",Téva 🇫🇷
@@ -3631,6 +3644,8 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 cuid="1354" tvg-chno="1354" tvg-name="Venus tv 🇦🇷" tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/800px-Canal_Venus_logo.svg.png" group-title="•➤ Adult 🔞",Venus tv
 http://45.5.117.182:8000/play/a0gf/index.m3u8
+#EXTINF:-1 cuid="1354" tvg-chno="1354" tvg-name="Venus tv 🇦🇷" tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/800px-Canal_Venus_logo.svg.png" group-title="•➤ Adult 🔞",Venus tv
+http://201.174.162.89:9981/stream/channelid/2072467753?profile=pass
 #EXTINF:-1 cuid="1354" tvg-chno="1354" tvg-name="Venus tv 🇦🇷" tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/800px-Canal_Venus_logo.svg.png" group-title="•➤ Adult 🔞",Venus tv
 http://181.78.109.49:8000/play/a03z/index.m3u8
 
