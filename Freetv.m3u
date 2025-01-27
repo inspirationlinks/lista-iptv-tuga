@@ -33,7 +33,7 @@ http://185.57.68.33:8091/232/playlist.m3u8
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 
 #EXTINF:-1 cuid="7" tvg-chno="7" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png" group-title="•➤ Portugal 🇵🇹",RTP 
-http://tvpromas.com:2082/stkrestbra8653fnfoe734/764gdsl824d/89.ch
+http://tvpromas.com:2082/live/stkrestbra8653fnfoe734/764gdsl824d/89&f=.ts
 #EXTINF:-1 cuid="7" tvg-chno="7" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png" group-title="•➤ Portugal 🇵🇹",RTP Internacionalᴸᴼᵂ 🇵🇹
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -42,7 +42,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 cuid="8" tvg-chno="8" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="•➤ Portugal 🇵🇹",RTP 1 🇵🇹
 http://ezcdn.vood.top:80/hls/111937_.m3u8
 #EXTINF:-1 cuid="8" tvg-chno="8" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="•➤ Portugal 🇵🇹",RTP 1ᶠᴴᴰ 🇵🇹
-http://sure.streams.me.uk:25461/live/GQGGcVHZjBpn/HsuYn7hVT93U/19.ts
+http://sure.streams.me.uk:25461//live/GQGGcVHZjBpn/HsuYn7hVT93U/19&f=.ts
 #EXTINF:-1 cuid="9" tvg-chno="9" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="•➤ Portugal 🇵🇹",RTP 1 🇵🇹
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
@@ -83,7 +83,7 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8
 --- 📺 𝙎𝙡𝘾
 
 #EXTINF:-1 cuid="18" tvg-chno="18" tvg-name="SIC 🇵🇹" tvg-id="SIC.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png" group-title="•➤ Portugal 🇵🇹",SIC 🇵🇹
-http://sure.streams.me.uk:25461/live/GQGGcVHZjBpn/HsuYn7hVT93U/22.m3u8
+http://sure.streams.me.uk:25461//live/GQGGcVHZjBpn/HsuYn7hVT93U/22&f=.m3u8
 #EXTINF:-1 cuid="18" tvg-chno="18" tvg-name="SIC 🇵🇹" tvg-id="SIC.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png" group-title="•➤ Portugal 🇵🇹",SIC 🇵🇹
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
@@ -556,7 +556,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs
 #EXTINF:-1 cuid="146" tvg-chno="154" tvg-name="ESPN 🇧🇷" tvg-id="ESPN" tvg-logo="https://logo.iptveditor.com/auespn.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 🇧🇷
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 #EXTINF:-1 cuid="148" tvg-chno="156" tvg-name="ESPN 🇧🇷" tvg-id="ESPN" tvg-logo="https://logo.iptveditor.com/auespn.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 🇧🇷
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
+http://s1.1-cup.net:2095//live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7&f=.m3u8
 
 #EXTINF:-1 cuid="150" tvg-chno="158" tvg-name="ESPN 2 🇧🇷" tvg-id="ESPN2" tvg-logo="https://logo.iptveditor.com/auespn2.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 2 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -565,41 +565,41 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 #EXTINF:-1 cuid="150" tvg-chno="158" tvg-name="ESPN 2 🇧🇷" tvg-id="ESPN2" tvg-logo="https://logo.iptveditor.com/auespn2.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 2 🇧🇷
 http://hzcdn.vood.top:80/hls/215_.m3u8
 #EXTINF:-1 cuid="152" tvg-chno="160" tvg-name="ESPN 2 🇧🇷" tvg-id="ESPN2" tvg-logo="https://logo.iptveditor.com/auespn2.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 2 🇧🇷
-http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/144.m3u8
+http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/144&f=.m3u8
 
 #EXTINF:-1 cuid="153" tvg-chno="161" tvg-name="ESPN 3 🇧🇷" tvg-id="ESPN3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 3 🇧🇷
 https://super-cdn.link/espn3/index.m3u8
 #EXTINF:-1 cuid="153" tvg-chno="161" tvg-name="ESPN 3 🇧🇷" tvg-id="ESPN3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 3 🇧🇷
-http://158.69.118.175:25461/live/salamlink58465/ttb3j5wXnz/32783.m3u8
+http://158.69.118.175:25461/live/salamlink58465/ttb3j5wXnz/32783&f=.m3u8
 #EXTINF:-1 cuid="153" tvg-chno="161" tvg-name="ESPN 3 🇧🇷" tvg-id="ESPN3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 3 🇧🇷
 http://dzcdn.vood.top:80/hls/218_.m3u8
 #EXTINF:-1 cuid="154" tvg-chno="162" tvg-name="ESPN 3 🇧🇷" tvg-id="ESPN3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 3 🇧🇷
-http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/42.m3u8
+http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/42&f=.m3u8
 
 #EXTINF:-1 cuid="156" tvg-chno="164" tvg-name="ESPN 4 🇧🇷" tvg-id="ESPN4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 4 🇧🇷 🏎️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 #EXTINF:-1 cuid="156" tvg-chno="164" tvg-name="ESPN 4 🇧🇷" tvg-id="ESPN4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 4 🇧🇷 🏎️
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
+http://78.159.122.138:2082//live/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143&f=.ts
 #EXTINF:-1 cuid="156" tvg-chno="164" tvg-name="ESPN 4 🇧🇷" tvg-id="ESPN4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 4 🇧🇷 🏎️
 http://dzcdn.vood.top:80/hls/222_.m3u8
 #EXTINF:-1 cuid="157" tvg-chno="165" tvg-name="ESPN 4 🇧🇷" tvg-id="ESPN4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 4 🇧🇷 🏎️
-http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/48.m3u8
+http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/48&f=.m3u8
 
 #EXTINF:-1 cuid="159" tvg-chno="167" tvg-name="ESPN 5 🇧🇷 🏀🏍" tvg-id="ESPN5" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 5 🇧🇷 🏀🏍
 https://super-cdn.link/espn5/index.m3u8
 #EXTINF:-1 cuid="159" tvg-chno="167" tvg-name="ESPN 5 🇧🇷 🏀🏍" tvg-id="ESPN5" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 5 🇧🇷 🏀🏍
-http://authxplus-2.xyz:2082/Xplus-1-tiaIQclyoa/XibmyDxkvK/139
+http://authxplus-2.xyz:2082//live/Xplus-1-tiaIQclyoa/XibmyDxkvK/139&f=.ts
 #EXTINF:-1 cuid="160" tvg-chno="168" tvg-name="ESPN 5 🇧🇷 🏀🏍" tvg-id="ESPN5" tvg-logo="https://logo.iptveditor.com/espn5.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 5 🇧🇷 🏀🏍
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140
+http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140&f=.ts
 
 #EXTINF:-1 cuid="161" tvg-chno="169" tvg-name="ESPN 6 🇧🇷 🥎🏈🏍" tvg-id="ESPN6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 6ᶠᴴᴰ 🇧🇷 🥎🏈🏍
 http://hzcdn.vood.top:80/hls/245_.m3u8
 #EXTINF:-1 cuid="161" tvg-chno="169" tvg-name="ESPN 6 🇧🇷 🥎🏈🏍" tvg-id="ESPN6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 6 🇧🇷 🥎🏈🏍
 https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 cuid="161" tvg-chno="169" tvg-name="ESPN 6 🇧🇷 🥎🏈🏍" tvg-id="ESPN6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 6 🇧🇷 🥎🏈🏍
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
+http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134&f=.ts
 
 ---
 
@@ -609,7 +609,7 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/g
 #EXTINF:-1 cuid="171" tvg-chno="179" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 http://4k4.klmvhn20.com:2082/play/live.php?mac=00:1A:79:C4:2E:77&stream=268016&extension=ts
 #EXTINF:-1 cuid="173" tvg-chno="181" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
-http://g-med.xyz:25461/live/dijana442323/j7hAk9sLj6Ff/412.ts
+http://g-med.xyz:25461/live/dijana442323/j7hAk9sLj6Ff/412&f=.ts
 
 #EXTINF:-1 cuid="179" tvg-chno="187" tvg-id="Ring.BG.bg" tvg-logo="https://logo.iptveditor.com/ring.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",Ring HD 🇧🇬
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
@@ -889,14 +889,14 @@ http://dns.webdosdeuses.top:80//live/rodrigoasencio01/187952243/311530.m3u8
 #EXTINF:-1 cuid="287" tvg-chno="295" tvg-name="Telecine Premium 🇧🇷" tvg-id="TELECINEPREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Premiumᶠᴴᴰ 🇧🇷
 http://izcdn.vood.top/hls/635_.m3u8
 #EXTINF:-1 cuid="288" tvg-chno="296" tvg-name="Telecine Premium 🇧🇷" tvg-id="TELECINEPREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Premium 🇧🇷
-http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96449.m3u8
+http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96449&f=.m3u8
 #EXTINF:-1 cuid="288" tvg-chno="296" tvg-name="Telecine Premium 🇧🇷" tvg-id="TELECINEPREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Premium 🇧🇷
 http://dzcdn.vood.top/live/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/633.ts
 
 #EXTINF:-1 cuid="289" tvg-chno="297" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Pipocaᶠᴴᴰ 🇧🇷
-http://gzcdn.vood.top/hls/630_.m3u8
+http://gzcdn.vood.top/hls/)live/630_.m3u8
 #EXTINF:-1 cuid="289" tvg-chno="297" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Pipoca 🇧🇷
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295&f=.ts
 #EXTINF:-1 cuid="289" tvg-chno="297" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Pipoca 🇧🇷
 http://super-cdn.link/telecinepipoca/index.m3u8
 #EXTINF:-1 cuid="290" tvg-chno="298" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Pipoca 🇧🇷
@@ -915,7 +915,7 @@ http://izcdn.vood.top/hls/620_.m3u8
 http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298&f=.ts
 
 #EXTINF:-1 cuid="292" tvg-chno="300" tvg-name="Telecine Fun 🇧🇷" tvg-id="TELECINEFUN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Fun (cc 🇧🇷)
-http://dns.webdosdeuses.top:80//live/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/311532.m3u8
+http://dns.webdosdeuses.top:80//live/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/311532&f=.m3u8
 #EXTINF:-1 cuid="292" tvg-chno="300" tvg-name="Telecine Fun 🇧🇷" tvg-id="TELECINEFUN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Fun (cc 🇧🇷)
 http://dns.webdosdeuses.top:80//live/rodrigoasencio01/187952243/311532.m3u8
 
@@ -957,7 +957,7 @@ http://dns.webdosdeuses.top:80//live/alessandra18/scm557744/311534.ts
 http://authxplus-2.xyz:2082/live/Xplus-1-tiaIQclyoa/XibmyDxkvK/246.m3u8
 
 #EXTINF:-1 cuid="70" tvg-chno="70" tvg-name="HBO Pop" tvg-id="HBOPOP" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="•➤ Brasil 🇧🇷",HBO Pop (cc 🇧🇷)
-http://dns.webdosdeuses.top:80//live/alessandra18/scm557744/311526.ts
+http://dns.webdosdeuses.top:80//live/alessandra18/scm557744/311526&f=.ts
 #EXTINF:-1 cuid="70" tvg-chno="70" tvg-name="HBO Pop" tvg-id="HBOPOP" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="•➤ Brasil 🇧🇷",HBO Pop (cc 🇧🇷)
 http://dns.webdosdeuses.top:80//live/rodrigoasencio01/187952243/311526.ts
 #EXTINF:-1 cuid="70" tvg-chno="70" tvg-name="HBO Pop" tvg-id="HBOPOP" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="•➤ Brasil 🇧🇷",HBO Pop 🇧🇷 
@@ -971,7 +971,7 @@ http://cord-cutter.net:8080/live/30550113/30550113/164950&f=.ts
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31465&f=.ts
 
 #EXTINF:-1 cuid="299" tvg-chno="81" tvg-name="HBO 2 🇧🇷" tvg-id="HBO2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="•➤ Brasil 🇧🇷",HBO 2 🇧🇷
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248
+http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248&f=.ts
 #EXTINF:-1 cuid="299" tvg-chno="81" tvg-name="HBO 2 🇧🇷" tvg-id="HBO2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="•➤ Brasil 🇧🇷",HBO 2 🇧🇷
 http://izcdn.vood.top:80/hls/18756_.m3u8
 #EXTINF:-1 cuid="299" tvg-chno="81" tvg-name="HBO 2 🇧🇷" tvg-id="HBO2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="•➤ Brasil 🇧🇷",HBO 2 🇧🇷
@@ -1106,9 +1106,9 @@ https://embedcanaistv.club/sonychannel/tracks-v1a1/mono.m3u8
 #https://cdn-3.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-name="STUDIOUNIVERSAL" tvg-id="STUDIOUNIVERSAL" tvg-logo="https://logo.iptveditor.com/premiumstudiouniversal.png" group-title="•➤ Brasil 🇧🇷",Studio Universal 🇧🇷
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/157
+http://78.159.122.147:2082//live/Chfdtu644FGH/Channelsyy566FGG/157&f=.ts
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-name="STUDIOUNIVERSAL" tvg-id="STUDIOUNIVERSAL" tvg-logo="https://logo.iptveditor.com/premiumstudiouniversal.png" group-title="•➤ Brasil 🇧🇷",Studio Universal 🇧🇷
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
+http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289&f=.ts
 
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-name="" tvg-id="UNIVERSALTV" tvg-logo="https://logo.iptveditor.com/universal.png" group-title="•➤ Brasil 🇧🇷",Universal Channel 🇧🇷
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319
@@ -1116,7 +1116,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-id="CINEMAX" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="•➤ Brasil 🇧🇷",Cinemaxᶠᴴᴰ 🇧🇷
 http://hzcdn.vood.top:80/hls/682_.m3u8
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-id="CINEMAX" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="•➤ Brasil 🇧🇷",Cinemax 🇧🇷
-http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43.m3u8
+http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43&f=.m3u8
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-id="CINEMAX" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="•➤ Brasil 🇧🇷",Cinemax 🇧🇷
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240&f=.ts
 
@@ -1167,7 +1167,7 @@ http://authxplus-2.xyz:2082/Xplus-1-tiaIQclyoa/XibmyDxkvK/114
 #EXTINF:-1 cuid="354" tvg-chno="354" tvg-name="Multishow 🇧🇷" tvg-id="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png" group-title="•➤ Brasil 🇧🇷",Multishowᶠᴴᴰ 🇧🇷
 http://dzcdn.vood.top/hls/377241_.m3u8
 #EXTINF:-1 cuid="354" tvg-chno="354" tvg-name="Multishow 🇧🇷" tvg-id="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png" group-title="•➤ Brasil 🇧🇷",Multishow 🇧🇷
-http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/423.m3u8
+http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/423&f=.m3u8
 #EXTINF:-1 cuid="354" tvg-chno="354" tvg-name="Multishow 🇧🇷" tvg-id="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png" group-title="•➤ Brasil 🇧🇷",Multishow 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
@@ -2452,17 +2452,17 @@ http://dzcdn.vood.top:80/hls/118705_.m3u8
 #EXTINF:-1 cuid="956" tvg-chno="956" tvg-name="Sportv 3 🇧🇷 🥊🏎️" tvg-id="SPORTV3" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 3 🇧🇷 🥊🏎️
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
-#EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
+#EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
 http://dzcdn.vood.top/hls/494_.m3u8
-#EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
+#EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-#EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
+#EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/2
-#EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
+#EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
-#EXTINF:-1 cuid="958" tvg-chno="958" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="https://logo.iptveditor.com/premiere.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
+#EXTINF:-1 cuid="958" tvg-chno="958" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/164
 
 #EXTINF:-1 cuid="959" tvg-chno="959" tvg-name="Premiere 2" tvg-id="PREMIERE2" tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="•➤ Desportos 🇧🇷",Premiere 2 🇧🇷
