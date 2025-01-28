@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/InspirationFreetv1,https://bit.ly/RevolutionEpg,https://bit.ly/EPGthomraider12gz,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz"
+#EXTM3U url-tvg="https://bit.ly/InspirationFreetv1,https://bit.ly/RevolutionEpg,https://bit.ly/EPGthomraider12gz,https://bit.ly/Brazilepg,https://www.tdtchannels.com/epg/TV.xml.gz,https://bit.ly/Plutogz,https://bit.ly/Samsunggz"
 
 
 # (🇬🇧) - It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, Rakuten, etc...)
@@ -32,7 +32,9 @@ http://185.57.68.33:8091/232/playlist.m3u8
 #EXTINF:-1 cuid="5" tvg-chno="5" tvg-name="Tv Portuguesa 🇵🇹🇧🇷" tvg-logo="https://portaltvportuguesa.com.br/wp-content/uploads/2022/08/portaltv_b1_w.png" group-title="•➤ Portugal 🇵🇹",Tv Portuguesa 🇵🇹🇧🇷
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 
-#EXTINF:-1 cuid="7" tvg-chno="7" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png" group-title="•➤ Portugal 🇵🇹",RTP 
+#EXTINF:-1 cuid="7" tvg-chno="7" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTPi.and.RDPi.-.Rádio.e.Televisão.de.Portugal.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png" group-title="•➤ Portugal 🇵🇹",RTP Internacional 🇺🇸
+http://90ca6f59.indifferent-project.net:2086/live/liamdr88@hotmail.com/h8n0n2TmL5/48267.m3u8
+#EXTINF:-1 cuid="7" tvg-chno="7" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png" group-title="•➤ Portugal 🇵🇹",RTP Internacional 
 http://tvpromas.com:2082/live/stkrestbra8653fnfoe734/764gdsl824d/89&f=.ts
 #EXTINF:-1 cuid="7" tvg-chno="7" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png" group-title="•➤ Portugal 🇵🇹",RTP Internacionalᴸᴼᵂ 🇵🇹
 #EXTVLCOPT:http-user-agent=Firefox
@@ -115,12 +117,12 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 
 #EXTINF:-1 cuid="27" tvg-chno="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="•➤ Portugal 🇵🇹",CNN Portugalᶠᴴᴰ 🇵🇹 
 http://sure.streams.me.uk:25461/live/GQGGcVHZjBpn/HsuYn7hVT93U/25.ts
+#EXTINF:-1 cuid="28" tvg-chno="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="•➤ Portugal 🇵🇹",CNN Portugal 🇵🇹
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI1IDQ6NDM6NTIgUE0maGFzaF92YWx1ZT04d256WGVsZFZpV1JZVHVGUWVsbU9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OWE3ZDE5NDgtZTA2NS00YmFiLThlYjEtYThhMDMxY2MyYTc5/
 #EXTINF:-1 cuid="27" tvg-chno="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="•➤ Portugal 🇵🇹",CNN Portugal 🇵🇹 (𝓑𝙮: thomraider12)
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 cuid="27" tvg-chno="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="•➤ Portugal 🇵🇹",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:-1 cuid="28" tvg-chno="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="•➤ Portugal 🇵🇹",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI1IDQ6NDM6NTIgUE0maGFzaF92YWx1ZT04d256WGVsZFZpV1JZVHVGUWVsbU9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OWE3ZDE5NDgtZTA2NS00YmFiLThlYjEtYThhMDMxY2MyYTc5/
 
 #EXTINF:-1 cuid="29" tvg-chno="29" tvg-name="V+ TVI 🇵🇹" tvg-id="V+TVI.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp" group-title="•➤ Portugal 🇵🇹",V+ TVI 🇵🇹
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
@@ -143,6 +145,9 @@ http://izcdn.vood.top/hls/298260_.m3u8
 http://izcdn.vood.top/hls/298266_.m3u8
 #EXTINF:-1 cuid="33" tvg-chno="33" tvg-name="BBB 25 🇧🇷" tvg-logo="https://s2-gshow.glbimg.com/cPSxpuXYrBfM5ayMCae0XhXDMJM=/196x196/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png" group-title="•➤ Portugal 🇵🇹",BBB 25 Mosaico 🇧🇷
 http://84.16.252.219:2082/live/suspected-TR1-tWRP9jfZlz/qE0FSg2p0Y/1287.m3u8
+
+#EXTINF:-1 cuid="33" tvg-chno="33" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Gran_Hermano_2022_logo.png" group-title="•➤ Portugal 🇵🇹",Gran Hermano 🇪🇸
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/990104.m3u8
 
 
 #EXTINF:-1 cuid="34" tvg-chno="34" tvg-name="Grande Fratello 🇮🇹" tvg-id="Mediaset.Extra.HD.it" tvg-logo="https://www.grandefratello.mediaset.it/res/img/logo_def.png" group-title="•➤ Portugal 🇵🇹",Grande Fratelloᶠᴴᴰ 🇮🇹
@@ -194,6 +199,9 @@ https://bit.ly/3uQwRzn?5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 cuid="42" tvg-chno="42" tvg-name="AviaçãoTV" tvg-id="AviaçãoTV.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/aviaçãotv.png" group-title="•➤ Diversos 💡",AviaçãoTV 🇵🇹 (𝓑𝙮: thomraider12)
 https://ythls-v3.onrender.com/channel/UC0R-K3crhMX9jzswbmfIORw.m3u8
 
+#EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="Record.pt" tvg-id="" group-title="•➤ Diversos 💡" tvg-logo="https://logo.iptveditor.com/record.png",TVRecord Mozambique 🇲🇿🇵🇹
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
 #EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="" tvg-id="ZAP.Viva.HD.pt" group-title="•➤ Diversos 💡" tvg-logo="https://logo.iptveditor.com/zapviva.png",Zap Vivaᴸᴼᵂ 🇲🇿🇵🇹
 http://cord-cutter.net:8080//live/30550113/30550113/164853&f=.ts
 #EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="" tvg-id="ZAP.Viva.HD.pt" group-title="•➤ Diversos 💡" tvg-logo="https://logo.iptveditor.com/zapviva.png",Zap Vivaᴸᴼᵂ 🇲🇿🇵🇹
@@ -215,6 +223,8 @@ https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="Cubavisión.Internacional.pt" tvg-name="Cubavisión TV" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-title="•➤ Diversos 💡",Cubavisión TV Internacional 🇨🇺
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Cubavisión.Internacional.pt" tvg-name="Cubavisión TV" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-title="•➤ Diversos 💡",Cubavisión TV Internacional 🇨🇺
+http://177.93.63.5:10000/play/a0gh/index.m3u8
 
 #EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="Das.Erste.de" tvg-logo="https://logo.iptveditor.com/daserste.png" group-title="•➤ Diversos 💡",Das Erste 🇩🇪
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/index.m3u8
@@ -607,6 +617,8 @@ http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134&f=.ts
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/goltv.m3u8
 
 #EXTINF:-1 cuid="171" tvg-chno="179" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
+http://4k.7354919.xyz:8080/live/MKA_0715_X/a84cL6CZsZje/294991&f=.m3u8
+#EXTINF:-1 cuid="171" tvg-chno="179" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 http://4k4.klmvhn20.com:2082/play/live.php?mac=00:1A:79:C4:2E:77&stream=268016&extension=ts
 #EXTINF:-1 cuid="173" tvg-chno="181" tvg-name="SportDigital Fussball 🇩🇪" tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",SportDigital 🇩🇪
 http://g-med.xyz:25461/live/dijana442323/j7hAk9sLj6Ff/412&f=.ts
@@ -836,8 +848,8 @@ https://beanostudios-beanotv-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 cuid="238" tvg-chno="246" tvg-name="ZooMoo 🇺🇸" tvg-id="USBC2400019EF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="•➤ Kids 🧒",ZooMoo 🇺🇸
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 cuid="239" tvg-chno="247" tvg-name="Lego Kids 🇺🇸" tvg-id="USBA2300001S8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="•➤ Kids 🧒",Lego Kids 🇺🇸
-https://is.gd/TH0DFt?Lego_Kids.m3u8
+#EXTINF:-1 cuid="239" tvg-chno="247" tvg-name="🇱🇪🇬o Kids 🇺🇸" tvg-id="USBA2300001S8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="•➤ Kids 🧒",🇱🇪🇬o Kids 🇺🇸
+https://is.gd/TH0DFt?🇱🇪🇬o_Kids.m3u8
 
 #EXTINF:-1 cuid="240" tvg-chno="248" tvg-name="Garfield and Friends 🇺🇸" tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="•➤ Kids 🧒",Garfield and Friends 🇺🇸
 https://is.gd/KGxtX7?60faf9ddfcc1f200070a5932.m3u8
@@ -1523,16 +1535,17 @@ https://bit.ly/masterchefBR?6077045b6031bd00078de127.m3u8
 #EXTINF:-1 cuid="427" tvg-chno="427" tvg-name="A3Series Internacional 🇪🇸🇨🇱" tvg-id="A.3.Series.ch" tvg-logo="https://logo.iptveditor.com/a3satreseries1.png" group-title="•➤ Espanha 🇪🇸",A3Seriesᶠᴴᴰ 🇪🇸
 http://vp-txpro.com:80/live/lupita73/1973/53913&f=.ts
 
-#EXTINF:-1 cuid="428" tvg-chno="428" tvg-name="A3Player Multicine 🇪🇸" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/atresplayer.webp" group-title="•➤ Espanha 🇪🇸",A3Player Multicineᶠᴴᴰ 🇪🇸
+#EXTINF:-1 cuid="428" tvg-chno="428" tvg-name="A3Player Multicine 🇪🇸" tvg-id="A3P_Multicine.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",A3Player Multicineᶠᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
-#EXTINF:-1 cuid="429" tvg-chno="429" tvg-name="A3Player Clasicos 🇪🇸" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/atresplayer.webp" group-title="•➤ Espanha 🇪🇸",A3Player Clasicosᶠᴴᴰ 🇪🇸
+#EXTINF:-1 cuid="429" tvg-chno="429" tvg-name="A3Player Clasicos 🇪🇸" tvg-id="A3P_Clasicos.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",A3Player Clasicosᶠᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
-#EXTINF:-1 cuid="430" tvg-chno="430" tvg-name="A3Player Comedia 🇪🇸" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/atresplayer.webp" group-title="•➤ Espanha 🇪🇸",A3Player Comediaᶠᴴᴰ 🇪🇸
+#EXTINF:-1 cuid="430" tvg-chno="430" tvg-name="A3Player Comedia 🇪🇸" tvg-id="A3P_ClubComedia.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",A3Player Comediaᶠᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
-#EXTINF:-1 cuid="431" tvg-chno="431" tvg-name="A3Player Mentes Inquietas 🇪🇸" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/atresplayer.webp" group-title="•➤ Espanha 🇪🇸",A3Player Mentes Inquietasᶠᴴᴰ 🇪🇸
+#EXTINF:-1 cuid="431" tvg-chno="431" tvg-name="A3Player Mentes Inquietas 🇪🇸" tvg-id="A3P_MentesInqui.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",A3Player Mentes Inquietasᶠᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-#EXTINF:-1 cuid="432" tvg-chno="432" tvg-name="A3Player Equipo Investigacion 🇪🇸" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/atresplayer.webp" group-title="•➤ Espanha 🇪🇸",A3Player Equipo Investigacionᶠᴴᴰ 🇪🇸
+#EXTINF:-1 cuid="432" tvg-chno="432" tvg-name="A3Player Equipo Investigacion 🇪🇸" tvg-id="A3P_EqInvestigacion.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",A3Player Equipo Investigacionᶠᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
+
 #EXTINF:-1 cuid="432" tvg-chno="432" tvg-id="Flooxer.TV" tvg-name="flooxer" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",flooxerᶠᴴᴰ 🇪🇸
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
@@ -1574,7 +1587,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 cuid="433" tvg-chno="433" tvg-name="tve Internacional 🇪🇸" tvg-id="TVEi.pt" tvg-logo="https://logo.iptveditor.com/tveinternacional.png" group-title="•➤ Espanha 🇪🇸",tve Internacionalᶠᴴᴰ 🇪🇸
 http://45.5.117.182:8000/play/a0fu/index.m3u8
 
-#EXTINF:-1 cuid="436" tvg-chno="436" tvg-name="La 1 🇪🇸" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="•➤ Espanha 🇪🇸",La 1ᶠᴴᴰ 🇪🇸
+#EXTINF:-1 cuid="436" tvg-chno="436" tvg-name="La 1 🇪🇸" tvg-id="ESBC4100001NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="•➤ Espanha 🇪🇸",La 1ᶠᴴᴰ 🇪🇸
 https://bit.ly/48Xf5t6?profile=ESBC4100001NZ.m3u8
 
 #EXTINF:-1 cuid="437" tvg-chno="437" tvg-name="La 2 🇪🇸" tvg-id="ESBC4100002AG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="•➤ Espanha 🇪🇸",La 2ᶠᴴᴰ 🇪🇸
@@ -1598,6 +1611,8 @@ http://176.65.146.224:8401/play/a0ac/index.m3u8
 #EXTINF:-1 cuid="443" tvg-chno="443" tvg-name="Cuatro 🇪🇸" tvg-id="Cuatro.es" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png" group-title="•➤ Espanha 🇪🇸",Cuatroᴸᴼᵂ 🇪🇸
 https://tvnoov.com/fadoo/cuatrohd.m3u8
 
+#EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="•➤ Espanha 🇪🇸",Telecincoᶠᴴᴰ 🇪🇸
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/989557&f=.ts
 #EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="•➤ Espanha 🇪🇸",Telecincoᴸᴼᵂ 🇪🇸
 https://tvnoov.com/fadoo/telecincohd.m3u8
 #EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="•➤ Espanha 🇪🇸",Telecincoᶠᴴᴰ 🇪🇸
@@ -1613,6 +1628,8 @@ https://tvnoov.com/fadoo/fdf.m3u8
 #EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="•➤ Espanha 🇪🇸",fdfᶠᴴᴰ 🇪🇸
 http://176.65.146.224:8401/play/a0a9/index.m3u8
 
+#EXTINF:-1 cuid="448" tvg-chno="448" tvg-name="Divinity 🇪🇸" tvg-id="Divinity.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp" group-title="•➤ Espanha 🇪🇸",Divinityᶠᴴᴰ 🇪🇸
+http://185.233.16.53/live/UWCPVED8V2/H5gMVveKAHAD/861583&f=.m3u8
 #EXTINF:-1 cuid="448" tvg-chno="448" tvg-name="Divinity 🇪🇸" tvg-id="Divinity.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp" group-title="•➤ Espanha 🇪🇸",Divinityᶠᴴᴰ 🇪🇸
 http://176.65.146.224:8401/play/a0aa/index.m3u8
 
@@ -1631,9 +1648,13 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 cuid="450" tvg-chno="450" tvg-name="Neox 🇪🇸" tvg-id="Neox.es" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",Neoxᶠᴴᴰ 🇪🇸
 http://176.65.146.224:8401/play/a0a7/index.m3u8
 
+#EXTINF:-1 cuid="451" tvg-chno="451" tvg-name="Nova 🇪🇸" tvg-id="Nova.es" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",Nova 🇪🇸
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/630822.m3u8
 #EXTINF:-1 cuid="451" tvg-chno="451" tvg-name="Nova 🇪🇸" tvg-id="Nova.es" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",Novaᴸᴼᵂ 🇪🇸
 http://185.189.225.150:85/nova/index.m3u8
 
+#EXTINF:-1 cuid="452" tvg-chno="452" tvg-name="DKiss 🇪🇸" tvg-id="DKISS.es" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",DKissᶠᴴᴰ 🇪🇸
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/786711.m3u8
 #EXTINF:-1 cuid="452" tvg-chno="452" tvg-name="DKiss 🇪🇸" tvg-id="DKISS.es" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",DKissᶠᴴᴰ 🇪🇸
 http://176.65.146.224:8401/play/a09e/index.m3u8
 
@@ -1644,6 +1665,8 @@ https://tvnoov.com/fadoo/dmax.m3u8
 
 #EXTINF:-1 cuid="454" tvg-chno="454" tvg-name="betevé 🇪🇸" tvg-id="Betevé.es" tvg-logo="https://play-lh.googleusercontent.com/uYNepd16TsWvHIeRCkYofVSo_txS7c_lenKzMuD2QJnS1fPcDdUWet94kbOznszj22KS" group-title="•➤ Espanha 🇪🇸",betevéᶠᴴᴰ 🇪🇸
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 cuid="454" tvg-chno="454" tvg-name="betevé 🇪🇸" tvg-id="Betevé.es" tvg-logo="https://play-lh.googleusercontent.com/uYNepd16TsWvHIeRCkYofVSo_txS7c_lenKzMuD2QJnS1fPcDdUWet94kbOznszj22KS" group-title="•➤ Espanha 🇪🇸",betevéᶠᴴᴰ 🇪🇸
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=c236a058-7ee0-cbb3-9cb1-9f6c55f291b0
 
 #EXTINF:-1 cuid="455" tvg-chno="455" tvg-name="La Otra 🇪🇸" tvg-id="La.Otra.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Otra.webp" group-title="•➤ Espanha 🇪🇸",La Otra 🇪🇸
 #EXTVLCOPT:network-caching=1000
@@ -1682,6 +1705,11 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 #EXTINF:-1 cuid="471" tvg-chno="471" tvg-name="Canal Extremadura Sat 🇪🇸" tvg-id="Canal.Extremadura.Sat..ch" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Canal-Extremadura.webp" group-title="•➤ Espanha 🇪🇸",Canal Extremadura Satᶠᴴᴰ 🇪🇸
 https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/trece.png" group-title="•➤ Espanha 🇪🇸",Trece ᴴᴰ 🇪🇸
+https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/trece.png" group-title="•➤ Espanha 🇪🇸",Trece ᴴᴰ 🇪🇸
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
 #EXTINF:-1 cuid="464" tvg-chno="464" tvg-name="Aragon tv Internacional 🇪🇸 ⚽️" tvg-id="Aragón.TV.Int.es" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" group-title="•➤ Espanha 🇪🇸",Aragon tv Internacional 🇪🇸 ⚽️
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
@@ -1702,6 +1730,22 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 cuid="476" tvg-chno="476" tvg-name="Mundo Náutica 🇪🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/mundonautica.webp" group-title="•➤ Espanha 🇪🇸",Mundo Náuticaᶠᴴᴰ 🇪🇸
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+
+#EXTINF:-1 cuid="477" tvg-chno="477" tvg-name="" tvg-id="Xarxa_El_9_TV.TV" tvg-logo="https://graph.facebook.com/el9nou/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",El 9 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 cuid="478" tvg-chno="478" tvg-name="" tvg-id="Xarxa_Televisio_BDN.TV" tvg-logo="https://pbs.twimg.com/profile_images/1705169494958624768/uSn1eFVm_200x200.jpg" group-title="•➤ Espanha 🇪🇸",BDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/badalonatvlive/live/playlist.m3u8
+
+#EXTINF:-1 cuid="479" tvg-chno="479" tvg-name="" tvg-id="Xarxa_Cugat_Media.TV" tvg-logo="https://graph.facebook.com/cugatmedia/picture?width=200&height=200" group-title="•➤ Espanha 🇪🇸",Cugat Mèdia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net
+https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8
+
 
 --- 📺  𝙈𝙚𝐱𝙞𝙘𝙤 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇲🇽🇺🇾
 
@@ -1784,12 +1828,14 @@ http://iptv.prosto.tv:7000/ch206/video.m3u8
 http://line.4smart.in:80//live/TYHZRW6/MF7V7X2/1122243&f=.ts
 
 #EXTINF:-1 cuid="518" tvg-chno="518" tvg-name="" tvg-id="SkyPremiereHD.uk" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="•➤ English 🇬🇧",Sky Cinema Premiere 🇬🇧
-http://line.4smart.in:80//live/TYHZRW6/MF7V7X2/17344&f=.ts
-#EXTINF:-1 cuid="518" tvg-chno="518" tvg-name="" tvg-id="SkyPremiereHD.uk" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="•➤ English 🇬🇧",Sky Cinema Premiere 🇬🇧
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 #EXTVLCOPT:network-caching=1000
 https://xyzdddd.mizhls.ru/lb/premium671/index.m3u8
+#EXTINF:-1 cuid="518" tvg-chno="518" tvg-name="" tvg-id="SkyPremiereHD.uk" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="•➤ English 🇬🇧",Sky Cinema Premiere 🇬🇧
+http://90ca6f59.indifferent-project.net:2086/live/liamdr88@hotmail.com/h8n0n2TmL5/6805.m3u8
+#EXTINF:-1 cuid="518" tvg-chno="518" tvg-name="" tvg-id="SkyPremiereHD.uk" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="•➤ English 🇬🇧",Sky Cinema Premiere 🇬🇧
+http://line.4smart.in:80//live/TYHZRW6/MF7V7X2/17344&f=.ts
 
 #EXTINF:-1 cuid="518" tvg-chno="518" tvg-name="" tvg-id="Sky.Greats.HD.uk" tvg-logo="https://logo.iptveditor.com/skycinemagreats.png" group-title="•➤ English 🇬🇧",Sky Cinema Greats 🇬🇧
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1820,6 +1866,10 @@ https://xyzdddd.mizhls.ru/lb/premium680/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 #EXTVLCOPT:network-caching=1000
 https://xyzdddd.mizhls.ru/lb/premium681/index.m3u8
+#EXTINF:-1 cuid="518" tvg-chno="518" tvg-name="" tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://logo.iptveditor.com/skycinemasciandhorror.png" group-title="•➤ English 🇬🇧",Sky Cinema SCI-FI Horror 🇬🇧
+http://90ca6f59.indifferent-project.net:2086/live/liamdr88@hotmail.com/h8n0n2TmL5/6804.m3u8
+
+--- 
 
 #EXTINF:-1 cuid="518" tvg-chno="518" tvg-name="BBC One 🇬🇧" tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp" group-title="•➤ English 🇬🇧",BBC One 🇬🇧
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2051,6 +2101,11 @@ https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
 #EXTINF:-1 cuid="550" tvg-chno="550" tvg-name="M6 🇫🇷" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp" group-title="•➤ França 🇫🇷",M6 🇫🇷
 https://gitlab.com/movrey/movrel/-/raw/732c5b9670791228d114e0c9cecb656b8b9bd4c0/msixx.m3u8
 
+#EXTINF:-1 cuid="560" tvg-chno="560" tvg-name="6ter 🇫🇷" tvg-id="6ter.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/6ter.webp" group-title="•➤ França 🇫🇷",6ter 🇫🇷
+http://99.27.51.147:8080/6ter/index.m3u8
+#EXTINF:-1 cuid="560" tvg-chno="560" tvg-name="6ter 🇫🇷" tvg-id="6ter.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/6ter.webp" group-title="•➤ França 🇫🇷",6ter 🇫🇷
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/22.m3u8
+
 #EXTINF:-1 cuid="551" tvg-chno="551" tvg-name="LCI 🇫🇷" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-a422bb-0@3x.png" group-title="•➤ França 🇫🇷",LCI 🇫🇷
 http://213.246.39.14:8070/LCI/index.m3u8
 #EXTINF:-1 cuid="551" tvg-chno="551" tvg-name="LCI 🇫🇷" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-a422bb-0@3x.png" group-title="•➤ França 🇫🇷",LCI 🇫🇷
@@ -2058,6 +2113,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/
 #EXTINF:-1 cuid="552" tvg-chno="552" tvg-name="LCI 🇫🇷" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-a422bb-0@3x.png" group-title="•➤ França 🇫🇷",LCI 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
 
+#EXTINF:-1 cuid="554" tvg-chno="554" tvg-name="TFX 🇫🇷" tvg-id="TFX.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp" group-title="•➤ França 🇫🇷",TFXᶠᴴᴰ 🇫🇷
+http://41.205.93.154/TFX/mpegts
 #EXTINF:-1 cuid="554" tvg-chno="554" tvg-name="TFX 🇫🇷" tvg-id="TFX.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp" group-title="•➤ França 🇫🇷",TFX 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tfx.m3u8
 #EXTINF:-1 cuid="555" tvg-chno="555" tvg-name="TFX 🇫🇷" tvg-id="TFX.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp" group-title="•➤ França 🇫🇷",TFX 🇫🇷
@@ -2070,34 +2127,31 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/
 #EXTINF:-1 cuid="558" tvg-chno="558" tvg-name="TMC 🇫🇷" tvg-id="TMC.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TMC.webp" group-title="•➤ França 🇫🇷",TMC 🇫🇷
 http://185.59.221.131:8081/live/tmc/playlist.m3u8
 
-#EXTINF:-1 cuid="559" tvg-chno="559" tvg-name="Paris Premiere 🇫🇷" tvg-id="Paris.Première.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp" group-title="•➤ França 🇫🇷",Paris Premiere 🇫🇷
-http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
-
-#EXTINF:-1 cuid="560" tvg-chno="560" tvg-name="6ter 🇫🇷" tvg-id="6ter.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/6ter.webp" group-title="•➤ França 🇫🇷",6ter 🇫🇷
-https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/22.m3u8
-
+#EXTINF:-1 cuid="563" tvg-chno="563" tvg-name="TF1 🇫🇷" tvg-id="TF1.fr" tvg-logo="https://api.tv.init7.net/media/logos/2115_TF1Switzerland.ch.png" group-title="•➤ França 🇫🇷",TF1 🇫🇷
+http://212.102.60.80/TF1/index.m3u8
 #EXTINF:-1 cuid="561" tvg-chno="561" tvg-name="TF1 🇫🇷" tvg-id="TF1.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TF1.webp" group-title="•➤ França 🇫🇷",TF1 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 cuid="562" tvg-chno="562" tvg-name="TF1 🇫🇷" tvg-id="TF1.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TF1.webp" group-title="•➤ França 🇫🇷",TF1 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tf1.m3u8
 
-#EXTINF:-1 cuid="563" tvg-chno="563" tvg-name="TF1 🇫🇷" tvg-id="TF1.fr" tvg-logo="https://api.tv.init7.net/media/logos/2115_TF1Switzerland.ch.png" group-title="•➤ França 🇫🇷",TF1 🇫🇷
-http://212.102.60.80/TF1/index.m3u8
+#EXTINF:-1 cuid="566" tvg-chno="566" tvg-name="TF1 Series Films 🇫🇷" tvg-id="TF1.Séries-Films.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp" group-title="•➤ França 🇫🇷",TF1 Series Films 🇫🇷
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tf1sf.m3u8
+#EXTINF:-1 cuid="567" tvg-chno="567" tvg-name="TF1 Series Films 🇫🇷" tvg-id="TF1.Séries-Films.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp" group-title="•➤ França 🇫🇷",TF1 Series Films 🇫🇷
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
 
 #EXTINF:-1 cuid="564" tvg-chno="564" tvg-name="|MYTF1| Comédie Fiction" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-c2c7de-ef601b-0@3x.png" group-title="•➤ França 🇫🇷",|MYTF1| Comédie Fiction
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/comedie-fiction.m3u8
+
+#EXTINF:-1 cuid="559" tvg-chno="559" tvg-name="Paris Premiere 🇫🇷" tvg-id="Paris.Première.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp" group-title="•➤ França 🇫🇷",Paris Premiereᶠᴴᴰ 🇫🇷
+http://213.246.39.14:8070/PARIS_PREMIERE_HD/index.m3u8
+#EXTINF:-1 cuid="559" tvg-chno="559" tvg-name="Paris Premiere 🇫🇷" tvg-id="Paris.Première.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp" group-title="•➤ França 🇫🇷",Paris Premiere 🇫🇷
+http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
 
 #EXTINF:-1 cuid="565" tvg-chno="565" tvg-name="Emotion'L 🇫🇷" tvg-id="FRBB340000115" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20220323T075813SQUARE.png_20220323075816.png" group-title="•➤ França 🇫🇷",Emotion'L 🇫🇷
 https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Emotionelle-FR-prod/master.m3u8
 
 #EXTINF:-1 cuid="565" tvg-chno="565" tvg-name="Emotion'L 🇫🇷" tvg-id="FR1800004EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png" group-title="•➤ França 🇫🇷",TV5 Monde Voyage 🇫🇷
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
-
-#EXTINF:-1 cuid="566" tvg-chno="566" tvg-name="TF1 Series Films 🇫🇷" tvg-id="TF1.Séries-Films.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp" group-title="•➤ França 🇫🇷",TF1 Series Films 🇫🇷
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tf1sf.m3u8
-
-#EXTINF:-1 cuid="567" tvg-chno="567" tvg-name="TF1 Series Films 🇫🇷" tvg-id="TF1.Séries-Films.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp" group-title="•➤ França 🇫🇷",TF1 Series Films 🇫🇷
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
 
 #EXTINF:-1 cuid="568" tvg-chno="568" tvg-name="C8 🇫🇷" tvg-id="C8.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp" group-title="•➤ França 🇫🇷",C8 🇫🇷
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/c8.m3u8
@@ -2112,7 +2166,9 @@ http://213.246.39.14:8070/W9_HD/index.m3u8
 http://99.27.51.147:8080/W9/index.m3u8
 
 #EXTINF:-1 cuid="571" tvg-chno="571" tvg-name="RTL 9 🇫🇷" tvg-id="RTL9.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RTL9.webp" group-title="•➤ França 🇫🇷",RTL 9 🇫🇷
-#http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/30999&f=.ts
+http://99.27.51.147:8080/RTL9/index.m3u8
+#EXTINF:-1 cuid="571" tvg-chno="571" tvg-name="RTL 9 🇫🇷" tvg-id="RTL9.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RTL9.webp" group-title="•➤ França 🇫🇷",RTL 9 🇫🇷
+http://41.205.93.154/RTL9/mpegts
 
 #EXTINF:-1 cuid="572" tvg-chno="572" tvg-name="CSTAR" tvg-id="CStar.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CStar.webp" group-title="•➤ França 🇫🇷",CSTAR 🇫🇷
 http://213.246.39.14:8070/cstar/index.m3u8
@@ -2564,9 +2620,9 @@ http://gzcdn.vood.top:80/hls/254078_.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="980" tvg-chno="980" tvg-name="" tvg-id="DAZN.F1.es" tvg-logo="https://logo.iptveditor.com/daznf1.png" group-title="•➤ Sports 🆃🅾🅿",DAZN F1 🇪🇸 🏎️
-http://tv.iprotv.live:80/canales-ProYeCtoX998/NuevacanalesProyectoRw/70316.m3u8
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/165418.m3u8
 #EXTINF:-1 cuid="980" tvg-chno="980" tvg-name="" tvg-id="DAZN.F1.es" tvg-logo="https://logo.iptveditor.com/daznf1.png" group-title="•➤ Sports 🆃🅾🅿",DAZN F1 🇪🇸 🏎️
-http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1442&f=.ts
+http://tv.iprotv.live:80/canales-ProYeCtoX998/NuevacanalesProyectoRw/70316.m3u8
 
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-name="SKY F1 🇮🇹" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/skySportF1.webp" group-title="•➤ Sports 🆃🅾🅿",SKY Sport F1 🇬🇧
 http://54.36.162.3/skspf1/index.m3u8
@@ -3034,6 +3090,8 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium42/index.m3u8
 #EXTINF:-1 cuid="1068" tvg-chno="1068" tvg-name="Eurosport 2 🇬🇧" tvg-id="Eurosport.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="•➤ Eurosport Channels",Eurosport 2 🇬🇧
+http://4k.7354919.xyz:8080/live/MKA_0715_X/a84cL6CZsZje/171517.m3u8
+#EXTINF:-1 cuid="1068" tvg-chno="1068" tvg-name="Eurosport 2 🇬🇧" tvg-id="Eurosport.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="•➤ Eurosport Channels",Eurosport 2 🇬🇧
 http://62.210.123.134:98/live/an75d/75d/145&f=.ts
 #EXTINF:-1 cuid="1065" tvg-chno="1065" tvg-name="Eurosport 2 🇩🇪" tvg-id="EUROSPORT.2.GERMANY.eurosport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="•➤ Eurosport Channels",Eurosport 2 🇩🇪
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/4096
@@ -3134,6 +3192,9 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="•➤ Music 🎧" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HITtv.webp",Hit tvᶠᴴᴰ 🇪🇸
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.m3u8
 
+#EXTINF:-1 cuid="1225" tvg-chno="1223" tvg-id="M6.Music.fr" tvg-name="M6.Music" group-title="•➤ Music 🎧" tvg-logo="https://logo.iptveditor.com/m6music.png",M6 Music 🇫🇷
+http://213.246.39.14:8070/M6_MUSIC/index.m3u8
+
 #EXTINF:-1 cuid="1225" tvg-chno="1223" tvg-id="MCM.Pop.pt" tvg-name="MCM Pop" group-title="•➤ Music 🎧" tvg-logo="https://logo.iptveditor.com/mcmpop.png",MCM Popᶠᴴᴰ 🇫🇷
 http://live.admuspeh.my/8351/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 cuid="1225" tvg-chno="1223" tvg-id="MCM.Top.pt" tvg-name="MCM Top" group-title="•➤ Music 🎧" tvg-logo="https://logo.iptveditor.com/mcmtop.png",MCM Topᴸᴼᵂ 🇫🇷
@@ -3148,7 +3209,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05
 #EXTINF:-1 cuid="1228" tvg-chno="1226" tvg-name="VH1+Rock" tvg-id="6447d08f2858cb0008b9957c" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" group-title="•➤ Music 🎧",VH1+Rock
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6447d08f2858cb0008b9957c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1229" tvg-chno="1227" tvg-name="VH1+Music Legends" tvg-id="62e8cc10ca869f00078efca8" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="•➤ Music 🎧",VH1+Music Legends
+#EXTINF:-1 cuid="1229" tvg-chno="1227" tvg-name="VH1+Music 🇱🇪🇬ends" tvg-id="62e8cc10ca869f00078efca8" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="•➤ Music 🎧",VH1+Music 🇱🇪🇬ends
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="1230" tvg-chno="1228" tvg-name="Staccs Music TV Greatest Hits" tvg-id="ITBD3100003TH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3100003TH_20241030T140834SQUARE.png" group-title="•➤ Music 🎧",Staccs Music TV Greatest Hits
@@ -3532,7 +3593,7 @@ https://centova.radio.com.pt/proxy/491?mp=/stream
 #EXTINF:-1 cuid="1330" tvg-chno="1330" tvg-name="Diana fm (Évora)" tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png" group-title="•➤ Radio 📻",Diana fm (Évora)
 https://centova.radios.com.pt/proxy/460?mp=/stream
 
-#EXTINF:-1 cuid="1331" tvg-chno="1331" tvg-name="Rádio Portalegre" tvg-logo="https://radioportalegre.pt/wp-content/uploads/2023/11/logo35anos.png" group-title="•➤ Radio 📻",Rádio Portalegre
+#EXTINF:-1 cuid="1331" tvg-chno="1331" tvg-name="Rádio Porta🇱🇪🇬re" tvg-logo="https://radioporta🇱🇪🇬re.pt/wp-content/uploads/2023/11/logo35anos.png" group-title="•➤ Radio 📻",Rádio Porta🇱🇪🇬re
 http://centova.radios.pt:9492/stream
 
 --- 📺 ♫ ʀᴀᴅɪos ɪɴᴛᴇʀɴᴀcɪoɴᴀɪs
@@ -3621,7 +3682,7 @@ https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 #EXTINF:-1 cuid="1346" tvg-chno="1346" tvg-name="Erox HD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp" group-title="•➤ Adult 🔞",Erox HD
 http://178.219.128.68:64888/EROXHD
 
-#EXTINF:-1 cuid="1348" tvg-chno="1348" tvg-name="Barely Legal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp" group-title="•➤ Adult 🔞",Barely Legal
+#EXTINF:-1 cuid="1348" tvg-chno="1348" tvg-name="Barely 🇱🇪🇬al" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp" group-title="•➤ Adult 🔞",Barely 🇱🇪🇬al
 http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
 
 #EXTINF:-1 cuid="1349" tvg-chno="1349" tvg-name="Bunga Bunga" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp" group-title="•➤ Adult 🔞",Bunga Bunga
@@ -3669,32 +3730,41 @@ http://181.78.109.49:8000/play/a03z/index.m3u8
 --- 📺 𝙑𝙞𝘿𝙀𝙊 𝘾𝙇𝙐𝘽
 
 
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/france%20netf/netflix%20tv.png" group-title="•➤ VideoClube 🎬",Netflix Movies₂₄.₇ 🇪🇸🇺🇸
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/1024616.ts
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/france%20netf/netflix%20tv.png" group-title="•➤ VideoClube 🎬",Netflix Action₂₄.₇ 🇪🇸🇺🇸
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/1024611.ts
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/france%20netf/netflix%20tv.png" group-title="•➤ VideoClube 🎬",Netflix Box Ofifce₂₄.₇ 🇪🇸🇺🇸
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/1024612.ts
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/france%20netf/netflix%20tv.png" group-title="•➤ VideoClube 🎬",Netflix Horror₂₄.₇ 🇪🇸🇺🇸
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/1024614.ts
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🇵🇹🇧🇷",Netflix Channel₂₄.₇
+
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/france%20netf/netflix%20tv.png" group-title="•➤ VideoClube 🎬",Netflix Channel₂₄.₇ 🇵🇹🇧🇷
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028886&extension=ts&play_token=zGNoAGtoi1&sn2=
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🇵🇹🇧🇷",HBO Go₂₄.₇
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🎬",HBO Go₂₄.₇ 🇵🇹🇧🇷
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028884&extension=ts&play_token=0MCBqIkDU1&sn2=
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🇵🇹🇧🇷",Amazon Prime Video₂₄.₇
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🎬",Amazon Prime Video₂₄.₇ 🇵🇹🇧🇷
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028888&extension=ts&play_token=sFLkSehTKl&sn2=
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🇵🇹🇧🇷",The Horror Channel₂₄.₇
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🎬",The Horror Channel₂₄.₇ 🇵🇹🇧🇷
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028889&extension=ts&play_token=C24OQmsYiI&sn2=
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🇵🇹🇧🇷",Action Movies₂₄.₇
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🎬",Action Movies₂₄.₇ 🇵🇹🇧🇷
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028871&extension=ts&play_token=2n5MLvzlFP&sn2=
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🇵🇹🇧🇷",Science Fiction₂₄.₇
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🎬",Science Fiction₂₄.₇ 🇵🇹🇧🇷
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028882&extension=ts&play_token=h1AvBzaeLZ&sn2=
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🇵🇹🇧🇷",Films Comédia₂₄.₇
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🎬",Films Comédia₂₄.₇ 🇵🇹🇧🇷
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028876&extension=ts&play_token=IrGsNSeT8x&sn2=
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🇵🇹🇧🇷",Animação₂₄.₇
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🎬",Animação₂₄.₇ 🇵🇹🇧🇷
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028872&extension=ts&play_token=1si5QhwOiM&sn2=
 
-#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🇵🇹🇧🇷",Disney+₂₄.₇
+#EXTINF:-1 cuid="41" tvg-chno="41" tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/playPT.webp" group-title="•➤ VideoClube 🎬",Disney+₂₄.₇ 🇵🇹🇧🇷
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=1028878&extension=ts&play_token=x2822RuOvP&sn2=
 
 --- 📽️📽️✨ 𝘿𝙊𝘾𝙎
@@ -3733,55 +3803,369 @@ https://cdn-01.watch4.com/01/DfptQOLVQW.mp4
 --- 📽️✨ 𝙈𝙤𝙫𝙞𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨
 
 
-#EXTINF:-1 tvg-name="The Damned [ʟ] (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg" group-title="•➤ Lançamentos 2025 📽️",The Damned [ʟ] (2025)
+#EXTINF:-1 tvg-name="The Damned 🇱🇪🇬 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg" group-title="•➤ Lançamentos 2025 📽️",The Damned 🇱🇪🇬 (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/271129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Volta à Ação (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg" group-title="•➤ Lançamentos 2025 📽️",De Volta à Ação [ʟ] (2025)
+#EXTINF:-1 tvg-id="" tvg-name="De Volta à Ação (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg" group-title="•➤ Lançamentos 2025 📽️",De Volta à Ação 🇱🇪🇬 (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/536347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nosferatu (2025) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="•➤ Lançamentos 2025 📽️",Nosferatu [ʟ] (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Nosferatu (2025) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="•➤ Lançamentos 2025 📽️",Nosferatu 🇱🇪🇬 (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/537432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Seção 31 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lwW5zp8o2WZqynQtRs7jXDpQh1.jpg" group-title="•➤ Lançamentos 2025 📽️",Star Trek: Seção 31 [ʟ] (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Seção 31 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lwW5zp8o2WZqynQtRs7jXDpQh1.jpg" group-title="•➤ Lançamentos 2025 📽️",Star Trek: Seção 31 🇱🇪🇬 (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/537891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oficina do Diabo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33ugYq5qlJTAiXkfIhdUSxQUTT8.jpg" group-title="•➤ Lançamentos 2025 📽️",Oficina do Diabo [ʟ] (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Oficina do Diabo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33ugYq5qlJTAiXkfIhdUSxQUTT8.jpg" group-title="•➤ Lançamentos 2025 📽️",Oficina do Diabo 🇱🇪🇬 (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/536354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino do Calendário (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUZutzzSNvE7IDchtBRlHPCLvjB.jpg" group-title="•➤ Lançamentos 2025 📽️",O Assassino do Calendário [ʟ] (2025)
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino do Calendário (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUZutzzSNvE7IDchtBRlHPCLvjB.jpg" group-title="•➤ Lançamentos 2025 📽️",O Assassino do Calendário 🇱🇪🇬 (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/535403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vítimas do Dia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBeg7UpgNllgs8FI7iMBbp7hdSQ.jpg" group-title="•➤ Lançamentos 2025 📽️",Vítimas do Dia [ʟ] (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Vítimas do Dia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBeg7UpgNllgs8FI7iMBbp7hdSQ.jpg" group-title="•➤ Lançamentos 2025 📽️",Vítimas do Dia 🇱🇪🇬 (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/266453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ad Vitam (2025) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="•➤ Lançamentos 2025 📽️",Ad Vitam [ʟ](2025)
+#EXTINF:-1 tvg-id="" tvg-name="Ad Vitam (2025) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="•➤ Lançamentos 2025 📽️",Ad Vitam 🇱🇪🇬(2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/534899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Porto Seguro (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg" group-title="•➤ Lançamentos 2025 📽️",Missão Porto Seguro [ʟ] (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Missão Porto Seguro (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg" group-title="•➤ Lançamentos 2025 📽️",Missão Porto Seguro 🇱🇪🇬 (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/265926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Entre Dois Amores (2025) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1aZxghCHlQK07xymiqs1C4YdqC.jpg" group-title="•➤ Lançamentos 2025 📽️",Umjolo: Entre Dois Amores [ʟ] (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Entre Dois Amores (2025) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1aZxghCHlQK07xymiqs1C4YdqC.jpg" group-title="•➤ Lançamentos 2025 📽️",Umjolo: Entre Dois Amores 🇱🇪🇬 (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/533585.mp4
-#EXTINF:-1 tvg-name="O Truque do Amor [ʟ] (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi6xUdJgh2OyF4yM7YAGGwKgKYS.jpg" group-title="•➤ Lançamentos 2025 📽️",O Truque do Amor [ʟ] (2025)
+#EXTINF:-1 tvg-name="O Truque do Amor 🇱🇪🇬 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi6xUdJgh2OyF4yM7YAGGwKgKYS.jpg" group-title="•➤ Lançamentos 2025 📽️",O Truque do Amor 🇱🇪🇬 (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/263454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem que Quer Viver para Sempre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6mdvaGWxdfLb23wWBO1gHdnMdG.jpg" group-title="•➤ Lançamentos 2025 📽️",O Homem que Quer Viver para Sempre [ʟ] (2025)
+#EXTINF:-1 tvg-id="" tvg-name="O Homem que Quer Viver para Sempre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6mdvaGWxdfLb23wWBO1gHdnMdG.jpg" group-title="•➤ Lançamentos 2025 📽️",O Homem que Quer Viver para Sempre 🇱🇪🇬 (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/263448.mp4
-
-
-#EXTINF:-1 tvg-name="Farol da Ilusão [L] (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZPlnGO4jWvBtIoG9hRlqyfg8g8.jpg" group-title="•➤ Lançamentos 2025 📽️",Farol da Ilusão [ʟ] (2024)
+#EXTINF:-1 tvg-name="Farol da Ilusão🇱🇪🇬 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZPlnGO4jWvBtIoG9hRlqyfg8g8.jpg" group-title="•➤ Lançamentos 2025 📽️",Farol da Ilusão 🇱🇪🇬 (2024)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/271113.mp4
-#EXTINF:-1 tvg-name="Criaturas do Farol [L] (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AB3bHhsNBpnhMDThJP6RI0tery.jpg" group-title="•➤ Lançamentos 2025 📽️",Criaturas do Farol [ʟ] (2024)
+#EXTINF:-1 tvg-name="Criaturas do Farol🇱🇪🇬 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AB3bHhsNBpnhMDThJP6RI0tery.jpg" group-title="•➤ Lançamentos 2025 📽️",Criaturas do Farol 🇱🇪🇬 (2024)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/271105.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="VOD MUL-SUBT 2023",65 (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="VOD MUL-SUBT 2023",Ant-Man and the Wasp: Quantumania 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Assassin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg" group-title="VOD MUL-SUBT 2023",Assassin (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big George Foreman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg" group-title="VOD MUL-SUBT 2023",Big George Foreman (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boston Strangler (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yte9tGCiUAUZaFZQqmY3507g6N.jpg" group-title="VOD MUL-SUBT 2023",The Boston Strangler (2006)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chang Can Dunk 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yte9tGCiUAUZaFZQqmY3507g6N.jpg" group-title="VOD MUL-SUBT 2023",Chang Can Dunk 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clock (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkPpmNSdbRIgtscqH86BQFLJXcz.jpg" group-title="VOD MUL-SUBT 2023",Clock (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cocaine Bear: The True Story (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVOzTMjmERFxlvwIIWCB3Tyopfj.jpg" group-title="VOD MUL-SUBT 2023",Cocaine Bear: The True Story (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crater (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8S9quTZUY3BCpr45LrNR9G4L80d.jpg" group-title="VOD MUL-SUBT 2023",Crater (2022)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="VOD MUL-SUBT 2023",Creed III (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Die Hart the Movie 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="VOD MUL-SUBT 2023",Die Hart the Movie 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evil Dead Rise 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="VOD MUL-SUBT 2023",Evil Dead Rise 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gangs of Lagos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg" group-title="VOD MUL-SUBT 2023",Gangs of Lagos (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hypnotic (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg" group-title="VOD MUL-SUBT 2023",Hypnotic (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inside (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LkXT7fzT4uV35ublhxhDwR6Pi.jpg" group-title="VOD MUL-SUBT 2023",Inside (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LkXT7fzT4uV35ublhxhDwR6Pi.jpg" group-title="VOD MUL-SUBT 2023",John Wick: Chapter 4 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Knock at the Cabin 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LkXT7fzT4uV35ublhxhDwR6Pi.jpg" group-title="VOD MUL-SUBT 2023",Knock at the Cabin 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Dixie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="VOD MUL-SUBT 2023",Little Dixie (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike's Last Dance 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="VOD MUL-SUBT 2023",Magic Mike's Last Dance 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marlowe (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5zdw7xyj7l9rDoZBTz3DW4JrWX.jpg" group-title="VOD MUL-SUBT 2023",Marlowe (2007)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Missing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q59hQEwqRURySkT9Fc7wznjQ2L.jpg" group-title="VOD MUL-SUBT 2023",Missing (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Momias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg" group-title="VOD MUL-SUBT 2023",Momias (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On a Wing and a Prayer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD MUL-SUBT 2023",On a Wing and a Prayer
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune: Ruse de Guerre 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD MUL-SUBT 2023",Operation Fortune: Ruse de Guerre 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eHEN70MD6HfpBGYny8O2RxxYcD.jpg" group-title="VOD MUL-SUBT 2023",Pathaan (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" group-title="VOD MUL-SUBT 2023",Peter Pan & Wendy (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prom Pact 🇱🇪🇬 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" group-title="VOD MUL-SUBT 2023",Prom Pact 🇱🇪🇬 
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor en Rye Lane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcdEqYTTnh6luc2heEsjf0fAI7X.jpg" group-title="VOD MUL-SUBT 2023",Amor en Rye Lane (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="VOD MUL-SUBT 2023",Sayen (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKMvCIE91h4aBot6DDO19QTsVbF.jpg" group-title="VOD MUL-SUBT 2023",Scream VI (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fury of the Gods 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKMvCIE91h4aBot6DDO19QTsVbF.jpg" group-title="VOD MUL-SUBT 2023",Shazam! Fury of the Gods 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sisu (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" group-title="VOD MUL-SUBT 2023",Sisu (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg" group-title="VOD MUL-SUBT 2023",Tetris (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Хара Бэкир (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm9TAcFTsRgJX8hRreiLLLphcw1.jpg" group-title="VOD MUL-SUBT 2023",Хара Бэкир (2017)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pope's Exorcist 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm9TAcFTsRgJX8hRreiLLLphcw1.jpg" group-title="VOD MUL-SUBT 2023",The Pope's Exorcist 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Puerta Mágica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0LnQfMOCxY1SXrs9SyWXtR9mMI.jpg" group-title="VOD MUL-SUBT 2023",La Puerta Mágica (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ritual Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="VOD MUL-SUBT 2023",The Ritual Killer (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Súper Mario Bros. La película (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="VOD MUL-SUBT 2023",Súper Mario Bros. La película (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Swan Princess: A Fairytale Is Born 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="VOD MUL-SUBT 2023",The Swan Princess: A Fairytale Is Born 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Unheard (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRW7jHeSMAsuSQyLDYIc04T9F.jpg" group-title="VOD MUL-SUBT 2023",The Unheard (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wait With Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34cgjVoAIXVsZ2uZkTsdxWhv2Si.jpg" group-title="VOD MUL-SUBT 2023",Wait With Me (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="White Men Can't Jump (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faxmOb7s9Snm4hA6qJN8eYvfpcu.jpg" group-title="VOD MUL-SUBT 2023",White Men Can't Jump (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Winnie the Pooh: Blood and Honey (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg" group-title="VOD MUL-SUBT 2023",Winnie the Pooh: Blood and Honey (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="5lbs of Pressure 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg" group-title="•➤ Lançamentos 2025 📽️",5lbs of Pressure 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abigail (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6swWpho5jKxMIez9diNJm0Kqhj.jpg" group-title="•➤ Lançamentos 2025 📽️",Abigail (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aftermath (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5MS8hvEVqU0UwCjEWlYhKrNLqI.jpg" group-title="•➤ Lançamentos 2025 📽️",Aftermath (1994)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Hipster in Rural Spain [MULT-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5MS8hvEVqU0UwCjEWlYhKrNLqI.jpg" group-title="•➤ Lançamentos 2025 📽️",A Hipster in Rural Spain [MULT-SUB]
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Air Force One Down (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg" group-title="•➤ Lançamentos 2025 📽️",Air Force One Down (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alienoid: Return to the Future (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXA8RfOBaKWmGUn6J5BOFdKh6b8.jpg" group-title="•➤ Lançamentos 2025 📽️",Alienoid: Return to the Future (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amar Singh Chamkila (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9wSGgaPfbGUBBlne7xw8GaArvu.jpg" group-title="•➤ Lançamentos 2025 📽️",Amar Singh Chamkila (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Dreamer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bUsa318eCnztKZlcG86s8xk9Rk.jpg" group-title="•➤ Lançamentos 2025 📽️",American Dreamer (2022)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Star (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFjxI9yMd142au1O74JlUttG4Ki.jpg" group-title="•➤ Lançamentos 2025 📽️",American Star (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="An American in Austen (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPurbvRNfJ3KOlSLXFPoD07Cazg.jpg" group-title="•➤ Lançamentos 2025 📽️",An American in Austen (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arcadian (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg" group-title="•➤ Lançamentos 2025 📽️",Arcadian (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Argylle (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tshllXJDIctUlD1kMPQdIh37L2V.jpg" group-title="•➤ Lançamentos 2025 📽️",Argylle (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arthur's Whisky (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLInRxGU9kp1o2djoS2xK75Ilmk.jpg" group-title="•➤ Lançamentos 2025 📽️",Arthur's Whisky (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Merlin And Arthur The Lion King (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Merlin And Arthur The Lion King (2011)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Scottish Love Scheme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU27y1agaBDnDWgc3ypm1b2qNC0.jpg" group-title="•➤ Lançamentos 2025 📽️",A Scottish Love Scheme (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asphalt City (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg" group-title="•➤ Lançamentos 2025 📽️",Asphalt City (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful Wedding 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg" group-title="•➤ Lançamentos 2025 📽️",Beautiful Wedding 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Marley: One Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg" group-title="•➤ Lançamentos 2025 📽️",Bob Marley: One Love (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bramayugam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4geWE7mQwGyzNGLw1MKoDf8Fs7.jpg" group-title="•➤ Lançamentos 2025 📽️",Bramayugam (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bray Wyatt: Becoming Immortal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6OhBod23e2i3XbEkPgpXupEb5q.jpg" group-title="•➤ Lançamentos 2025 📽️",Bray Wyatt: Becoming Immortal (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breathe (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg" group-title="•➤ Lançamentos 2025 📽️",Breathe (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Butchers Book Two: Raghorn (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg" group-title="•➤ Lançamentos 2025 📽️",Butchers Book Two: Raghorn (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madre Cabrini (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPEugPgW0FzHfkGe78HI1YQS4oe.jpg" group-title="•➤ Lançamentos 2025 📽️",Madre Cabrini (2019)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calamity Jane (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XwylJi2GRLAEqhIUb9tf9ue4Hn.jpg" group-title="•➤ Lançamentos 2025 📽️",Calamity Jane (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Capitán Miller (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blpuCOI2Qz5pmA2yTMJiQ9tEmFb.jpg" group-title="•➤ Lançamentos 2025 📽️",Capitán Miller (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cult Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" group-title="•➤ Lançamentos 2025 📽️",Cult Killer (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Damaged (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3aPmYOkd8GclXg8nTvKQ4w1f7L.jpg" group-title="•➤ Lançamentos 2025 📽️",Damaged (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DarkGame (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaARRhlsuJGnpOGeDmIhraxmOxi.jpg" group-title="•➤ Lançamentos 2025 📽️",DarkGame (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Double Blind (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGKQ4nPA5WDVbq2KdXkGpohEC7Y.jpg" group-title="•➤ Lançamentos 2025 📽️",Double Blind (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Double Down South (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgAnqwaFKg0fsWVTFEo6vk82msE.jpg" group-title="•➤ Lançamentos 2025 📽️",Double Down South (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drift (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OMssa91kM2GUNrDUfcqDqxajnR.jpg" group-title="•➤ Lançamentos 2025 📽️",Drift (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dune: Parte dos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6o5cJjA4srfvU52UKWaqPUuPPgl.jpg" group-title="•➤ Lançamentos 2025 📽️",Dune: Parte dos (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eagle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Eagle (2020)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="파묘 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw0i3kkmOTjDjGFZTLHKhoeXVvA.jpg" group-title="•➤ Lançamentos 2025 📽️",파묘 (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fighter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg" group-title="•➤ Lançamentos 2025 📽️",Fighter (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Five Blind Dates 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg" group-title="•➤ Lançamentos 2025 📽️",Five Blind Dates 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Friday Night Sext Scandal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="•➤ Lançamentos 2025 📽️",Friday Night Sext Scandal (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters Frozen Empire 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="•➤ Lançamentos 2025 📽️",Ghostbusters Frozen Empire 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Giannis The Marvelous Journey 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="•➤ Lançamentos 2025 📽️",Giannis The Marvelous Journey 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Girls State (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD1oCssH4GMGrzUljlVpydQFbGx.jpg" group-title="•➤ Lançamentos 2025 📽️",Girls State (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gods of the Deep 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD1oCssH4GMGrzUljlVpydQFbGx.jpg" group-title="•➤ Lançamentos 2025 📽️",Gods of the Deep 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" group-title="•➤ Lançamentos 2025 📽️",Godzilla y Kong: El nuevo imperio (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hellhound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9hkaCIha8hIhRo0XXShhcosrPH.jpg" group-title="•➤ Lançamentos 2025 📽️",Hellhound (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="How to Date Billy Walsh 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9hkaCIha8hIhRo0XXShhcosrPH.jpg" group-title="•➤ Lançamentos 2025 📽️",How to Date Billy Walsh 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Humane (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" group-title="•➤ Lançamentos 2025 📽️",Humane (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hundreds of Beavers 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" group-title="•➤ Lançamentos 2025 📽️",Hundreds of Beavers 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I.S.S. 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" group-title="•➤ Lançamentos 2025 📽️",I.S.S. 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Imaginary (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jrq4lA5KV3oIFnCYGDueSMTENd.jpg" group-title="•➤ Lançamentos 2025 📽️",Imaginary (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Immaculate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFxjlcejJxSusT82UZl6QfVOgBA.jpg" group-title="•➤ Lançamentos 2025 📽️",Immaculate (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infestados (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vopnye2ckkJFQCeoMp3BSB7mPJn.jpg" group-title="•➤ Lançamentos 2025 📽️",Infestados (2002)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Justice League Crisis on Infinite Earths Part One 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vopnye2ckkJFQCeoMp3BSB7mPJn.jpg" group-title="•➤ Lançamentos 2025 📽️",Justice League Crisis on Infinite Earths Part One 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOT8n3YOOkInZ5VHJN4FffHrm43.jpg" group-title="•➤ Lançamentos 2025 📽️",Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Knox Goes Away (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w39qKYjltCix18BwtoZ1e45usdb.jpg" group-title="•➤ Lançamentos 2025 📽️",Knox Goes Away (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title="•➤ Lançamentos 2025 📽️",Kung Fu Panda 4 (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Land of Doom (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/booxOEMnUf6CT0ZhId7eQRvuXt2.jpg" group-title="•➤ Lançamentos 2025 📽️",Land of Doom (1986)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LaRoy, Texas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OvSeMHed2zENuoxI7YWMvvkQS2.jpg" group-title="•➤ Lançamentos 2025 📽️",LaRoy, Texas (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Late Night with the Devil 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OvSeMHed2zENuoxI7YWMvvkQS2.jpg" group-title="•➤ Lançamentos 2025 📽️",Late Night with the Devil 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazareth (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36o8ancoKDKW1sstzMi0YYkQkpU.jpg" group-title="•➤ Lançamentos 2025 📽️",Lazareth (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lights Out (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VzEIaYWO9HFIp6lgjfbLRJRKSF.jpg" group-title="•➤ Lançamentos 2025 📽️",Lights Out (2013)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="•➤ Lançamentos 2025 📽️",Lisa Frankenstein (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Shot (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LDeHrG8RBluJ7IkPgBaOMkU3fl.jpg" group-title="•➤ Lançamentos 2025 📽️",Long Shot (2017)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Lies Bleeding (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Love Lies Bleeding (1977)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madame (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg" group-title="•➤ Lançamentos 2025 📽️",Madame (2017)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yiddish Mean Girls (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to1EwEcP0S3GQNtSekKiVhx3Ppd.jpg" group-title="•➤ Lançamentos 2025 📽️",Yiddish Mean Girls (2022)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Megamind vs. the Doom Syndicate 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to1EwEcP0S3GQNtSekKiVhx3Ppd.jpg" group-title="•➤ Lançamentos 2025 📽️",Megamind vs. the Doom Syndicate 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La belle meunière (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhkqKtzC73UQh7K2rHTzRZgisVv.jpg" group-title="•➤ Lançamentos 2025 📽️",La belle meunière (1948)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg" group-title="•➤ Lançamentos 2025 📽️",Monkey Man (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monster Mash (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkO5dkldULotBPjbgznzXlHjSFs.jpg" group-title="•➤ Lançamentos 2025 📽️",Monster Mash (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Murder Mubarak 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkO5dkldULotBPjbgznzXlHjSFs.jpg" group-title="•➤ Lançamentos 2025 📽️",Murder Mubarak 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="•➤ Lançamentos 2025 📽️",Música (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="New Life (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYTerxU14TaGKfAmbaWMmGH5ORo.jpg" group-title="•➤ Lançamentos 2025 📽️",New Life (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Night Swim (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GshCpNveb9X7vuoIpQOcBOGL9g.jpg" group-title="•➤ Lançamentos 2025 📽️",Night Swim (2014)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Le jardin de Jad (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Le jardin de Jad (2007)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One More Shot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhQRrJSZv7OtMfn5kxeedeISgh9.jpg" group-title="•➤ Lançamentos 2025 📽️",One More Shot (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ordinary Angels 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhQRrJSZv7OtMfn5kxeedeISgh9.jpg" group-title="•➤ Lançamentos 2025 📽️",Ordinary Angels 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parallel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glZRP5M0uDoAzYKLB2XcCc8Gaep.jpg" group-title="•➤ Lançamentos 2025 📽️",Parallel (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Race for Glory: Audi vs Lancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwu27eJfUbuHa8zubVXMRWptiZ8.jpg" group-title="•➤ Lançamentos 2025 📽️",Race for Glory: Audi vs Lancia (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ramy Youssef: More Feelings (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFI4xn1fGxIIFdk60rUBhbyA3J0.jpg" group-title="•➤ Lançamentos 2025 📽️",Ramy Youssef: More Feelings (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red Right Hand (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg" group-title="•➤ Lançamentos 2025 📽️",Red Right Hand (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ricky Stanicky: El Impostor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg" group-title="•➤ Lançamentos 2025 📽️",Ricky Stanicky: El Impostor (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Road House (1934)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Road House (1934)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="•➤ Lançamentos 2025 📽️",Sayen: La cazadora (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Self Reliance (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg" group-title="•➤ Lançamentos 2025 📽️",Self Reliance (2023)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaitaan (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38xAhCjGMwJpqTFETr0VxQkYCDv.jpg" group-title="•➤ Lançamentos 2025 📽️",Shaitaan (1974)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sleeping Dogs (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r88FuWzZ7zZZjzpF0FHLaH0RFR5.jpg" group-title="•➤ Lançamentos 2025 📽️",Sleeping Dogs (1997)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg" group-title="•➤ Lançamentos 2025 📽️",Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snow Valley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avet7KbWhIwwhHZ4JSnbSpEzeTX.jpg" group-title="•➤ Lançamentos 2025 📽️",Snow Valley (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sometimes I Think About Dying (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpcjCTzVoxoxIBmBGpjGrWL4JIV.jpg" group-title="•➤ Lançamentos 2025 📽️",Sometimes I Think About Dying (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Somewhere Quiet (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evExphB7F7PpCHx06dMCwePArfH.jpg" group-title="•➤ Lançamentos 2025 📽️",Somewhere Quiet (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Still Fabulous 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evExphB7F7PpCHx06dMCwePArfH.jpg" group-title="•➤ Lançamentos 2025 📽️",Still Fabulous 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sting (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIyC9PHfVbk9p2cUSRHUf3HntJv.jpg" group-title="•➤ Lançamentos 2025 📽️",Sting (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stopmotion (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg" group-title="•➤ Lançamentos 2025 📽️",Stopmotion (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title="•➤ Lançamentos 2025 📽️",Suncoast (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sunrise (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aRvg2ybz646gciX5M6qaclunC2.jpg" group-title="•➤ Lançamentos 2025 📽️",Sunrise (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="तेरी बातों में ऐसा उलझा जिया (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwsBpnwmMO0xtIgxvCrViJgZhVj.jpg" group-title="•➤ Lançamentos 2025 📽️",तेरी बातों में ऐसा उलझा जिया (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The American Society of Magical Negroes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg" group-title="•➤ Lançamentos 2025 📽️",The American Society of Magical Negroes (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bloody Hundredth 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg" group-title="•➤ Lançamentos 2025 📽️",The Bloody Hundredth 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Book of Clarence (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPjISDZSYwQ1s5zc7ljFoyuYV6q.jpg" group-title="•➤ Lançamentos 2025 📽️",The Book of Clarence (2017)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Greatest Hits (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cve12HkI9psBUfmkx7FeBciaQN7.jpg" group-title="•➤ Lançamentos 2025 📽️",The Greatest Hits (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Idea of a You (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8clne9uiXLUa0Y5GmOZDLQAxtS.jpg" group-title="•➤ Lançamentos 2025 📽️",The Idea of a You (2022)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Stop in Yuma County (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6ae2MMh8PpSamO3cIttLM5B18v.jpg" group-title="•➤ Lançamentos 2025 📽️",The Last Stop in Yuma County (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ministry of Ungentlemanly Warfare 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6ae2MMh8PpSamO3cIttLM5B18v.jpg" group-title="•➤ Lançamentos 2025 📽️",The Ministry of Ungentlemanly Warfare 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Bungle: The Night They Came Home (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiqACHU5TC6SCWD71FKj0zTeGar.jpg" group-title="•➤ Lançamentos 2025 📽️",Mr. Bungle: The Night They Came Home (2020)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Painter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="•➤ Lançamentos 2025 📽️",The Painter (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Seeding (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="•➤ Lançamentos 2025 📽️",The Seeding (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tiger's Apprentice 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="•➤ Lançamentos 2025 📽️",The Tiger's Apprentice 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Underdoggs 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="•➤ Lançamentos 2025 📽️",The Underdoggs 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="This Is Me...Now Radio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",This Is Me...Now Radio
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tigers on the Rise (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho4EXQLuDnIqTNGIKB34rzQ6euH.jpg" group-title="•➤ Lançamentos 2025 📽️",Tigers on the Rise (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Life, Upgraded (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Life, Upgraded (2019)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wanted Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="•➤ Lançamentos 2025 📽️",Wanted Man (2024)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Which Brings Me to You 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="•➤ Lançamentos 2025 📽️",Which Brings Me to You 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wicked Little Letters 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="•➤ Lançamentos 2025 📽️",Wicked Little Letters 🇱🇪🇬
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yodha (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsiVE2dtwZITpnUxafDQtb4t8z8.jpg" group-title="•➤ Lançamentos 2025 📽️",Yodha (1991)
+http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846827.mkv
 
 
 --- 📺 📽️ 𝙏𝙍𝙞𝙊𝙇𝙊𝗚𝙞𝘼: Harry Potter
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal (2001) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Pedra Filosofal (2001) LEG
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal (2001) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Pedra Filosofal (2001) 🇱🇪🇬
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta (2002) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Câmara Secreta (2002) LEG
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta (2002) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Câmara Secreta (2002) 🇱🇪🇬
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban (2004) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Prisioneiro de Azkaban (2004) LEG
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban (2004) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Prisioneiro de Azkaban (2004) 🇱🇪🇬
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo (2005) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Cálice de Fogo (2005) LEG
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo (2005) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Cálice de Fogo (2005) 🇱🇪🇬
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix (2007) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Ordem da Fênix (2007) LEG
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix (2007) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Ordem da Fênix (2007) 🇱🇪🇬
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe (2009) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Enigma do Príncipe (2009) LEG
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe (2009) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Enigma do Príncipe (2009) 🇱🇪🇬
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 (2010) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e as Relíquias da Morte - Parte 1 (2010) LEG
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 (2010) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e as Relíquias da Morte - Parte 1 (2010) 🇱🇪🇬
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 (2011) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e as Relíquias da Morte - Parte 2 (2011) LEG
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 (2011) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e as Relíquias da Morte - Parte 2 (2011) 🇱🇪🇬
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300898.mp4
 
 --- 📺 📽️ 𝙏𝙍𝙞𝙊𝙇𝙊𝗚𝙞𝘼: Beverly Hills Cop
