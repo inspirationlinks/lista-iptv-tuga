@@ -96,10 +96,10 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 cuid="21" tvg-chno="21" tvg-name="SIC Replay 🇵🇹" tvg-id="d47400e0-19d9-4f71-94f4-2b4cfdc1a2ca" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SICReplay.webp" group-title="•➤ Portugal 🇵🇹",SIC Replay 🇵🇹
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
 #EXTINF:-1 cuid="22" tvg-chno="22" tvg-name="SIC Alta Definição 🇵🇹" tvg-id="549519c3-31fa-42de-a621-15e981082fd9" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SICAltaDefinicao.webp" group-title="•➤ Portugal 🇵🇹",SIC Alta Definição 🇵🇹
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
 --- 📺 𝙏𝙑𝙡
 
@@ -554,9 +554,9 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/l
 
 
 #EXTINF:-1 cuid="143" tvg-chno="151" tvg-name="Disney+ 🇧🇷" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",Disney+ 🇧🇷
-#http://izcdn.vood.top/hls/232246_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
+http://izcdn.vood.top/hls/232246_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="143" tvg-chno="151" tvg-name="Disney+ 🇧🇷" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",Disney+ 🇧🇷
-#http://fzcdn.vood.top/hls/232247_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
+http://fzcdn.vood.top/hls/232247_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 
 #EXTINF:-1 cuid="146" tvg-chno="154" tvg-name="ESPN 🇧🇷" tvg-id="ESPN" tvg-logo="https://logo.iptveditor.com/auespn.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 🇧🇷
