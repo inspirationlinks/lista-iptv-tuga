@@ -48,7 +48,7 @@
 
 ![OTT Navigator screenshot](/LogosTv/OTTNavigator.png "OTT Navigator screenshot")
 
-[👉 🖧 Download OTT v1.7.2.1](https://www.mediafire.com/file/0r017v2yknmphhi/OTT_Navigator_v1.7.2.1_Premium.apk/file)
+[👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
 
 * 📢 ❗ <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
 * (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista, (Provedor). É só copiar e colar o link da lista Inspiration e seguir os passos)
