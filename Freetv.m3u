@@ -42,7 +42,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 
 #EXTINF:-1 cuid="8" tvg-chno="8" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="•➤ Portugal 🇵🇹",RTP 1 🇵🇹
-http://ezcdn.vood.top:80/hls/111937_.m3u8
+http://ezcdn.vood.top:80/hls/111937_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="8" tvg-chno="8" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="•➤ Portugal 🇵🇹",RTP 1ᶠᴴᴰ 🇵🇹
 http://sure.streams.me.uk:25461//live/GQGGcVHZjBpn/HsuYn7hVT93U/19&f=.ts
 #EXTINF:-1 cuid="9" tvg-chno="9" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="•➤ Portugal 🇵🇹",RTP 1 🇵🇹
@@ -96,10 +96,10 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 cuid="21" tvg-chno="21" tvg-name="SIC Replay 🇵🇹" tvg-id="d47400e0-19d9-4f71-94f4-2b4cfdc1a2ca" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SICReplay.webp" group-title="•➤ Portugal 🇵🇹",SIC Replay 🇵🇹
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="22" tvg-chno="22" tvg-name="SIC Alta Definição 🇵🇹" tvg-id="549519c3-31fa-42de-a621-15e981082fd9" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SICAltaDefinicao.webp" group-title="•➤ Portugal 🇵🇹",SIC Alta Definição 🇵🇹
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 --- 📺 𝙏𝙑𝙡
 
@@ -140,9 +140,9 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTINF:-1 cuid="33" tvg-chno="33" tvg-name="BBB 25 🇧🇷" tvg-logo="https://s2-gshow.glbimg.com/cPSxpuXYrBfM5ayMCae0XhXDMJM=/196x196/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png" group-title="•➤ Portugal 🇵🇹",BBB 25 🇧🇷
 http://84.16.252.219:2082/live/suspected-TR1-tWRP9jfZlz/qE0FSg2p0Y/1277.m3u8
 #EXTINF:-1 cuid="33" tvg-chno="33" tvg-name="BBB 25 🇧🇷" tvg-logo="https://s2-gshow.glbimg.com/cPSxpuXYrBfM5ayMCae0XhXDMJM=/196x196/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png" group-title="•➤ Portugal 🇵🇹",BBB 25² 🇧🇷
-http://izcdn.vood.top/hls/298260_.m3u8
+http://izcdn.vood.top/hls/298260_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="33" tvg-chno="33" tvg-name="BBB 25 Ginasio 🇧🇷" tvg-logo="https://s2-gshow.glbimg.com/cPSxpuXYrBfM5ayMCae0XhXDMJM=/196x196/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png" group-title="•➤ Portugal 🇵🇹",BBB 25³ 🇧🇷
-http://izcdn.vood.top/hls/298266_.m3u8
+http://izcdn.vood.top/hls/298266_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="33" tvg-chno="33" tvg-name="BBB 25 🇧🇷" tvg-logo="https://s2-gshow.glbimg.com/cPSxpuXYrBfM5ayMCae0XhXDMJM=/196x196/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png" group-title="•➤ Portugal 🇵🇹",BBB 25 Mosaico 🇧🇷
 http://84.16.252.219:2082/live/suspected-TR1-tWRP9jfZlz/qE0FSg2p0Y/1287.m3u8
 
@@ -199,7 +199,7 @@ https://bit.ly/3uQwRzn?5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 cuid="42" tvg-chno="42" tvg-name="AviaçãoTV" tvg-id="AviaçãoTV.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/aviaçãotv.png" group-title="•➤ Diversos 💡",AviaçãoTV 🇵🇹 (𝓑𝙮: thomraider12)
 https://ythls-v3.onrender.com/channel/UC0R-K3crhMX9jzswbmfIORw.m3u8
 
-#EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="Record.pt" tvg-id="" group-title="•➤ Diversos 💡" tvg-logo="https://logo.iptveditor.com/record.png",TVRecord Mozambique 🇲🇿🇵🇹
+#EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="Record.pt" tvg-id="" group-title="•➤ Diversos 💡" tvg-logo="https://logo.iptveditor.com/record.png",TVRecord Mozambique (vᴘɴ 🇲🇿)
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
 #EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="" tvg-id="ZAP.Viva.HD.pt" group-title="•➤ Diversos 💡" tvg-logo="https://logo.iptveditor.com/zapviva.png",Zap Vivaᴸᴼᵂ 🇲🇿🇵🇹
@@ -273,7 +273,7 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/27994
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
 #EXTINF:-1 cuid="933" tvg-chno="933" tvg-name="Fish tv 🇧🇷" tvg-id="FISHTV" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="•➤ Diversos 💡",Fish tvᶠᴴᴰ 🇧🇷
-http://czcdn.vood.top/hls/249_.m3u8
+http://czcdn.vood.top/hls/249_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="933" tvg-chno="933" tvg-name="Fish tv 🇧🇷" tvg-id="FISHTV" tvg-logo="https://logo.iptveditor.com/fishtv.png" group-title="•➤ Diversos 💡",Fish tv 🇧🇷
 http://authxplus-2.xyz:2082/Xplus-1-tiaIQclyoa/XibmyDxkvK/80&f=.ch
 
@@ -544,7 +544,7 @@ https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="•➤ Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%2BFutebol.png",Live ⚽️
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="•➤ Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%2BFutebol.png",Live¹ ⚽️
-http://fzcdn.vood.top:80/hls/112000_.m3u8
+http://fzcdn.vood.top:80/hls/112000_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="•➤ Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%2BFutebol.png",Live² ⚽️🏍🏎️
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live3.m3u8
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-title="•➤ Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%2BFutebol.png",Live³ ⚽️🏍🏎️
@@ -554,9 +554,9 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/l
 
 
 #EXTINF:-1 cuid="143" tvg-chno="151" tvg-name="Disney+ 🇧🇷" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",Disney+ 🇧🇷
-#http://izcdn.vood.top/hls/232246_.m3u8
+#http://izcdn.vood.top/hls/232246_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="143" tvg-chno="151" tvg-name="Disney+ 🇧🇷" tvg-logo="https://logo.iptveditor.com/disneyplus.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",Disney+ 🇧🇷
-#http://fzcdn.vood.top/hls/232247_.m3u8
+#http://fzcdn.vood.top/hls/232247_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 
 #EXTINF:-1 cuid="146" tvg-chno="154" tvg-name="ESPN 🇧🇷" tvg-id="ESPN" tvg-logo="https://logo.iptveditor.com/auespn.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 🇧🇷
@@ -573,7 +573,7 @@ http://s1.1-cup.net:2095//live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7&f=.m3u
 #EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 #EXTINF:-1 cuid="150" tvg-chno="158" tvg-name="ESPN 2 🇧🇷" tvg-id="ESPN2" tvg-logo="https://logo.iptveditor.com/auespn2.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 2 🇧🇷
-http://hzcdn.vood.top:80/hls/215_.m3u8
+http://hzcdn.vood.top:80/hls/215_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="152" tvg-chno="160" tvg-name="ESPN 2 🇧🇷" tvg-id="ESPN2" tvg-logo="https://logo.iptveditor.com/auespn2.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 2 🇧🇷
 http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/144&f=.m3u8
 
@@ -582,7 +582,7 @@ https://super-cdn.link/espn3/index.m3u8
 #EXTINF:-1 cuid="153" tvg-chno="161" tvg-name="ESPN 3 🇧🇷" tvg-id="ESPN3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 3 🇧🇷
 http://158.69.118.175:25461/live/salamlink58465/ttb3j5wXnz/32783&f=.m3u8
 #EXTINF:-1 cuid="153" tvg-chno="161" tvg-name="ESPN 3 🇧🇷" tvg-id="ESPN3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 3 🇧🇷
-http://dzcdn.vood.top:80/hls/218_.m3u8
+http://dzcdn.vood.top:80/hls/218_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="154" tvg-chno="162" tvg-name="ESPN 3 🇧🇷" tvg-id="ESPN3" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 3 🇧🇷
 http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/42&f=.m3u8
 
@@ -593,7 +593,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs
 #EXTINF:-1 cuid="156" tvg-chno="164" tvg-name="ESPN 4 🇧🇷" tvg-id="ESPN4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 4 🇧🇷 🏎️
 http://78.159.122.138:2082//live/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143&f=.ts
 #EXTINF:-1 cuid="156" tvg-chno="164" tvg-name="ESPN 4 🇧🇷" tvg-id="ESPN4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 4 🇧🇷 🏎️
-http://dzcdn.vood.top:80/hls/222_.m3u8
+http://dzcdn.vood.top:80/hls/222_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="157" tvg-chno="165" tvg-name="ESPN 4 🇧🇷" tvg-id="ESPN4" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 4 🇧🇷 🏎️
 http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/48&f=.m3u8
 
@@ -605,7 +605,7 @@ http://authxplus-2.xyz:2082//live/Xplus-1-tiaIQclyoa/XibmyDxkvK/139&f=.ts
 http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140&f=.ts
 
 #EXTINF:-1 cuid="161" tvg-chno="169" tvg-name="ESPN 6 🇧🇷 🥎🏈🏍" tvg-id="ESPN6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 6ᶠᴴᴰ 🇧🇷 🥎🏈🏍
-http://hzcdn.vood.top:80/hls/245_.m3u8
+http://hzcdn.vood.top:80/hls/245_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="161" tvg-chno="169" tvg-name="ESPN 6 🇧🇷 🥎🏈🏍" tvg-id="ESPN6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 6 🇧🇷 🥎🏈🏍
 https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 cuid="161" tvg-chno="169" tvg-name="ESPN 6 🇧🇷 🥎🏈🏍" tvg-id="ESPN6" tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="•➤ Liga Betclic 🇵🇹 ⚽️",ESPN 6 🇧🇷 🥎🏈🏍
@@ -653,7 +653,7 @@ http://178.219.128.68:64888/ELEVSPOR4HD
 --- 📺  𝙆𝙞𝙙𝙨 🧒 🇵🇹🇧🇷
 
 #EXTINF:-1 cuid="182" tvg-chno="190" tvg-name="" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/_onC7ezY_pGDRgGYewaM8GodJx5fFo8eYBbQDo7i-znmwM8xCJMH-kPpDhnRk6kc9Q=w0" group-title="•➤ Kids 🧒",SBT + Criança 🇧🇷
-http://fzcdn.vood.top:80/hls/390574_.m3u8
+http://fzcdn.vood.top:80/hls/390574_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="180" tvg-chno="188" tvg-name="Duck tv 🇪🇸" tvg-id="ESBC4700001GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700001E6_20221214T045010SQUARE.png_20221214045011.png" group-title="•➤ Kids 🧒",Duck tv 🇪🇸
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
@@ -765,7 +765,7 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385
 
 #EXTINF:-1 cuid="221" tvg-chno="229" tvg-name="" tvg-id="ADULTSWIM" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="•➤ Kids 🧒",Adult Swim 🇧🇷
-http://gzcdn.vood.top/hls/376344_.m3u8
+http://gzcdn.vood.top/hls/376344_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="221" tvg-chno="229" tvg-name="" tvg-id="ADULTSWIM" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="•➤ Kids 🧒",Adult Swim 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://embedstream.org/
@@ -848,8 +848,8 @@ https://beanostudios-beanotv-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 cuid="238" tvg-chno="246" tvg-name="ZooMoo 🇺🇸" tvg-id="USBC2400019EF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="•➤ Kids 🧒",ZooMoo 🇺🇸
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 cuid="239" tvg-chno="247" tvg-name="🇱🇪🇬o Kids 🇺🇸" tvg-id="USBA2300001S8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="•➤ Kids 🧒",🇱🇪🇬o Kids 🇺🇸
-https://is.gd/TH0DFt?🇱🇪🇬o_Kids.m3u8
+#EXTINF:-1 cuid="239" tvg-chno="247" tvg-name="(cc)o Kids 🇺🇸" tvg-id="USBA2300001S8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="•➤ Kids 🧒",(cc)o Kids 🇺🇸
+https://is.gd/TH0DFt?(cc)o_Kids.m3u8
 
 #EXTINF:-1 cuid="240" tvg-chno="248" tvg-name="Garfield and Friends 🇺🇸" tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="•➤ Kids 🧒",Garfield and Friends 🇺🇸
 https://is.gd/KGxtX7?60faf9ddfcc1f200070a5932.m3u8
@@ -900,14 +900,14 @@ http://dns.webdosdeuses.top:80//live/rodrigoasencio01/187952243/311530.m3u8
 
 
 #EXTINF:-1 cuid="287" tvg-chno="295" tvg-name="Telecine Premium 🇧🇷" tvg-id="TELECINEPREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Premiumᶠᴴᴰ 🇧🇷
-http://izcdn.vood.top/hls/635_.m3u8
+http://izcdn.vood.top/hls/635_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="288" tvg-chno="296" tvg-name="Telecine Premium 🇧🇷" tvg-id="TELECINEPREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Premium 🇧🇷
 http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96449&f=.m3u8
 #EXTINF:-1 cuid="288" tvg-chno="296" tvg-name="Telecine Premium 🇧🇷" tvg-id="TELECINEPREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Premium 🇧🇷
 http://dzcdn.vood.top/live/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/633.ts
 
 #EXTINF:-1 cuid="289" tvg-chno="297" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Pipocaᶠᴴᴰ 🇧🇷
-http://gzcdn.vood.top/hls/)live/630_.m3u8
+http://gzcdn.vood.top/hls/)live/630_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="289" tvg-chno="297" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Pipoca 🇧🇷
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295&f=.ts
 #EXTINF:-1 cuid="289" tvg-chno="297" tvg-name="Telecine Pipoca 🇧🇷" tvg-id="TELECINEPIPOCA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Pipoca 🇧🇷
@@ -923,7 +923,7 @@ http://dns.webdosdeuses.top:80//live/alessandra18/scm557744/311520.m3u8
 http://dns.webdosdeuses.top:80//live/rodrigoasencio01/187952243/311520.m3u8
 
 #EXTINF:-1 cuid="291" tvg-chno="299" tvg-name="Telecine Cult 🇧🇷" tvg-id="TELECINECULT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Cultᶠᴴᴰ 🇧🇷
-http://izcdn.vood.top/hls/620_.m3u8
+http://izcdn.vood.top/hls/620_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="291" tvg-chno="299" tvg-name="Telecine Cult 🇧🇷" tvg-id="TELECINECULT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Cult 🇧🇷
 http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298&f=.ts
 
@@ -933,7 +933,7 @@ http://dns.webdosdeuses.top:80//live/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/31153
 http://dns.webdosdeuses.top:80//live/rodrigoasencio01/187952243/311532.m3u8
 
 #EXTINF:-1 cuid="293" tvg-chno="301" tvg-name="Telecine Fun 🇧🇷" tvg-id="TELECINEFUN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Funᶠᴴᴰ 🇧🇷
-http://fzcdn.vood.top/hls/625_.m3u8
+http://fzcdn.vood.top/hls/625_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="293" tvg-chno="301" tvg-name="Telecine Fun 🇧🇷" tvg-id="TELECINEFUN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Fun 🇧🇷
 https://super-cdn.link/telecinefun/index.m3u8
 #EXTINF:-1 cuid="293" tvg-chno="301" tvg-name="Telecine Fun 🇧🇷" tvg-id="TELECINEFUN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Fun 🇧🇷
@@ -945,7 +945,7 @@ http://dns.webdosdeuses.top:80//live/alessandra18/scm557744/311529.m3u8
 http://dns.webdosdeuses.top:80//live/rodrigoasencio01/187952243/311529.m3u8
 
 #EXTINF:-1 cuid="294" tvg-chno="302" tvg-name="Telecine Touch 🇧🇷" tvg-id="TELECINETOUCH" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Touchᶠᴴᴰ 🇧🇷
-http://hzcdn.vood.top/hls/589_.m3u8
+http://hzcdn.vood.top/hls/589_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="294" tvg-chno="302" tvg-name="Telecine Touch 🇧🇷" tvg-id="TELECINETOUCH" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Touch 🇧🇷
 https://super-cdn.link/telecinetouch/index.m3u8
 #EXTINF:-1 cuid="294" tvg-chno="302" tvg-name="Telecine Touch 🇧🇷" tvg-id="TELECINETOUCH" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Touch 🇧🇷
@@ -954,7 +954,7 @@ http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310&f=.ts
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31593&f=.ts
 
 #EXTINF:-1 cuid="296" tvg-chno="304" tvg-name="Telecine Action 🇧🇷" tvg-id="TELECINEACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-action-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Actionᶠᴴᴰ 🇧🇷
-http://fzcdn.vood.top/hls/615_.m3u8
+http://fzcdn.vood.top/hls/615_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="296" tvg-chno="304" tvg-name="Telecine Action 🇧🇷" tvg-id="TELECINEACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-action-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Action 🇧🇷
 http://super-cdn.link/telecineaction/index.m3u8
 #EXTINF:-1 cuid="296" tvg-chno="304" tvg-name="Telecine Action 🇧🇷" tvg-id="TELECINEACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-action-br.png" group-title="•➤ Brasil 🇧🇷",Telecine Action 🇧🇷
@@ -974,7 +974,7 @@ http://dns.webdosdeuses.top:80//live/alessandra18/scm557744/311526&f=.ts
 #EXTINF:-1 cuid="70" tvg-chno="70" tvg-name="HBO Pop" tvg-id="HBOPOP" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="•➤ Brasil 🇧🇷",HBO Pop (cc 🇧🇷)
 http://dns.webdosdeuses.top:80//live/rodrigoasencio01/187952243/311526.ts
 #EXTINF:-1 cuid="70" tvg-chno="70" tvg-name="HBO Pop" tvg-id="HBOPOP" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="•➤ Brasil 🇧🇷",HBO Pop 🇧🇷 
-http://hzcdn.vood.top:80/hls/18779_.m3u8
+http://hzcdn.vood.top:80/hls/18779_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="66" tvg-chno="66" tvg-name="HBO (cc 🇧🇷)" tvg-id="HBO" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp" group-title="•➤ Brasil 🇧🇷",HBO 🇧🇷
 http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/251&f=.ts
@@ -986,7 +986,7 @@ http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31465&f=.ts
 #EXTINF:-1 cuid="299" tvg-chno="81" tvg-name="HBO 2 🇧🇷" tvg-id="HBO2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="•➤ Brasil 🇧🇷",HBO 2 🇧🇷
 http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248&f=.ts
 #EXTINF:-1 cuid="299" tvg-chno="81" tvg-name="HBO 2 🇧🇷" tvg-id="HBO2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="•➤ Brasil 🇧🇷",HBO 2 🇧🇷
-http://izcdn.vood.top:80/hls/18756_.m3u8
+http://izcdn.vood.top:80/hls/18756_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="299" tvg-chno="81" tvg-name="HBO 2 🇧🇷" tvg-id="HBO2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="•➤ Brasil 🇧🇷",HBO 2 🇧🇷
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31460&f=.ts
 
@@ -996,31 +996,31 @@ http://authxplus-2.xyz:2082/live/Xplus-1-tiaIQclyoa/XibmyDxkvK/264.m3u8
 http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.m3u8
 
 #EXTINF:-1 cuid="68" tvg-chno="68" tvg-name="HBO Signature (cc 🇧🇷)" tvg-id="HBOSIGNATURE" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="•➤ Brasil 🇧🇷",HBO Signature 🇧🇷 
-http://dzcdn.vood.top:80/hls/18767_.m3u8
+http://dzcdn.vood.top:80/hls/18767_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="69" tvg-chno="69" tvg-name="HBO Xtreme (cc 🇧🇷)" tvg-id="HBOXTREME" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="•➤ Brasil 🇧🇷",HBO Xtreme 🇧🇷 
-http://gzcdn.vood.top:80/hls/18775_.m3u8
+http://gzcdn.vood.top:80/hls/18775_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="69" tvg-chno="69" tvg-name="HBO Xtreme (cc 🇧🇷)" tvg-id="HBOXTREME" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="•➤ Brasil 🇧🇷",HBO Xtreme (cc 🇧🇷)
 http://authxplus-2.xyz:2082/live/Xplus-1-tiaIQclyoa/XibmyDxkvK/266.m3u8
 
 #EXTINF:-1 cuid="303" tvg-chno="85" tvg-name="HBO Family 🇧🇷" tvg-id="HBOFAMILY" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="•➤ Brasil 🇧🇷",HBO Family 🇧🇷
-http://czcdn.vood.top:80/hls/18759_.m3u8
+http://czcdn.vood.top:80/hls/18759_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="303" tvg-chno="85" tvg-name="HBO Family 🇧🇷" tvg-id="HBOFAMILY" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="•➤ Brasil 🇧🇷",HBO Family 🇧🇷
 http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96413.m3u8
 #EXTINF:-1 cuid="303" tvg-chno="85" tvg-name="HBO Family 🇧🇷" tvg-id="HBOFAMILY" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="•➤ Brasil 🇧🇷",HBO Family 🇧🇷
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31462&f=.ts
 
 #EXTINF:-1 cuid="71" tvg-chno="71" tvg-name="HBO Mundi (cc 🇧🇷)" tvg-id="HBOMUNDI" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="•➤ Brasil 🇧🇷",HBO Mundi 🇧🇷
-http://dzcdn.vood.top:80/hls/18771_.m3u8
+http://dzcdn.vood.top:80/hls/18771_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="71" tvg-chno="71" tvg-name="HBO Mundi (cc 🇧🇷)" tvg-id="HBOMUNDI" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="•➤ Brasil 🇧🇷",HBO Mundi 🇧🇷
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/256&f=.ts
 
 #EXTINF:-1 cuid="286" tvg-chno="294" tvg-name="" tvg-id="" tvg-logo="https://is.gd/6WIlhD" group-title="•➤ Brasil 🇧🇷",+Cinema 🇧🇷
-http://hzcdn.vood.top:80/hls/390573_.m3u8
+http://hzcdn.vood.top:80/hls/390573_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="286" tvg-chno="294" tvg-name="" tvg-id="" tvg-logo="https://is.gd/6WIlhD" group-title="•➤ Brasil 🇧🇷",+TVZYN 🇧🇷
-http://dzcdn.vood.top:80/hls/390582_.m3u8
+http://dzcdn.vood.top:80/hls/390582_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="286" tvg-chno="294" tvg-name="" tvg-id="" tvg-logo="https://is.gd/6WIlhD" group-title="•➤ Brasil 🇧🇷",+Series 🇧🇷
-http://dzcdn.vood.top:80/hls/390580_.m3u8
+http://dzcdn.vood.top:80/hls/390580_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="326" tvg-chno="326" tvg-name="Hallo! Séries 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671670c07d96d_5f6aed7245709cfbe81d9d7e7fddbbcf.png" group-title="•➤ Brasil 🇧🇷",Hallo! Séries 🇧🇷
 https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
@@ -1039,7 +1039,7 @@ https://embedcanaistv.club/filmarts/tracks-v1a1/mono.m3u8
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/242&f=.ts
 
 #EXTINF:-1 cuid="306" tvg-chno="306" tvg-name="Fx 🇧🇷" tvg-id="FX" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FX.webp" group-title="•➤ Brasil 🇧🇷",Fx 🇧🇷
-http://gzcdn.vood.top/hls/594_.m3u8
+http://gzcdn.vood.top/hls/594_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="306" tvg-chno="306" tvg-name="Fx 🇧🇷" tvg-id="FX" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FX.webp" group-title="•➤ Brasil 🇧🇷",Fx 🇧🇷
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/244
 #EXTINF:-1 cuid="306" tvg-chno="306" tvg-name="Fx 🇧🇷" tvg-id="FX" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FX.webp" group-title="•➤ Brasil 🇧🇷",Fx 🇧🇷
@@ -1053,10 +1053,10 @@ http://super-cdn.link/fx/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/megapix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 cuid="323" tvg-chno="323" tvg-name="Megapix 🇧🇷" tvg-id="MEGAPIX" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png" group-title="•➤ Brasil 🇧🇷",Megapixᶠᴴᴰ 🇧🇷
-http://gzcdn.vood.top/hls/692_.m3u8
+http://gzcdn.vood.top/hls/692_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="318" tvg-chno="318" tvg-name="TNT 🇧🇷" tvg-id="TNT" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="•➤ Brasil 🇧🇷",TNTᶠᴴᴰ 🇧🇷
-http://dzcdn.vood.top/hls/733_.m3u8
+http://dzcdn.vood.top/hls/733_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="318" tvg-chno="318" tvg-name="TNT 🇧🇷" tvg-id="TNT" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="•➤ Brasil 🇧🇷",TNT 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/tnt/video.m3u8
@@ -1064,13 +1064,13 @@ https://embedcanaistv.club/tnt/video.m3u8
 http://dzcdn.vood.top/live/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/733.m3u8
 
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-name="TNT Series 🇧🇷" tvg-id="TNTSERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="•➤ Brasil 🇧🇷",TNT Seriesᶠᴴᴰ 🇧🇷
-http://czcdn.vood.top/hls/738_.m3u8
+http://czcdn.vood.top/hls/738_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-name="TNT Series 🇧🇷" tvg-id="TNTSERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="•➤ Brasil 🇧🇷",TNT Series 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/tntseries/video.m3u8
 
 #EXTINF:-1 cuid="316" tvg-chno="316" tvg-name="Warner Channel 🇧🇷" tvg-id="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="•➤ Brasil 🇧🇷",Warner Channel 🇧🇷
-http://gzcdn.vood.top/hls/749_.m3u8
+http://gzcdn.vood.top/hls/749_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="316" tvg-chno="316" tvg-name="Warner Channel 🇧🇷" tvg-id="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="•➤ Brasil 🇧🇷",Warner Channel 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/warner/video.m3u8
@@ -1080,7 +1080,7 @@ http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/311536.m3u8
 #EXTINF:-1 cuid="307" tvg-chno="307" tvg-name="Star Channel 🇧🇷" tvg-id="STARCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="•➤ Brasil 🇧🇷",Star Channel 🇧🇷
 http://super-cdn.link/starchannel/index.m3u8
 #EXTINF:-1 cuid="307" tvg-chno="307" tvg-name="Star Channel 🇧🇷" tvg-id="STARCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="•➤ Brasil 🇧🇷",Star Channelᶠᴴᴰ 🇧🇷
-http://izcdn.vood.top:80/hls/598_.m3u8
+http://izcdn.vood.top:80/hls/598_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="307" tvg-chno="307" tvg-name="Star Channel 🇧🇷" tvg-id="STARCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="•➤ Brasil 🇧🇷",Star Channel 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
@@ -1088,21 +1088,21 @@ http://izcdn.vood.top:80/hls/598_.m3u8
 https://embedcanaistv.club/starchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 cuid="308" tvg-chno="308" tvg-name="AXN 🇧🇷" tvg-id="AXN" tvg-logo="https://br.axn.com/themes/custom/responsive_sony_axn/logo.png" group-title="•➤ Brasil 🇧🇷",AXNᶠᴴᴰ 🇧🇷
-http://hzcdn.vood.top/hls/676_.m3u8
+http://hzcdn.vood.top/hls/676_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="308" tvg-chno="308" tvg-name="AXN 🇧🇷" tvg-id="AXN" tvg-logo="https://br.axn.com/themes/custom/responsive_sony_axn/logo.png" group-title="•➤ Brasil 🇧🇷",AXN 🇧🇷
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/233.m3u8
 #EXTINF:-1 cuid="309" tvg-chno="309" tvg-name="AXN 🇧🇷" tvg-id="AXN" tvg-logo="https://br.axn.com/themes/custom/responsive_sony_axn/logo.png" group-title="•➤ Brasil 🇧🇷",AXN 🇧🇷
 https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 cuid="307" tvg-chno="307" tvg-name="Cine Canal" tvg-id="Cinecanal.br" tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="•➤ Brasil 🇧🇷",Cine Canal 🇧🇷
-http://fzcdn.vood.top/hls/602_.m3u8
+http://fzcdn.vood.top/hls/602_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="311" tvg-chno="311" tvg-name="AMC 🇧🇷" tvg-id="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="•➤ Brasil 🇧🇷",AMC 🇧🇷
 https://super-cdn.link/amc/index.m3u8
 #EXTINF:-1 cuid="311" tvg-chno="311" tvg-name="AMC 🇧🇷" tvg-id="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="•➤ Brasil 🇧🇷",AMC 🇧🇷
-http://dzcdn.vood.top/hls/669_.m3u8
+http://dzcdn.vood.top/hls/669_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="311" tvg-chno="311" tvg-name="AMC 🇧🇷" tvg-id="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="•➤ Brasil 🇧🇷",AMCᶠᴴᴰ 🇧🇷
-http://ezcdn.vood.top:80/hls/671_.m3u8
+http://ezcdn.vood.top:80/hls/671_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="312" tvg-chno="312" tvg-name="AMC 🇧🇷" tvg-id="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="•➤ Brasil 🇧🇷",AMC 🇧🇷
 http://dzcdn.vood.top/live/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/669.m3u8
 
@@ -1110,7 +1110,7 @@ http://dzcdn.vood.top/live/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/669.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
 
 #EXTINF:-1 cuid="314" tvg-chno="314" tvg-name="Sony Channel 🇧🇷" tvg-id="CANALSONY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="•➤ Brasil 🇧🇷",Sony Channelᶠᴴᴰ 🇧🇷
-http://ezcdn.vood.top/hls/702_.m3u8
+http://ezcdn.vood.top/hls/702_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="314" tvg-chno="314" tvg-name="Sony Channel 🇧🇷" tvg-id="CANALSONY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="•➤ Brasil 🇧🇷",Sony Channel 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/sonychannel/tracks-v1a1/mono.m3u8
@@ -1127,20 +1127,20 @@ http://authxplus-2.xyz:2082//live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289&f=.ts
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319
 
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-id="CINEMAX" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="•➤ Brasil 🇧🇷",Cinemaxᶠᴴᴰ 🇧🇷
-http://hzcdn.vood.top:80/hls/682_.m3u8
+http://hzcdn.vood.top:80/hls/682_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-id="CINEMAX" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="•➤ Brasil 🇧🇷",Cinemax 🇧🇷
 http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43&f=.m3u8
 #EXTINF:-1 cuid="321" tvg-chno="321" tvg-id="CINEMAX" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="•➤ Brasil 🇧🇷",Cinemax 🇧🇷
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240&f=.ts
 
 #EXTINF:-1 cuid="325" tvg-chno="325" tvg-name="Space 🇧🇷" tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="•➤ Brasil 🇧🇷",Spaceᶠᴴᴰ 🇧🇷
-http://fzcdn.vood.top:80/hls/707_.m3u8
+http://fzcdn.vood.top:80/hls/707_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="325" tvg-chno="325" tvg-name="Space 🇧🇷" tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="•➤ Brasil 🇧🇷",Space 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/space/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 cuid="325" tvg-chno="325" tvg-name="" tvg-id="SYFY" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="•➤ Brasil 🇧🇷",SYFYᶠᴴᴰ 🇧🇷
-http://ezcdn.vood.top/hls/718_.m3u8
+http://ezcdn.vood.top/hls/718_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="330" tvg-chno="330" tvg-name="PIX TV 🇧🇷" tvg-logo="https://pixtv.com.br/wp-content/uploads/2023/05/logo.png" group-title="•➤ Brasil 🇧🇷",PIX TV 🇧🇷
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
@@ -1154,15 +1154,15 @@ https://embedcanaistv.club/lifetime/video.m3u8
 https://embedcanaistv.club/tlc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 cuid="338" tvg-chno="338" tvg-name="A&E 🇧🇷" tvg-id="AE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png" group-title="•➤ Brasil 🇧🇷",A&Eᶠᴴᴰ 🇧🇷
-http://czcdn.vood.top:80/hls/666_.m3u8
+http://czcdn.vood.top:80/hls/666_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="338" tvg-chno="338" tvg-name="A&E 🇧🇷" tvg-id="AE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png" group-title="•➤ Brasil 🇧🇷",A&E 🇧🇷
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 
 #EXTINF:-1 cuid="361" tvg-chno="361" tvg-name="" tvg-id="TRUE" tvg-logo="http://beststorage4you.com:2095/logoscanais/TRUTV.png" group-title="•➤ Brasil 🇧🇷",TruTV
-http://izcdn.vood.top/hls/2642_.m3u8
+http://izcdn.vood.top/hls/2642_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="361" tvg-chno="361" tvg-name="" tvg-id="PRIMEBOXBRAZIL" tvg-logo="http://beststorage4you.com:2095/logoscanais/PRIMEBOXBRAZIL.png" group-title="•➤ Brasil 🇧🇷",Prime Box Brazil
-http://izcdn.vood.top/hls/2523_.m3u8
+http://izcdn.vood.top/hls/2523_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="335" tvg-chno="335" tvg-name="Viva 🇧🇷" tvg-id="VIVA" tvg-logo="https://yt3.googleusercontent.com/jZtv-nRNSTE6uxIp98GLKVPxFY2Xhs1CeTy8__M2Jq9k2yI5ojEeZvAEmlW0kpDqjuoRW4bLkw=s900-c-k-c0x00ffffff-no-rj" group-title="•➤ Brasil 🇧🇷",Viva 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -1178,7 +1178,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 http://authxplus-2.xyz:2082/Xplus-1-tiaIQclyoa/XibmyDxkvK/114
 
 #EXTINF:-1 cuid="354" tvg-chno="354" tvg-name="Multishow 🇧🇷" tvg-id="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png" group-title="•➤ Brasil 🇧🇷",Multishowᶠᴴᴰ 🇧🇷
-http://dzcdn.vood.top/hls/377241_.m3u8
+http://dzcdn.vood.top/hls/377241_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="354" tvg-chno="354" tvg-name="Multishow 🇧🇷" tvg-id="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png" group-title="•➤ Brasil 🇧🇷",Multishow 🇧🇷
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/423&f=.m3u8
 #EXTINF:-1 cuid="354" tvg-chno="354" tvg-name="Multishow 🇧🇷" tvg-id="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png" group-title="•➤ Brasil 🇧🇷",Multishow 🇧🇷
@@ -1187,10 +1187,10 @@ http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/423&f=.m3u8
 https://embedcanaistv.club/multishow/video.m3u8
 
 #EXTINF:-1 cuid="354" tvg-chno="354" tvg-name="gnt" tvg-id="GNT" tvg-logo="https://logo.iptveditor.com/gnt.png" group-title="•➤ Brasil 🇧🇷",gntᶠᴴᴰ 🇧🇷
-http://fzcdn.vood.top/hls/377238_.m3u8
+http://fzcdn.vood.top/hls/377238_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="354" tvg-chno="354" tvg-name="" tvg-id="WOOHOO" tvg-logo="http://beststorage4you.com:2095/logoscanais/WOOHOO.png" group-title="•➤ Brasil 🇧🇷",Woohooᶠᴴᴰ 🇧🇷
-http://izcdn.vood.top/hls/2541_.m3u8
+http://izcdn.vood.top/hls/2541_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="354" tvg-chno="354" tvg-name="" tvg-id="WOOHOO" tvg-logo="http://beststorage4you.com:2095/logoscanais/WOOHOO.png" group-title="•➤ Brasil 🇧🇷",Woohoo 🇧🇷
 https://super-cdn.link/woohoo/index.m3u8
 
@@ -1203,7 +1203,7 @@ http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/120.m3u8
 https://embedcanaistv.club/hgtv/video.m3u8
 
 #EXTINF:-1 cuid="343" tvg-chno="343" tvg-name="History 🇧🇷" tvg-id="HISTORY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" group-title="•➤ Brasil 🇧🇷",History 🇧🇷
-http://gzcdn.vood.top:80/hls/2615_.m3u8
+http://gzcdn.vood.top:80/hls/2615_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="344" tvg-chno="344" tvg-name="History 🇧🇷" tvg-id="HISTORY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" group-title="•➤ Brasil 🇧🇷",History 🇧🇷
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/82
 
@@ -1221,10 +1221,10 @@ http://izcdn.vood.top/hls/363194_.com
 https://anonstream.zip/nationalgeographic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 cuid="53" tvg-chno="53" tvg-name="Discovery" tvg-id="DISCOVERYCHANNEL" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="•➤ Brasil 🇧🇷",Discovery Channel 🇧🇷 
-http://izcdn.vood.top/hls/2577_.m3u8
+http://izcdn.vood.top/hls/2577_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="53" tvg-chno="53" tvg-name="Discovery" tvg-id="DISCHOMEHEALTH" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="•➤ Brasil 🇧🇷",h&h Discovery 🇧🇷 
-http://czcdn.vood.top/hls/2572_.m3u8
+http://czcdn.vood.top/hls/2572_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="53" tvg-chno="53" tvg-name="Discovery World (cc 🇧🇷)" tvg-id="DISCOVERYWORLD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="•➤ Brasil 🇧🇷",Discovery World (cc 🇧🇷)
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16712&f=.ts
@@ -1232,14 +1232,14 @@ http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16712&f=.ts
 http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/84.m3u8
 
 #EXTINF:-1 cuid="351" tvg-chno="351" tvg-name="Discovery Science 🇧🇷" tvg-id="DISCOVERYSCIENCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png" group-title="•➤ Brasil 🇧🇷",Discovery Science 🇧🇷
-http://dzcdn.vood.top/hls/2582_.m3u8
+http://dzcdn.vood.top/hls/2582_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="351" tvg-chno="351" tvg-name="Discovery Science 🇧🇷" tvg-id="DISCOVERYSCIENCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png" group-title="•➤ Brasil 🇧🇷",Discovery Science 🇧🇷
 http://authxplus-2.xyz:2082/Xplus-1-tiaIQclyoa/XibmyDxkvK/71
 #EXTINF:-1 cuid="352" tvg-chno="352" tvg-name="Discovery Science 🇧🇷" tvg-id="DISCOVERYSCIENCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png" group-title="•➤ Brasil 🇧🇷",Discovery Science 🇧🇷
 http://dns.webdosdeuses.top:80/LIST-MIGIRATION-o6MqsdubfU/abc7ZMtEfq/121.m3u8
 
 #EXTINF:-1 cuid="353" tvg-chno="353" tvg-name="Discovery Theater 🇧🇷" tvg-id="DISCOVERYTHEATER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="•➤ Brasil 🇧🇷",Discovery Theater 🇧🇷
-http://czcdn.vood.top/hls/2587_.m3u8
+http://czcdn.vood.top/hls/2587_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="353" tvg-chno="353" tvg-name="Discovery Theater 🇧🇷" tvg-id="DISCOVERYTHEATER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="•➤ Brasil 🇧🇷",Discovery Theater 🇧🇷
 http://authxplus-2.xyz:2082/Xplus-1-tiaIQclyoa/XibmyDxkvK/73
 #EXTINF:-1 cuid="353" tvg-chno="353" tvg-name="Discovery Theater 🇧🇷" tvg-id="DISCOVERYTHEATER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="•➤ Brasil 🇧🇷",Discovery Theater 🇧🇷
@@ -1247,7 +1247,7 @@ http://authxplus-2.xyz:2082/Xplus-1-tiaIQclyoa/XibmyDxkvK/73
 https://embedcanaistv.club/discoverytheater/video.m3u8
 
 #EXTINF:-1 cuid="341" tvg-chno="341" tvg-name="ID 🇧🇷" tvg-id="ID" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp" group-title="•➤ Brasil 🇧🇷",IDiscovery 🇧🇷
-http://ezcdn.vood.top:80/hls/2632_.m3u8
+http://ezcdn.vood.top:80/hls/2632_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="341" tvg-chno="341" tvg-name="ID 🇧🇷" tvg-id="ID" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp" group-title="•➤ Brasil 🇧🇷",IDiscovery 🇧🇷
 https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/tracks-v2a1/mono.m3u8
@@ -1255,7 +1255,7 @@ https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/tracks-v2a1/mono.m3u8
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16736&f=.ts
 
 #EXTINF:-1 cuid="350" tvg-chno="350" tvg-name="Animal Planet Disc 🇧🇷" tvg-id="ANIMALPLANET" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="•➤ Brasil 🇧🇷",Animal Planet Disc 🇧🇷
-http://fzcdn.vood.top:80/hls/2602_.m3u8
+http://fzcdn.vood.top:80/hls/2602_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="350" tvg-chno="350" tvg-name="Animal Planet Disc 🇧🇷" tvg-id="ANIMALPLANET" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="•➤ Brasil 🇧🇷",Animal Planet Disc 🇧🇷
 http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/106.m3u8
@@ -1268,7 +1268,7 @@ https://embedcanaistv.club/animalplanet/video.m3u8
 #EXTINF:-1 cuid="355" tvg-chno="355" tvg-name="Globo sᴘ 🇧🇷 ⚽️" tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="•➤ Brasil 🇧🇷",Globo sᴘ 🇧🇷 ⚽️
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 #EXTINF:-1 cuid="355" tvg-chno="355" tvg-name="Globo sᴘ 🇧🇷 ⚽️" tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="•➤ Brasil 🇧🇷",Globo sᴘ 🇧🇷 ⚽️
-http://czcdn.vood.top/hls/289881_.m3u8
+http://czcdn.vood.top/hls/289881_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="355" tvg-chno="355" tvg-name="Globo sᴘ 🇧🇷 ⚽️" tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="•➤ Brasil 🇧🇷",Globo sᴘ 🇧🇷 ⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
@@ -1277,7 +1277,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 cuid="358" tvg-chno="358" tvg-name="Globo ʀᴊ 🇧🇷 ⚽️" tvg-id="GLOBORJ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="•➤ Brasil 🇧🇷",Globo ʀᴊᶠᴴᴰ 🇧🇷 ⚽️
-http://ezcdn.vood.top/hls/2376_.m3u8
+http://ezcdn.vood.top/hls/2376_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="358" tvg-chno="358" tvg-name="Globo ʀᴊ 🇧🇷 ⚽️" tvg-id="GLOBORJ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="•➤ Brasil 🇧🇷",Globo ʀᴊᶠᴴᴰ 🇧🇷 ⚽️
 http://authxplus-2.xyz:2082/Xplus-1-tiaIQclyoa/XibmyDxkvK/504
 #EXTINF:-1 cuid="359" tvg-chno="359" tvg-name="Globo ʙᴀ 🇧🇷 ⚽️" tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="•➤ Brasil 🇧🇷",Globo ʙᴀ 🇧🇷 ⚽️
@@ -1290,7 +1290,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://anonstream.zip/globomg-globominas/index.m3u8
 
 #EXTINF:-1 cuid="361" tvg-chno="361" tvg-name="" tvg-id="RECORDSP" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="•➤ Brasil 🇧🇷",Record sᴘ 🇧🇷
-http://ezcdn.vood.top/hls/244071_.m3u8
+http://ezcdn.vood.top/hls/244071_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="361" tvg-chno="361" tvg-name="" tvg-id="RECORDSP" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp" group-title="•➤ Brasil 🇧🇷",Record sᴘ 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
@@ -1305,7 +1305,7 @@ https://embedcanaistv.club/recordsp/index.m3u8
 https://embedcanaistv.club/recordrj/index.m3u8
 
 #EXTINF:-1 cuid="364" tvg-chno="364" tvg-name="SBT 🇧🇷" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="•➤ Brasil 🇧🇷",SBT 🇧🇷
-http://izcdn.vood.top/hls/244161_.m3u8
+http://izcdn.vood.top/hls/244161_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="364" tvg-chno="364" tvg-name="SBT 🇧🇷" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="•➤ Brasil 🇧🇷",SBT 🇧🇷
 http://conexao-vs.live/SBT/index.m3u8
 #EXTINF:-1 cuid="364" tvg-chno="364" tvg-name="SBT 🇧🇷" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="•➤ Brasil 🇧🇷",SBT 🇧🇷
@@ -1318,7 +1318,7 @@ https://embedcanaistv.club/sbtsp/index.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 cuid="361" tvg-chno="361" tvg-name="BAND  🇧🇷 ⚽️" tvg-id="BAND" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="•➤ Brasil 🇧🇷",BAND 🇧🇷 ⚽️
-http://fzcdn.vood.top/hls/255465_.m3u8
+http://fzcdn.vood.top/hls/255465_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="361" tvg-chno="361" tvg-name="BAND  🇧🇷 ⚽️" tvg-id="BAND" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="•➤ Brasil 🇧🇷",BAND 🇧🇷 ⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
@@ -1336,7 +1336,7 @@ https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
 https://bit.ly/48lKogj?profile=6048fc47a44e540007745d2b.m3u8
 
 #EXTINF:-1 cuid="371" tvg-chno="371" tvg-name="" tvg-id="" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="•➤ Sinal Aberto 🇧🇷",Rede Minas 🇧🇷
-http://hzcdn.vood.top/hls/274516_.m3u8
+http://hzcdn.vood.top/hls/274516_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 
 #EXTINF:-1 cuid="368" tvg-chno="368" tvg-name="Curta! 🇧🇷" tvg-id="CURTA" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png" group-title="•➤ Sinal Aberto 🇧🇷",Curta!ᶠᴴᴰ 🇧🇷
@@ -1348,13 +1348,13 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 #EXTINF:-1 cuid="373" tvg-chno="373" tvg-name="TV f" tvg-id="FUTURA" tvg-logo="http://beststorage4you.com:2095/logoscanais/FUTURA.png" group-title="•➤ Sinal Aberto 🇧🇷",TV Futuraᶠᴴᴰ 🇧🇷
-http://hzcdn.vood.top/hls/159_.m3u8
+http://hzcdn.vood.top/hls/159_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="373" tvg-chno="373" tvg-name="TV Zyn 🇧🇷" tvg-logo="https://static.sbt.com.br/media/playlist/20200720191126/20200720211005/tn/20200721143636.jpeg" group-title="•➤ Sinal Aberto 🇧🇷",TV Zynᶠᴴᴰ 🇧🇷
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 
 #EXTINF:-1 cuid="368" tvg-chno="368" tvg-name="" tvg-id="TVCULTURA" tvg-logo="https://logo.iptveditor.com/tvcultura.png" group-title="•➤ Sinal Aberto 🇧🇷",Tv Cultura 🇧🇷
-http://dzcdn.vood.top/hls/149_.m3u8
+http://dzcdn.vood.top/hls/149_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="368" tvg-chno="368" tvg-name="" tvg-id="TVCULTURA" tvg-logo="https://logo.iptveditor.com/tvcultura.png" group-title="•➤ Sinal Aberto 🇧🇷",Tv Cultura 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
@@ -2257,7 +2257,7 @@ https://d1mw98f2f3pk3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 cuid="599" tvg-chno="599" tvg-name="Warner tv 🇮🇹" tvg-id="Warner.TV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="•➤ Italia 🇮🇹",Warner tv 🇮🇹
 http://46.232.186.35:35001/play/a04g
 #EXTINF:-1 cuid="599" tvg-chno="599" tvg-name="Warner tv 🇮🇹" tvg-id="Warner.TV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="•➤ Italia 🇮🇹",Warner tv 🇮🇹
-http://fzcdn.vood.top/hls/121581_.m3u8
+http://fzcdn.vood.top/hls/121581_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="600" tvg-chno="600" tvg-name="20Mediaset 🇮🇹" tvg-id="20Mediaset HD.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/02/11/151429547-4cb308a8-3e57-4a99-9652-b6a19528f5c0@3.png" group-title="•➤ Italia 🇮🇹",20Mediaset 🇮🇹
 http://46.232.186.35:35001/play/a047
@@ -2340,7 +2340,7 @@ http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 #http://bdta.pro:80//eduardo6784/141204Cc/191203&f=&f=.ts
 
 #EXTINF:-1 cuid="492" tvg-chno="492" tvg-name="TV Novelas 🇧🇷" tvg-id="" tvg-logo="https://is.gd/6WIlhD" group-title="•➤ Novelas",+Novelas 🇧🇷
-http://dzcdn.vood.top:80/hls/390578_.m3u8
+http://dzcdn.vood.top:80/hls/390578_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="492" tvg-chno="492" tvg-name="TV Novelas 🇧🇷" tvg-id="" tvg-logo="https://cdn-01.watch4.com/01/1720620990_wedo-amor_red_logo.png" group-title="•➤ Novelas",Wedo tv Amor 🇧🇷
 https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
@@ -2357,7 +2357,7 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 cuid="494" tvg-chno="494" tvg-name="TNT Novelas 🇧🇷" tvg-id="TNTNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="•➤ Novelas",TNT Novelasᶠᴴᴰ 🇧🇷
-http://gzcdn.vood.top:80/hls/264555_.m3u8
+http://gzcdn.vood.top:80/hls/264555_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="494" tvg-chno="494" tvg-name="TNT Novelas 🇧🇷" tvg-id="TNTNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="•➤ Novelas",TNT Novelas 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/tntnovelas/video.m3u8
@@ -2441,9 +2441,9 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 --- 📺  𝙎𝗽𝙤𝗿𝙩𝙨 𝘽𝙧𝙖𝙨𝙞𝙡𝙞𝙚𝙣 🇧🇷
 
 #EXTINF:-1 cuid="950" tvg-chno="950" tvg-name="" tvg-id="NOSSOFUTEBOL" group-title="•➤ Desportos 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png",Nosso Futebol 🇧🇷
-http://gzcdn.vood.top/hls/301420_.m3u8
+http://gzcdn.vood.top/hls/301420_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="950" tvg-chno="950" tvg-name="" tvg-id="NOSSOFUTEBOL" group-title="•➤ Desportos 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png",Nosso Futebol² 🇧🇷
-http://fzcdn.vood.top:80/hls/301421_.m3u8
+http://fzcdn.vood.top:80/hls/301421_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="950" tvg-chno="950" tvg-name="" tvg-id="NOSSOFUTEBOL" group-title="•➤ Desportos 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png",Nosso Futebol³ 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
@@ -2455,25 +2455,25 @@ https://embedcanaistv.club/nossofutebol/video.m3u8
 https://anonstream.zip/nossofutebol/index.m3u8
 
 #EXTINF:-1 cuid="945" tvg-chno="945" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="•➤ Desportos 🇧🇷",CazéTV 🇧🇷
-http://izcdn.vood.top/hls/311744_.m3u8
+http://izcdn.vood.top/hls/311744_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="945" tvg-chno="945" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="•➤ Desportos 🇧🇷",CazéTV 🇧🇷
 http://84.16.253.20:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/98
 #EXTINF:-1 cuid="945" tvg-chno="945" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="•➤ Desportos 🇧🇷",CazéTV 🇧🇷
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 cuid="945" tvg-chno="945" tvg-logo="https://yt3.googleusercontent.com/MbNvgbhaA-NLzXU61woqYdSlebOdcL64yUvPaMfDIMuXOeoJE3VLk9DmtJHghvkRgZbf9SwB5w=w0" group-title="•➤ Desportos 🇧🇷",GOAT 🇧🇷
-http://hzcdn.vood.top/hls/233914_.m3u8
+http://gzcdn.vood.top/hls/274647_m3u8
 #EXTINF:-1 cuid="945" tvg-chno="945" tvg-logo="https://yt3.googleusercontent.com/MbNvgbhaA-NLzXU61woqYdSlebOdcL64yUvPaMfDIMuXOeoJE3VLk9DmtJHghvkRgZbf9SwB5w=w0" group-title="•➤ Desportos 🇧🇷",GOAT 🇧🇷
-http://gzcdn.vood.top/hls/274647_.m3u8
+http://gzcdn.vood.top/hls/274647_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="945" tvg-chno="945" tvg-logo="https://yt3.googleusercontent.com/MbNvgbhaA-NLzXU61woqYdSlebOdcL64yUvPaMfDIMuXOeoJE3VLk9DmtJHghvkRgZbf9SwB5w=w0" group-title="•➤ Desportos 🇧🇷",GOAT² 🇧🇷
-http://ezcdn.vood.top/hls/233913_.m3u8
+http://ezcdn.vood.top/hls/233913_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="945" tvg-chno="945" tvg-logo="https://yt3.googleusercontent.com/MbNvgbhaA-NLzXU61woqYdSlebOdcL64yUvPaMfDIMuXOeoJE3VLk9DmtJHghvkRgZbf9SwB5w=w0" group-title="•➤ Desportos 🇧🇷",GOAT² 🇧🇷
-http://izcdn.vood.top/hls/232222_.m3u8
+http://izcdn.vood.top/hls/232222_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 ---
 
 #EXTINF:-1 cuid="947" tvg-chno="947" tvg-name="Band Sport 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/brazil/band-sports-br.png" group-title="•➤ Desportos 🇧🇷",Band Sport 🇧🇷
-http://fzcdn.vood.top:80/hls/235_.m3u8
+http://fzcdn.vood.top:80/hls/235_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="946" tvg-chno="946" tvg-name="Band Sport 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/brazil/band-sports-br.png" group-title="•➤ Desportos 🇧🇷",Band Sport 🇧🇷
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
 #EXTINF:-1 cuid="946" tvg-chno="946" tvg-name="Band Sport 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/brazil/band-sports-br.png" group-title="•➤ Desportos 🇧🇷",Band Sport 🇧🇷
@@ -2486,7 +2486,7 @@ https://embedcanaistv.club/bandsports/tracks-v1a1/mono.m3u8
 https://anonstream.zip/bandsports/index.m3u8
 
 #EXTINF:-1 cuid="950" tvg-chno="950" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 🇧🇷
-http://ezcdn.vood.top:80/hls/118881_.m3u8
+http://ezcdn.vood.top:80/hls/118881_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="950" tvg-chno="950" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 🇧🇷
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/178
 #EXTINF:-1 cuid="951" tvg-chno="951" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 🇧🇷
@@ -2505,7 +2505,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 #EXTINF:-1 cuid="953" tvg-chno="953" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 2 🇧🇷
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
 #EXTINF:-1 cuid="953" tvg-chno="953" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 2 🇧🇷
-http://izcdn.vood.top:80/hls/554_.m3u8
+http://izcdn.vood.top:80/hls/554_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="954" tvg-chno="954" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 2 🇧🇷
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/172
 #EXTINF:-1 cuid="954" tvg-chno="954" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 2 🇧🇷
@@ -2517,12 +2517,12 @@ https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/i
 #EXTINF:-1 cuid="955" tvg-chno="955" tvg-name="Sportv 3 🇧🇷 🥊🏎️" tvg-id="SPORTV3" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 3 🇧🇷 🥊🏎️
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 #EXTINF:-1 cuid="955" tvg-chno="955" tvg-name="Sportv 3 🇧🇷 🥊🏎️" tvg-id="SPORTV3" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 3 🇧🇷 🥊🏎️
-http://dzcdn.vood.top:80/hls/118705_.m3u8
+http://dzcdn.vood.top:80/hls/118705_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="956" tvg-chno="956" tvg-name="Sportv 3 🇧🇷 🥊🏎️" tvg-id="SPORTV3" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="•➤ Desportos 🇧🇷",Sportv 3 🇧🇷 🥊🏎️
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
 #EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
-http://dzcdn.vood.top/hls/494_.m3u8
+http://dzcdn.vood.top/hls/494_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="957" tvg-chno="957" tvg-name="Premiere Clubes" tvg-id="PREMIERECLUBES" tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="•➤ Desportos 🇧🇷",Premiere Clubes 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
@@ -2612,7 +2612,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNBATV%5BUSA%5D
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="•➤ Sports 🆃🅾🅿",NBA 🇺🇸
-http://gzcdn.vood.top:80/hls/254078_.m3u8
+http://gzcdn.vood.top:80/hls/254078_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 --- 📺 𝙈𝙊𝙏𝙊𝙍𝙎𝙋𝙊𝙍𝙏𝙎 🇬🇧🇪🇸🇮🇹
 
@@ -2767,7 +2767,7 @@ http://line.4smart.in:80/live/TYHZRW6/MF7V7X2/252098.ts
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportPremierLeague%5BSouthAfrica%5D
 
 #EXTINF:-1 cuid="1126" tvg-chno="1126" tvg-name="NBC Golf 🇺🇸" tvg-id="Golf.Channel.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="•➤ Sports 🆃🅾🅿",NBC Golfᶠᴴᴰ 🇺🇸
-http://ezcdn.vood.top/hls/237176_.m3u8
+http://ezcdn.vood.top/hls/237176_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 
 --- SKY SPORTS 🇳🇿🇬🇧
@@ -3119,7 +3119,7 @@ https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w2736
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Bis" tvg-id="BIS.HD.br" group-title="•➤ Music 🎧" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BIS.webp",BISᶠᴴᴰ 🇧🇷
-http://dzcdn.vood.top:80/hls/376504_.m3u8
+http://dzcdn.vood.top:80/hls/376504_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 tvg-name="Bis" tvg-id="BIS.HD.br" group-title="•➤ Music 🎧" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BIS.webp",BISᶠᴴᴰ 🇧🇷
 http://authxplus-2.xyz:2082/Xplus-V3-nUpR0fNZGZ/w8Zqoplj9y/419
 
@@ -3209,7 +3209,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05
 #EXTINF:-1 cuid="1228" tvg-chno="1226" tvg-name="VH1+Rock" tvg-id="6447d08f2858cb0008b9957c" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" group-title="•➤ Music 🎧",VH1+Rock
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6447d08f2858cb0008b9957c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1229" tvg-chno="1227" tvg-name="VH1+Music 🇱🇪🇬ends" tvg-id="62e8cc10ca869f00078efca8" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="•➤ Music 🎧",VH1+Music 🇱🇪🇬ends
+#EXTINF:-1 cuid="1229" tvg-chno="1227" tvg-name="VH1+Music (cc)ends" tvg-id="62e8cc10ca869f00078efca8" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="•➤ Music 🎧",VH1+Music (cc)ends
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="1230" tvg-chno="1228" tvg-name="Staccs Music TV Greatest Hits" tvg-id="ITBD3100003TH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3100003TH_20241030T140834SQUARE.png" group-title="•➤ Music 🎧",Staccs Music TV Greatest Hits
@@ -3352,7 +3352,7 @@ http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 http://92.114.85.72:8000/play/a0a2
 
 #EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 00s" tvg-id="MTV.00s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="•➤ Music 🎧",MTV 00'
-http://czcdn.vood.top/hls/2511_.m3u8
+http://czcdn.vood.top/hls/2511_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 00s" tvg-id="MTV.00s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="•➤ Music 🎧",MTV 00'
 https://iptv.prosto.tv/id125/video.m3u8
 #EXTINF:-1 cuid="1246" tvg-chno="1244" tvg-name="MTV 00s" tvg-id="MTV.00s.(GB,EN).no" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="•➤ Music 🎧",MTV 00'
@@ -3374,7 +3374,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 #EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="•➤ Music 🎧",MTV Liveᶠᴴᴰ
 http://ott.watch/stream/A2Q8BAKW82/215.m3u8
 #EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="•➤ Music 🎧",MTV Live
-http://gzcdn.vood.top/hls/2507_.m3u8
+http://gzcdn.vood.top/hls/2507_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="1248" tvg-chno="1246" tvg-name="MTV Live" tvg-id="MTV.Live.pt" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="•➤ Music 🎧",MTV Liveᶠᴴᴰ (Test)
 http://stream01.vnet.am/Channel_117/mono.m3u8
 
@@ -3593,7 +3593,7 @@ https://centova.radio.com.pt/proxy/491?mp=/stream
 #EXTINF:-1 cuid="1330" tvg-chno="1330" tvg-name="Diana fm (Évora)" tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png" group-title="•➤ Radio 📻",Diana fm (Évora)
 https://centova.radios.com.pt/proxy/460?mp=/stream
 
-#EXTINF:-1 cuid="1331" tvg-chno="1331" tvg-name="Rádio Porta🇱🇪🇬re" tvg-logo="https://radioporta🇱🇪🇬re.pt/wp-content/uploads/2023/11/logo35anos.png" group-title="•➤ Radio 📻",Rádio Porta🇱🇪🇬re
+#EXTINF:-1 cuid="1331" tvg-chno="1331" tvg-name="Rádio Porta(cc)re" tvg-logo="https://radioporta(cc)re.pt/wp-content/uploads/2023/11/logo35anos.png" group-title="•➤ Radio 📻",Rádio Porta(cc)re
 http://centova.radios.pt:9492/stream
 
 --- 📺 ♫ ʀᴀᴅɪos ɪɴᴛᴇʀɴᴀcɪoɴᴀɪs
@@ -3682,7 +3682,7 @@ https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 #EXTINF:-1 cuid="1346" tvg-chno="1346" tvg-name="Erox HD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp" group-title="•➤ Adult 🔞",Erox HD
 http://178.219.128.68:64888/EROXHD
 
-#EXTINF:-1 cuid="1348" tvg-chno="1348" tvg-name="Barely 🇱🇪🇬al" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp" group-title="•➤ Adult 🔞",Barely 🇱🇪🇬al
+#EXTINF:-1 cuid="1348" tvg-chno="1348" tvg-name="Barely (cc)al" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp" group-title="•➤ Adult 🔞",Barely (cc)al
 http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
 
 #EXTINF:-1 cuid="1349" tvg-chno="1349" tvg-name="Bunga Bunga" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp" group-title="•➤ Adult 🔞",Bunga Bunga
@@ -3692,10 +3692,10 @@ http://62.210.123.134:98/live/an75d/75d/98&f=.ts
 http://62.210.123.134:98/live/an75d/75d/99.m3u8
 
 #EXTINF:-1 cuid="1344" tvg-chno="1344" tvg-name="Sextreme" tvg-logo="https://logo.iptveditor.com/sextreme.png" group-title="•➤ Adult 🔞",Sextreme
-http://dzcdn.vood.top:80/hls/260421_.m3u8
+http://dzcdn.vood.top:80/hls/260421_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 
 #EXTINF:-1 cuid="1351" tvg-chno="1351" tvg-name="Playboy TV" tvg-id="PBTVHD" tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="•➤ Adult 🔞",Playboy TV
-http://izcdn.vood.top:80/hls/260419_.m3u8
+http://izcdn.vood.top:80/hls/260419_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
 #EXTINF:-1 cuid="1351" tvg-chno="1351" tvg-name="Playboy TV" tvg-id="PBTVHD" tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="•➤ Adult 🔞",Playboy TV
 http://181.78.109.49:8000/play/a01c/index.m3u8
 #EXTINF:-1 cuid="1351" tvg-chno="1351" tvg-name="Playboy TV" tvg-id="PBTVHD" tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="•➤ Adult 🔞",Playboy TV
@@ -3803,369 +3803,369 @@ https://cdn-01.watch4.com/01/DfptQOLVQW.mp4
 --- 📽️✨ 𝙈𝙤𝙫𝙞𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨
 
 
-#EXTINF:-1 tvg-name="The Damned 🇱🇪🇬 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg" group-title="•➤ Lançamentos 2025 📽️",The Damned 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-name="The Damned (cc) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg" group-title="•➤ Lançamentos 📽️",The Damned (cc) (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/271129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Volta à Ação (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg" group-title="•➤ Lançamentos 2025 📽️",De Volta à Ação 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="De Volta à Ação (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg" group-title="•➤ Lançamentos 📽️",De Volta à Ação (cc) (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/536347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nosferatu (2025) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="•➤ Lançamentos 2025 📽️",Nosferatu 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Nosferatu (2025) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="•➤ Lançamentos 📽️",Nosferatu (cc) (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/537432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Seção 31 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lwW5zp8o2WZqynQtRs7jXDpQh1.jpg" group-title="•➤ Lançamentos 2025 📽️",Star Trek: Seção 31 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Seção 31 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lwW5zp8o2WZqynQtRs7jXDpQh1.jpg" group-title="•➤ Lançamentos 📽️",Star Trek: Seção 31 (cc) (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/537891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oficina do Diabo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33ugYq5qlJTAiXkfIhdUSxQUTT8.jpg" group-title="•➤ Lançamentos 2025 📽️",Oficina do Diabo 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Oficina do Diabo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33ugYq5qlJTAiXkfIhdUSxQUTT8.jpg" group-title="•➤ Lançamentos 📽️",Oficina do Diabo (cc) (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/536354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino do Calendário (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUZutzzSNvE7IDchtBRlHPCLvjB.jpg" group-title="•➤ Lançamentos 2025 📽️",O Assassino do Calendário 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino do Calendário (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUZutzzSNvE7IDchtBRlHPCLvjB.jpg" group-title="•➤ Lançamentos 📽️",O Assassino do Calendário (cc) (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/535403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vítimas do Dia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBeg7UpgNllgs8FI7iMBbp7hdSQ.jpg" group-title="•➤ Lançamentos 2025 📽️",Vítimas do Dia 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Vítimas do Dia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBeg7UpgNllgs8FI7iMBbp7hdSQ.jpg" group-title="•➤ Lançamentos 📽️",Vítimas do Dia (cc) (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/266453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ad Vitam (2025) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="•➤ Lançamentos 2025 📽️",Ad Vitam 🇱🇪🇬(2025)
+#EXTINF:-1 tvg-id="" tvg-name="Ad Vitam (2025) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="•➤ Lançamentos 📽️",Ad Vitam (cc)(2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/534899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Porto Seguro (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg" group-title="•➤ Lançamentos 2025 📽️",Missão Porto Seguro 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Missão Porto Seguro (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg" group-title="•➤ Lançamentos 📽️",Missão Porto Seguro (cc) (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/265926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Entre Dois Amores (2025) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1aZxghCHlQK07xymiqs1C4YdqC.jpg" group-title="•➤ Lançamentos 2025 📽️",Umjolo: Entre Dois Amores 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Entre Dois Amores (2025) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1aZxghCHlQK07xymiqs1C4YdqC.jpg" group-title="•➤ Lançamentos 📽️",Umjolo: Entre Dois Amores (cc) (2025)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/533585.mp4
-#EXTINF:-1 tvg-name="O Truque do Amor 🇱🇪🇬 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi6xUdJgh2OyF4yM7YAGGwKgKYS.jpg" group-title="•➤ Lançamentos 2025 📽️",O Truque do Amor 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-name="O Truque do Amor (cc) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi6xUdJgh2OyF4yM7YAGGwKgKYS.jpg" group-title="•➤ Lançamentos 📽️",O Truque do Amor (cc) (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/263454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem que Quer Viver para Sempre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6mdvaGWxdfLb23wWBO1gHdnMdG.jpg" group-title="•➤ Lançamentos 2025 📽️",O Homem que Quer Viver para Sempre 🇱🇪🇬 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="O Homem que Quer Viver para Sempre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6mdvaGWxdfLb23wWBO1gHdnMdG.jpg" group-title="•➤ Lançamentos 📽️",O Homem que Quer Viver para Sempre (cc) (2025)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/263448.mp4
-#EXTINF:-1 tvg-name="Farol da Ilusão🇱🇪🇬 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZPlnGO4jWvBtIoG9hRlqyfg8g8.jpg" group-title="•➤ Lançamentos 2025 📽️",Farol da Ilusão 🇱🇪🇬 (2024)
+#EXTINF:-1 tvg-name="Farol da Ilusão(cc) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZPlnGO4jWvBtIoG9hRlqyfg8g8.jpg" group-title="•➤ Lançamentos 📽️",Farol da Ilusão (cc) (2024)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/271113.mp4
-#EXTINF:-1 tvg-name="Criaturas do Farol🇱🇪🇬 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AB3bHhsNBpnhMDThJP6RI0tery.jpg" group-title="•➤ Lançamentos 2025 📽️",Criaturas do Farol 🇱🇪🇬 (2024)
+#EXTINF:-1 tvg-name="Criaturas do Farol(cc) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AB3bHhsNBpnhMDThJP6RI0tery.jpg" group-title="•➤ Lançamentos 📽️",Criaturas do Farol (cc) (2024)
 http://244a.cc:80/movie/mmY5DU/DYK8S6/271105.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="VOD MUL-SUBT 2023",65 (2023)
+#EXTINF:-1 tvg-id="" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="•➤ Lançamentos 📽️",65 (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505707.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="VOD MUL-SUBT 2023",Ant-Man and the Wasp: Quantumania 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="•➤ Lançamentos 📽️",Ant-Man and the Wasp: Quantumania (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505708.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Assassin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg" group-title="VOD MUL-SUBT 2023",Assassin (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Assassin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg" group-title="•➤ Lançamentos 📽️",Assassin (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505709.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Big George Foreman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg" group-title="VOD MUL-SUBT 2023",Big George Foreman (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Big George Foreman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg" group-title="•➤ Lançamentos 📽️",Big George Foreman (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505710.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boston Strangler (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yte9tGCiUAUZaFZQqmY3507g6N.jpg" group-title="VOD MUL-SUBT 2023",The Boston Strangler (2006)
+#EXTINF:-1 tvg-id="" tvg-name="The Boston Strangler (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yte9tGCiUAUZaFZQqmY3507g6N.jpg" group-title="•➤ Lançamentos 📽️",The Boston Strangler (2006)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505711.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chang Can Dunk 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yte9tGCiUAUZaFZQqmY3507g6N.jpg" group-title="VOD MUL-SUBT 2023",Chang Can Dunk 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Chang Can Dunk (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yte9tGCiUAUZaFZQqmY3507g6N.jpg" group-title="•➤ Lançamentos 📽️",Chang Can Dunk (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505712.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Clock (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkPpmNSdbRIgtscqH86BQFLJXcz.jpg" group-title="VOD MUL-SUBT 2023",Clock (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Clock (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkPpmNSdbRIgtscqH86BQFLJXcz.jpg" group-title="•➤ Lançamentos 📽️",Clock (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505713.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cocaine Bear: The True Story (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVOzTMjmERFxlvwIIWCB3Tyopfj.jpg" group-title="VOD MUL-SUBT 2023",Cocaine Bear: The True Story (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Cocaine Bear: The True Story (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVOzTMjmERFxlvwIIWCB3Tyopfj.jpg" group-title="•➤ Lançamentos 📽️",Cocaine Bear: The True Story (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505714.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crater (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8S9quTZUY3BCpr45LrNR9G4L80d.jpg" group-title="VOD MUL-SUBT 2023",Crater (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Crater (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8S9quTZUY3BCpr45LrNR9G4L80d.jpg" group-title="•➤ Lançamentos 📽️",Crater (2022)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505715.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="VOD MUL-SUBT 2023",Creed III (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="•➤ Lançamentos 📽️",Creed III (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Die Hart the Movie 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="VOD MUL-SUBT 2023",Die Hart the Movie 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Die Hart the Movie (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="•➤ Lançamentos 📽️",Die Hart the Movie (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505717.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Evil Dead Rise 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="VOD MUL-SUBT 2023",Evil Dead Rise 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Evil Dead Rise (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="•➤ Lançamentos 📽️",Evil Dead Rise (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gangs of Lagos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg" group-title="VOD MUL-SUBT 2023",Gangs of Lagos (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Gangs of Lagos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg" group-title="•➤ Lançamentos 📽️",Gangs of Lagos (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505719.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hypnotic (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg" group-title="VOD MUL-SUBT 2023",Hypnotic (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Hypnotic (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg" group-title="•➤ Lançamentos 📽️",Hypnotic (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505720.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inside (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LkXT7fzT4uV35ublhxhDwR6Pi.jpg" group-title="VOD MUL-SUBT 2023",Inside (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Inside (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LkXT7fzT4uV35ublhxhDwR6Pi.jpg" group-title="•➤ Lançamentos 📽️",Inside (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505721.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LkXT7fzT4uV35ublhxhDwR6Pi.jpg" group-title="VOD MUL-SUBT 2023",John Wick: Chapter 4 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4 (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LkXT7fzT4uV35ublhxhDwR6Pi.jpg" group-title="•➤ Lançamentos 📽️",John Wick: Chapter 4 (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505722.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Knock at the Cabin 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LkXT7fzT4uV35ublhxhDwR6Pi.jpg" group-title="VOD MUL-SUBT 2023",Knock at the Cabin 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Knock at the Cabin (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LkXT7fzT4uV35ublhxhDwR6Pi.jpg" group-title="•➤ Lançamentos 📽️",Knock at the Cabin (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505723.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Little Dixie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="VOD MUL-SUBT 2023",Little Dixie (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Little Dixie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="•➤ Lançamentos 📽️",Little Dixie (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505724.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Magic Mike's Last Dance 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="VOD MUL-SUBT 2023",Magic Mike's Last Dance 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike's Last Dance (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="•➤ Lançamentos 📽️",Magic Mike's Last Dance (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505725.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marlowe (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5zdw7xyj7l9rDoZBTz3DW4JrWX.jpg" group-title="VOD MUL-SUBT 2023",Marlowe (2007)
+#EXTINF:-1 tvg-id="" tvg-name="Marlowe (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5zdw7xyj7l9rDoZBTz3DW4JrWX.jpg" group-title="•➤ Lançamentos 📽️",Marlowe (2007)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505726.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Missing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q59hQEwqRURySkT9Fc7wznjQ2L.jpg" group-title="VOD MUL-SUBT 2023",Missing (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Missing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q59hQEwqRURySkT9Fc7wznjQ2L.jpg" group-title="•➤ Lançamentos 📽️",Missing (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505727.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Momias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg" group-title="VOD MUL-SUBT 2023",Momias (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Momias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg" group-title="•➤ Lançamentos 📽️",Momias (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505728.mkv
-#EXTINF:-1 tvg-id="" tvg-name="On a Wing and a Prayer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD MUL-SUBT 2023",On a Wing and a Prayer
+#EXTINF:-1 tvg-id="" tvg-name="On a Wing and a Prayer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 📽️",On a Wing and a Prayer
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505729.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune: Ruse de Guerre 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD MUL-SUBT 2023",Operation Fortune: Ruse de Guerre 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune: Ruse de Guerre (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 📽️",Operation Fortune: Ruse de Guerre (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505730.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pathaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eHEN70MD6HfpBGYny8O2RxxYcD.jpg" group-title="VOD MUL-SUBT 2023",Pathaan (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eHEN70MD6HfpBGYny8O2RxxYcD.jpg" group-title="•➤ Lançamentos 📽️",Pathaan (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" group-title="VOD MUL-SUBT 2023",Peter Pan & Wendy (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" group-title="•➤ Lançamentos 📽️",Peter Pan & Wendy (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505732.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prom Pact 🇱🇪🇬 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" group-title="VOD MUL-SUBT 2023",Prom Pact 🇱🇪🇬 
+#EXTINF:-1 tvg-id="" tvg-name="Prom Pact (cc) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" group-title="•➤ Lançamentos 📽️",Prom Pact (cc) 
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505733.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor en Rye Lane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcdEqYTTnh6luc2heEsjf0fAI7X.jpg" group-title="VOD MUL-SUBT 2023",Amor en Rye Lane (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Amor en Rye Lane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcdEqYTTnh6luc2heEsjf0fAI7X.jpg" group-title="•➤ Lançamentos 📽️",Amor en Rye Lane (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505734.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="VOD MUL-SUBT 2023",Sayen (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="•➤ Lançamentos 📽️",Sayen (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505735.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scream VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKMvCIE91h4aBot6DDO19QTsVbF.jpg" group-title="VOD MUL-SUBT 2023",Scream VI (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Scream VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKMvCIE91h4aBot6DDO19QTsVbF.jpg" group-title="•➤ Lançamentos 📽️",Scream VI (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fury of the Gods 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKMvCIE91h4aBot6DDO19QTsVbF.jpg" group-title="VOD MUL-SUBT 2023",Shazam! Fury of the Gods 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fury of the Gods (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKMvCIE91h4aBot6DDO19QTsVbF.jpg" group-title="•➤ Lançamentos 📽️",Shazam! Fury of the Gods (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505737.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sisu (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" group-title="VOD MUL-SUBT 2023",Sisu (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Sisu (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" group-title="•➤ Lançamentos 📽️",Sisu (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505738.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg" group-title="VOD MUL-SUBT 2023",Tetris (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg" group-title="•➤ Lançamentos 📽️",Tetris (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Хара Бэкир (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm9TAcFTsRgJX8hRreiLLLphcw1.jpg" group-title="VOD MUL-SUBT 2023",Хара Бэкир (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Хара Бэкир (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm9TAcFTsRgJX8hRreiLLLphcw1.jpg" group-title="•➤ Lançamentos 📽️",Хара Бэкир (2017)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505740.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Pope's Exorcist 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm9TAcFTsRgJX8hRreiLLLphcw1.jpg" group-title="VOD MUL-SUBT 2023",The Pope's Exorcist 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="The Pope's Exorcist (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm9TAcFTsRgJX8hRreiLLLphcw1.jpg" group-title="•➤ Lançamentos 📽️",The Pope's Exorcist (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505741.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Puerta Mágica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0LnQfMOCxY1SXrs9SyWXtR9mMI.jpg" group-title="VOD MUL-SUBT 2023",La Puerta Mágica (2023)
+#EXTINF:-1 tvg-id="" tvg-name="La Puerta Mágica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0LnQfMOCxY1SXrs9SyWXtR9mMI.jpg" group-title="•➤ Lançamentos 📽️",La Puerta Mágica (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505742.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Ritual Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="VOD MUL-SUBT 2023",The Ritual Killer (2023)
+#EXTINF:-1 tvg-id="" tvg-name="The Ritual Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="•➤ Lançamentos 📽️",The Ritual Killer (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505743.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Súper Mario Bros. La película (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="VOD MUL-SUBT 2023",Súper Mario Bros. La película (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Súper Mario Bros. La película (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="•➤ Lançamentos 📽️",Súper Mario Bros. La película (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505744.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Swan Princess: A Fairytale Is Born 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="VOD MUL-SUBT 2023",The Swan Princess: A Fairytale Is Born 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="The Swan Princess: A Fairytale Is Born (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="•➤ Lançamentos 📽️",The Swan Princess: A Fairytale Is Born (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505745.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Unheard (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRW7jHeSMAsuSQyLDYIc04T9F.jpg" group-title="VOD MUL-SUBT 2023",The Unheard (2023)
+#EXTINF:-1 tvg-id="" tvg-name="The Unheard (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRW7jHeSMAsuSQyLDYIc04T9F.jpg" group-title="•➤ Lançamentos 📽️",The Unheard (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505746.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wait With Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34cgjVoAIXVsZ2uZkTsdxWhv2Si.jpg" group-title="VOD MUL-SUBT 2023",Wait With Me (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Wait With Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34cgjVoAIXVsZ2uZkTsdxWhv2Si.jpg" group-title="•➤ Lançamentos 📽️",Wait With Me (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505747.mkv
-#EXTINF:-1 tvg-id="" tvg-name="White Men Can't Jump (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faxmOb7s9Snm4hA6qJN8eYvfpcu.jpg" group-title="VOD MUL-SUBT 2023",White Men Can't Jump (2023)
+#EXTINF:-1 tvg-id="" tvg-name="White Men Can't Jump (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faxmOb7s9Snm4hA6qJN8eYvfpcu.jpg" group-title="•➤ Lançamentos 📽️",White Men Can't Jump (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Winnie the Pooh: Blood and Honey (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg" group-title="VOD MUL-SUBT 2023",Winnie the Pooh: Blood and Honey (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Winnie the Pooh: Blood and Honey (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg" group-title="•➤ Lançamentos 📽️",Winnie the Pooh: Blood and Honey (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/505749.mkv
-#EXTINF:-1 tvg-id="" tvg-name="5lbs of Pressure 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg" group-title="•➤ Lançamentos 2025 📽️",5lbs of Pressure 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="5lbs of Pressure (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg" group-title="•➤ Lançamentos 📽️",5lbs of Pressure (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846713.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abigail (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6swWpho5jKxMIez9diNJm0Kqhj.jpg" group-title="•➤ Lançamentos 2025 📽️",Abigail (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Abigail (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6swWpho5jKxMIez9diNJm0Kqhj.jpg" group-title="•➤ Lançamentos 📽️",Abigail (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846714.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aftermath (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5MS8hvEVqU0UwCjEWlYhKrNLqI.jpg" group-title="•➤ Lançamentos 2025 📽️",Aftermath (1994)
+#EXTINF:-1 tvg-id="" tvg-name="Aftermath (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5MS8hvEVqU0UwCjEWlYhKrNLqI.jpg" group-title="•➤ Lançamentos 📽️",Aftermath (1994)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846715.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Hipster in Rural Spain [MULT-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5MS8hvEVqU0UwCjEWlYhKrNLqI.jpg" group-title="•➤ Lançamentos 2025 📽️",A Hipster in Rural Spain [MULT-SUB]
+#EXTINF:-1 tvg-id="" tvg-name="A Hipster in Rural Spain [MULT-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5MS8hvEVqU0UwCjEWlYhKrNLqI.jpg" group-title="•➤ Lançamentos 📽️",A Hipster in Rural Spain [MULT-SUB]
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Air Force One Down (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg" group-title="•➤ Lançamentos 2025 📽️",Air Force One Down (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Air Force One Down (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg" group-title="•➤ Lançamentos 📽️",Air Force One Down (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846717.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alienoid: Return to the Future (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXA8RfOBaKWmGUn6J5BOFdKh6b8.jpg" group-title="•➤ Lançamentos 2025 📽️",Alienoid: Return to the Future (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Alienoid: Return to the Future (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXA8RfOBaKWmGUn6J5BOFdKh6b8.jpg" group-title="•➤ Lançamentos 📽️",Alienoid: Return to the Future (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amar Singh Chamkila (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9wSGgaPfbGUBBlne7xw8GaArvu.jpg" group-title="•➤ Lançamentos 2025 📽️",Amar Singh Chamkila (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Amar Singh Chamkila (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9wSGgaPfbGUBBlne7xw8GaArvu.jpg" group-title="•➤ Lançamentos 📽️",Amar Singh Chamkila (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846719.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Dreamer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bUsa318eCnztKZlcG86s8xk9Rk.jpg" group-title="•➤ Lançamentos 2025 📽️",American Dreamer (2022)
+#EXTINF:-1 tvg-id="" tvg-name="American Dreamer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bUsa318eCnztKZlcG86s8xk9Rk.jpg" group-title="•➤ Lançamentos 📽️",American Dreamer (2022)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846720.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Star (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFjxI9yMd142au1O74JlUttG4Ki.jpg" group-title="•➤ Lançamentos 2025 📽️",American Star (2024)
+#EXTINF:-1 tvg-id="" tvg-name="American Star (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFjxI9yMd142au1O74JlUttG4Ki.jpg" group-title="•➤ Lançamentos 📽️",American Star (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846721.mkv
-#EXTINF:-1 tvg-id="" tvg-name="An American in Austen (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPurbvRNfJ3KOlSLXFPoD07Cazg.jpg" group-title="•➤ Lançamentos 2025 📽️",An American in Austen (2024)
+#EXTINF:-1 tvg-id="" tvg-name="An American in Austen (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPurbvRNfJ3KOlSLXFPoD07Cazg.jpg" group-title="•➤ Lançamentos 📽️",An American in Austen (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846722.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arcadian (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg" group-title="•➤ Lançamentos 2025 📽️",Arcadian (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Arcadian (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg" group-title="•➤ Lançamentos 📽️",Arcadian (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846723.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Argylle (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tshllXJDIctUlD1kMPQdIh37L2V.jpg" group-title="•➤ Lançamentos 2025 📽️",Argylle (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Argylle (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tshllXJDIctUlD1kMPQdIh37L2V.jpg" group-title="•➤ Lançamentos 📽️",Argylle (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846724.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arthur's Whisky (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLInRxGU9kp1o2djoS2xK75Ilmk.jpg" group-title="•➤ Lançamentos 2025 📽️",Arthur's Whisky (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Arthur's Whisky (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLInRxGU9kp1o2djoS2xK75Ilmk.jpg" group-title="•➤ Lançamentos 📽️",Arthur's Whisky (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846725.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Merlin And Arthur The Lion King (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Merlin And Arthur The Lion King (2011)
+#EXTINF:-1 tvg-id="" tvg-name="Merlin And Arthur The Lion King (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 📽️",Merlin And Arthur The Lion King (2011)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846726.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Scottish Love Scheme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU27y1agaBDnDWgc3ypm1b2qNC0.jpg" group-title="•➤ Lançamentos 2025 📽️",A Scottish Love Scheme (2024)
+#EXTINF:-1 tvg-id="" tvg-name="A Scottish Love Scheme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU27y1agaBDnDWgc3ypm1b2qNC0.jpg" group-title="•➤ Lançamentos 📽️",A Scottish Love Scheme (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846727.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Asphalt City (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg" group-title="•➤ Lançamentos 2025 📽️",Asphalt City (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Asphalt City (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg" group-title="•➤ Lançamentos 📽️",Asphalt City (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846728.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beautiful Wedding 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg" group-title="•➤ Lançamentos 2025 📽️",Beautiful Wedding 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful Wedding (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg" group-title="•➤ Lançamentos 📽️",Beautiful Wedding (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846729.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bob Marley: One Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg" group-title="•➤ Lançamentos 2025 📽️",Bob Marley: One Love (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Bob Marley: One Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg" group-title="•➤ Lançamentos 📽️",Bob Marley: One Love (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846730.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bramayugam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4geWE7mQwGyzNGLw1MKoDf8Fs7.jpg" group-title="•➤ Lançamentos 2025 📽️",Bramayugam (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Bramayugam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4geWE7mQwGyzNGLw1MKoDf8Fs7.jpg" group-title="•➤ Lançamentos 📽️",Bramayugam (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bray Wyatt: Becoming Immortal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6OhBod23e2i3XbEkPgpXupEb5q.jpg" group-title="•➤ Lançamentos 2025 📽️",Bray Wyatt: Becoming Immortal (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Bray Wyatt: Becoming Immortal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6OhBod23e2i3XbEkPgpXupEb5q.jpg" group-title="•➤ Lançamentos 📽️",Bray Wyatt: Becoming Immortal (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846732.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Breathe (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg" group-title="•➤ Lançamentos 2025 📽️",Breathe (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Breathe (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg" group-title="•➤ Lançamentos 📽️",Breathe (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846733.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Butchers Book Two: Raghorn (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg" group-title="•➤ Lançamentos 2025 📽️",Butchers Book Two: Raghorn (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Butchers Book Two: Raghorn (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg" group-title="•➤ Lançamentos 📽️",Butchers Book Two: Raghorn (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846734.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre Cabrini (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPEugPgW0FzHfkGe78HI1YQS4oe.jpg" group-title="•➤ Lançamentos 2025 📽️",Madre Cabrini (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Madre Cabrini (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPEugPgW0FzHfkGe78HI1YQS4oe.jpg" group-title="•➤ Lançamentos 📽️",Madre Cabrini (2019)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846735.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Calamity Jane (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XwylJi2GRLAEqhIUb9tf9ue4Hn.jpg" group-title="•➤ Lançamentos 2025 📽️",Calamity Jane (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Calamity Jane (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XwylJi2GRLAEqhIUb9tf9ue4Hn.jpg" group-title="•➤ Lançamentos 📽️",Calamity Jane (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Capitán Miller (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blpuCOI2Qz5pmA2yTMJiQ9tEmFb.jpg" group-title="•➤ Lançamentos 2025 📽️",Capitán Miller (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Capitán Miller (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blpuCOI2Qz5pmA2yTMJiQ9tEmFb.jpg" group-title="•➤ Lançamentos 📽️",Capitán Miller (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846737.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cult Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" group-title="•➤ Lançamentos 2025 📽️",Cult Killer (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Cult Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" group-title="•➤ Lançamentos 📽️",Cult Killer (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846738.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Damaged (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3aPmYOkd8GclXg8nTvKQ4w1f7L.jpg" group-title="•➤ Lançamentos 2025 📽️",Damaged (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Damaged (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3aPmYOkd8GclXg8nTvKQ4w1f7L.jpg" group-title="•➤ Lançamentos 📽️",Damaged (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DarkGame (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaARRhlsuJGnpOGeDmIhraxmOxi.jpg" group-title="•➤ Lançamentos 2025 📽️",DarkGame (2024)
+#EXTINF:-1 tvg-id="" tvg-name="DarkGame (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaARRhlsuJGnpOGeDmIhraxmOxi.jpg" group-title="•➤ Lançamentos 📽️",DarkGame (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846740.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Double Blind (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGKQ4nPA5WDVbq2KdXkGpohEC7Y.jpg" group-title="•➤ Lançamentos 2025 📽️",Double Blind (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Double Blind (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGKQ4nPA5WDVbq2KdXkGpohEC7Y.jpg" group-title="•➤ Lançamentos 📽️",Double Blind (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846741.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Double Down South (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgAnqwaFKg0fsWVTFEo6vk82msE.jpg" group-title="•➤ Lançamentos 2025 📽️",Double Down South (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Double Down South (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgAnqwaFKg0fsWVTFEo6vk82msE.jpg" group-title="•➤ Lançamentos 📽️",Double Down South (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846742.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Drift (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OMssa91kM2GUNrDUfcqDqxajnR.jpg" group-title="•➤ Lançamentos 2025 📽️",Drift (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Drift (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OMssa91kM2GUNrDUfcqDqxajnR.jpg" group-title="•➤ Lançamentos 📽️",Drift (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846743.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dune: Parte dos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6o5cJjA4srfvU52UKWaqPUuPPgl.jpg" group-title="•➤ Lançamentos 2025 📽️",Dune: Parte dos (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Dune: Parte dos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6o5cJjA4srfvU52UKWaqPUuPPgl.jpg" group-title="•➤ Lançamentos 📽️",Dune: Parte dos (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846744.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eagle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Eagle (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Eagle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 📽️",Eagle (2020)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846745.mkv
-#EXTINF:-1 tvg-id="" tvg-name="파묘 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw0i3kkmOTjDjGFZTLHKhoeXVvA.jpg" group-title="•➤ Lançamentos 2025 📽️",파묘 (2024)
+#EXTINF:-1 tvg-id="" tvg-name="파묘 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw0i3kkmOTjDjGFZTLHKhoeXVvA.jpg" group-title="•➤ Lançamentos 📽️",파묘 (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846746.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fighter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg" group-title="•➤ Lançamentos 2025 📽️",Fighter (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Fighter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg" group-title="•➤ Lançamentos 📽️",Fighter (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846747.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Five Blind Dates 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg" group-title="•➤ Lançamentos 2025 📽️",Five Blind Dates 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Five Blind Dates (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg" group-title="•➤ Lançamentos 📽️",Five Blind Dates (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Friday Night Sext Scandal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="•➤ Lançamentos 2025 📽️",Friday Night Sext Scandal (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Friday Night Sext Scandal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="•➤ Lançamentos 📽️",Friday Night Sext Scandal (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846749.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters Frozen Empire 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="•➤ Lançamentos 2025 📽️",Ghostbusters Frozen Empire 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters Frozen Empire (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="•➤ Lançamentos 📽️",Ghostbusters Frozen Empire (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Giannis The Marvelous Journey 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="•➤ Lançamentos 2025 📽️",Giannis The Marvelous Journey 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Giannis The Marvelous Journey (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="•➤ Lançamentos 📽️",Giannis The Marvelous Journey (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846751.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Girls State (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD1oCssH4GMGrzUljlVpydQFbGx.jpg" group-title="•➤ Lançamentos 2025 📽️",Girls State (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Girls State (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD1oCssH4GMGrzUljlVpydQFbGx.jpg" group-title="•➤ Lançamentos 📽️",Girls State (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846752.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gods of the Deep 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD1oCssH4GMGrzUljlVpydQFbGx.jpg" group-title="•➤ Lançamentos 2025 📽️",Gods of the Deep 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Gods of the Deep (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD1oCssH4GMGrzUljlVpydQFbGx.jpg" group-title="•➤ Lançamentos 📽️",Gods of the Deep (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846753.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" group-title="•➤ Lançamentos 2025 📽️",Godzilla y Kong: El nuevo imperio (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" group-title="•➤ Lançamentos 📽️",Godzilla y Kong: El nuevo imperio (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846754.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hellhound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9hkaCIha8hIhRo0XXShhcosrPH.jpg" group-title="•➤ Lançamentos 2025 📽️",Hellhound (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Hellhound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9hkaCIha8hIhRo0XXShhcosrPH.jpg" group-title="•➤ Lançamentos 📽️",Hellhound (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846755.mkv
-#EXTINF:-1 tvg-id="" tvg-name="How to Date Billy Walsh 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9hkaCIha8hIhRo0XXShhcosrPH.jpg" group-title="•➤ Lançamentos 2025 📽️",How to Date Billy Walsh 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="How to Date Billy Walsh (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9hkaCIha8hIhRo0XXShhcosrPH.jpg" group-title="•➤ Lançamentos 📽️",How to Date Billy Walsh (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846756.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Humane (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" group-title="•➤ Lançamentos 2025 📽️",Humane (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Humane (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" group-title="•➤ Lançamentos 📽️",Humane (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846757.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hundreds of Beavers 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" group-title="•➤ Lançamentos 2025 📽️",Hundreds of Beavers 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Hundreds of Beavers (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" group-title="•➤ Lançamentos 📽️",Hundreds of Beavers (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846758.mkv
-#EXTINF:-1 tvg-id="" tvg-name="I.S.S. 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" group-title="•➤ Lançamentos 2025 📽️",I.S.S. 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="I.S.S. (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg" group-title="•➤ Lançamentos 📽️",I.S.S. (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846759.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Imaginary (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jrq4lA5KV3oIFnCYGDueSMTENd.jpg" group-title="•➤ Lançamentos 2025 📽️",Imaginary (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Imaginary (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jrq4lA5KV3oIFnCYGDueSMTENd.jpg" group-title="•➤ Lançamentos 📽️",Imaginary (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846760.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Immaculate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFxjlcejJxSusT82UZl6QfVOgBA.jpg" group-title="•➤ Lançamentos 2025 📽️",Immaculate (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Immaculate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFxjlcejJxSusT82UZl6QfVOgBA.jpg" group-title="•➤ Lançamentos 📽️",Immaculate (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846761.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infestados (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vopnye2ckkJFQCeoMp3BSB7mPJn.jpg" group-title="•➤ Lançamentos 2025 📽️",Infestados (2002)
+#EXTINF:-1 tvg-id="" tvg-name="Infestados (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vopnye2ckkJFQCeoMp3BSB7mPJn.jpg" group-title="•➤ Lançamentos 📽️",Infestados (2002)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Justice League Crisis on Infinite Earths Part One 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vopnye2ckkJFQCeoMp3BSB7mPJn.jpg" group-title="•➤ Lançamentos 2025 📽️",Justice League Crisis on Infinite Earths Part One 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Justice League Crisis on Infinite Earths Part One (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vopnye2ckkJFQCeoMp3BSB7mPJn.jpg" group-title="•➤ Lançamentos 📽️",Justice League Crisis on Infinite Earths Part One (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846763.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOT8n3YOOkInZ5VHJN4FffHrm43.jpg" group-title="•➤ Lançamentos 2025 📽️",Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOT8n3YOOkInZ5VHJN4FffHrm43.jpg" group-title="•➤ Lançamentos 📽️",Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Knox Goes Away (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w39qKYjltCix18BwtoZ1e45usdb.jpg" group-title="•➤ Lançamentos 2025 📽️",Knox Goes Away (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Knox Goes Away (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w39qKYjltCix18BwtoZ1e45usdb.jpg" group-title="•➤ Lançamentos 📽️",Knox Goes Away (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846765.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title="•➤ Lançamentos 2025 📽️",Kung Fu Panda 4 (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title="•➤ Lançamentos 📽️",Kung Fu Panda 4 (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846766.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Land of Doom (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/booxOEMnUf6CT0ZhId7eQRvuXt2.jpg" group-title="•➤ Lançamentos 2025 📽️",Land of Doom (1986)
+#EXTINF:-1 tvg-id="" tvg-name="Land of Doom (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/booxOEMnUf6CT0ZhId7eQRvuXt2.jpg" group-title="•➤ Lançamentos 📽️",Land of Doom (1986)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LaRoy, Texas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OvSeMHed2zENuoxI7YWMvvkQS2.jpg" group-title="•➤ Lançamentos 2025 📽️",LaRoy, Texas (2024)
+#EXTINF:-1 tvg-id="" tvg-name="LaRoy, Texas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OvSeMHed2zENuoxI7YWMvvkQS2.jpg" group-title="•➤ Lançamentos 📽️",LaRoy, Texas (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846768.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Late Night with the Devil 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OvSeMHed2zENuoxI7YWMvvkQS2.jpg" group-title="•➤ Lançamentos 2025 📽️",Late Night with the Devil 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Late Night with the Devil (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OvSeMHed2zENuoxI7YWMvvkQS2.jpg" group-title="•➤ Lançamentos 📽️",Late Night with the Devil (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lazareth (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36o8ancoKDKW1sstzMi0YYkQkpU.jpg" group-title="•➤ Lançamentos 2025 📽️",Lazareth (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Lazareth (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36o8ancoKDKW1sstzMi0YYkQkpU.jpg" group-title="•➤ Lançamentos 📽️",Lazareth (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lights Out (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VzEIaYWO9HFIp6lgjfbLRJRKSF.jpg" group-title="•➤ Lançamentos 2025 📽️",Lights Out (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Lights Out (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VzEIaYWO9HFIp6lgjfbLRJRKSF.jpg" group-title="•➤ Lançamentos 📽️",Lights Out (2013)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="•➤ Lançamentos 2025 📽️",Lisa Frankenstein (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="•➤ Lançamentos 📽️",Lisa Frankenstein (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846772.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Long Shot (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LDeHrG8RBluJ7IkPgBaOMkU3fl.jpg" group-title="•➤ Lançamentos 2025 📽️",Long Shot (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Long Shot (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LDeHrG8RBluJ7IkPgBaOMkU3fl.jpg" group-title="•➤ Lançamentos 📽️",Long Shot (2017)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love Lies Bleeding (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Love Lies Bleeding (1977)
+#EXTINF:-1 tvg-id="" tvg-name="Love Lies Bleeding (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 📽️",Love Lies Bleeding (1977)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madame (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg" group-title="•➤ Lançamentos 2025 📽️",Madame (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Madame (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg" group-title="•➤ Lançamentos 📽️",Madame (2017)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yiddish Mean Girls (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to1EwEcP0S3GQNtSekKiVhx3Ppd.jpg" group-title="•➤ Lançamentos 2025 📽️",Yiddish Mean Girls (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Yiddish Mean Girls (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to1EwEcP0S3GQNtSekKiVhx3Ppd.jpg" group-title="•➤ Lançamentos 📽️",Yiddish Mean Girls (2022)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Megamind vs. the Doom Syndicate 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to1EwEcP0S3GQNtSekKiVhx3Ppd.jpg" group-title="•➤ Lançamentos 2025 📽️",Megamind vs. the Doom Syndicate 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Megamind vs. the Doom Syndicate (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to1EwEcP0S3GQNtSekKiVhx3Ppd.jpg" group-title="•➤ Lançamentos 📽️",Megamind vs. the Doom Syndicate (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La belle meunière (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhkqKtzC73UQh7K2rHTzRZgisVv.jpg" group-title="•➤ Lançamentos 2025 📽️",La belle meunière (1948)
+#EXTINF:-1 tvg-id="" tvg-name="La belle meunière (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhkqKtzC73UQh7K2rHTzRZgisVv.jpg" group-title="•➤ Lançamentos 📽️",La belle meunière (1948)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monkey Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg" group-title="•➤ Lançamentos 2025 📽️",Monkey Man (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg" group-title="•➤ Lançamentos 📽️",Monkey Man (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monster Mash (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkO5dkldULotBPjbgznzXlHjSFs.jpg" group-title="•➤ Lançamentos 2025 📽️",Monster Mash (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Monster Mash (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkO5dkldULotBPjbgznzXlHjSFs.jpg" group-title="•➤ Lançamentos 📽️",Monster Mash (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Murder Mubarak 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkO5dkldULotBPjbgznzXlHjSFs.jpg" group-title="•➤ Lançamentos 2025 📽️",Murder Mubarak 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Murder Mubarak (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkO5dkldULotBPjbgznzXlHjSFs.jpg" group-title="•➤ Lançamentos 📽️",Murder Mubarak (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="•➤ Lançamentos 2025 📽️",Música (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="•➤ Lançamentos 📽️",Música (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="New Life (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYTerxU14TaGKfAmbaWMmGH5ORo.jpg" group-title="•➤ Lançamentos 2025 📽️",New Life (2024)
+#EXTINF:-1 tvg-id="" tvg-name="New Life (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYTerxU14TaGKfAmbaWMmGH5ORo.jpg" group-title="•➤ Lançamentos 📽️",New Life (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Night Swim (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GshCpNveb9X7vuoIpQOcBOGL9g.jpg" group-title="•➤ Lançamentos 2025 📽️",Night Swim (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Night Swim (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GshCpNveb9X7vuoIpQOcBOGL9g.jpg" group-title="•➤ Lançamentos 📽️",Night Swim (2014)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846784.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Le jardin de Jad (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Le jardin de Jad (2007)
+#EXTINF:-1 tvg-id="" tvg-name="Le jardin de Jad (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 📽️",Le jardin de Jad (2007)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846785.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One More Shot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhQRrJSZv7OtMfn5kxeedeISgh9.jpg" group-title="•➤ Lançamentos 2025 📽️",One More Shot (2024)
+#EXTINF:-1 tvg-id="" tvg-name="One More Shot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhQRrJSZv7OtMfn5kxeedeISgh9.jpg" group-title="•➤ Lançamentos 📽️",One More Shot (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846786.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ordinary Angels 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhQRrJSZv7OtMfn5kxeedeISgh9.jpg" group-title="•➤ Lançamentos 2025 📽️",Ordinary Angels 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Ordinary Angels (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhQRrJSZv7OtMfn5kxeedeISgh9.jpg" group-title="•➤ Lançamentos 📽️",Ordinary Angels (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846787.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Parallel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glZRP5M0uDoAzYKLB2XcCc8Gaep.jpg" group-title="•➤ Lançamentos 2025 📽️",Parallel (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Parallel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glZRP5M0uDoAzYKLB2XcCc8Gaep.jpg" group-title="•➤ Lançamentos 📽️",Parallel (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846788.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Race for Glory: Audi vs Lancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwu27eJfUbuHa8zubVXMRWptiZ8.jpg" group-title="•➤ Lançamentos 2025 📽️",Race for Glory: Audi vs Lancia (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Race for Glory: Audi vs Lancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwu27eJfUbuHa8zubVXMRWptiZ8.jpg" group-title="•➤ Lançamentos 📽️",Race for Glory: Audi vs Lancia (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846789.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ramy Youssef: More Feelings (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFI4xn1fGxIIFdk60rUBhbyA3J0.jpg" group-title="•➤ Lançamentos 2025 📽️",Ramy Youssef: More Feelings (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Ramy Youssef: More Feelings (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFI4xn1fGxIIFdk60rUBhbyA3J0.jpg" group-title="•➤ Lançamentos 📽️",Ramy Youssef: More Feelings (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846790.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Red Right Hand (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg" group-title="•➤ Lançamentos 2025 📽️",Red Right Hand (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Red Right Hand (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg" group-title="•➤ Lançamentos 📽️",Red Right Hand (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846791.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ricky Stanicky: El Impostor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg" group-title="•➤ Lançamentos 2025 📽️",Ricky Stanicky: El Impostor (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Ricky Stanicky: El Impostor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg" group-title="•➤ Lançamentos 📽️",Ricky Stanicky: El Impostor (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846792.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Road House (1934)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Road House (1934)
+#EXTINF:-1 tvg-id="" tvg-name="Road House (1934)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 📽️",Road House (1934)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846793.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="•➤ Lançamentos 2025 📽️",Sayen: La cazadora (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="•➤ Lançamentos 📽️",Sayen: La cazadora (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846794.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Self Reliance (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg" group-title="•➤ Lançamentos 2025 📽️",Self Reliance (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Self Reliance (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg" group-title="•➤ Lançamentos 📽️",Self Reliance (2023)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846795.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaitaan (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38xAhCjGMwJpqTFETr0VxQkYCDv.jpg" group-title="•➤ Lançamentos 2025 📽️",Shaitaan (1974)
+#EXTINF:-1 tvg-id="" tvg-name="Shaitaan (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38xAhCjGMwJpqTFETr0VxQkYCDv.jpg" group-title="•➤ Lançamentos 📽️",Shaitaan (1974)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846796.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sleeping Dogs (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r88FuWzZ7zZZjzpF0FHLaH0RFR5.jpg" group-title="•➤ Lançamentos 2025 📽️",Sleeping Dogs (1997)
+#EXTINF:-1 tvg-id="" tvg-name="Sleeping Dogs (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r88FuWzZ7zZZjzpF0FHLaH0RFR5.jpg" group-title="•➤ Lançamentos 📽️",Sleeping Dogs (1997)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846797.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg" group-title="•➤ Lançamentos 2025 📽️",Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg" group-title="•➤ Lançamentos 📽️",Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846798.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Snow Valley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avet7KbWhIwwhHZ4JSnbSpEzeTX.jpg" group-title="•➤ Lançamentos 2025 📽️",Snow Valley (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Snow Valley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avet7KbWhIwwhHZ4JSnbSpEzeTX.jpg" group-title="•➤ Lançamentos 📽️",Snow Valley (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846799.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sometimes I Think About Dying (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpcjCTzVoxoxIBmBGpjGrWL4JIV.jpg" group-title="•➤ Lançamentos 2025 📽️",Sometimes I Think About Dying (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Sometimes I Think About Dying (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpcjCTzVoxoxIBmBGpjGrWL4JIV.jpg" group-title="•➤ Lançamentos 📽️",Sometimes I Think About Dying (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846800.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Somewhere Quiet (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evExphB7F7PpCHx06dMCwePArfH.jpg" group-title="•➤ Lançamentos 2025 📽️",Somewhere Quiet (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Somewhere Quiet (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evExphB7F7PpCHx06dMCwePArfH.jpg" group-title="•➤ Lançamentos 📽️",Somewhere Quiet (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846801.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Still Fabulous 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evExphB7F7PpCHx06dMCwePArfH.jpg" group-title="•➤ Lançamentos 2025 📽️",Still Fabulous 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Still Fabulous (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evExphB7F7PpCHx06dMCwePArfH.jpg" group-title="•➤ Lançamentos 📽️",Still Fabulous (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846802.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sting (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIyC9PHfVbk9p2cUSRHUf3HntJv.jpg" group-title="•➤ Lançamentos 2025 📽️",Sting (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Sting (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIyC9PHfVbk9p2cUSRHUf3HntJv.jpg" group-title="•➤ Lançamentos 📽️",Sting (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846803.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stopmotion (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg" group-title="•➤ Lançamentos 2025 📽️",Stopmotion (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Stopmotion (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg" group-title="•➤ Lançamentos 📽️",Stopmotion (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846804.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title="•➤ Lançamentos 2025 📽️",Suncoast (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title="•➤ Lançamentos 📽️",Suncoast (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846805.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sunrise (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aRvg2ybz646gciX5M6qaclunC2.jpg" group-title="•➤ Lançamentos 2025 📽️",Sunrise (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Sunrise (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aRvg2ybz646gciX5M6qaclunC2.jpg" group-title="•➤ Lançamentos 📽️",Sunrise (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846806.mkv
-#EXTINF:-1 tvg-id="" tvg-name="तेरी बातों में ऐसा उलझा जिया (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwsBpnwmMO0xtIgxvCrViJgZhVj.jpg" group-title="•➤ Lançamentos 2025 📽️",तेरी बातों में ऐसा उलझा जिया (2024)
+#EXTINF:-1 tvg-id="" tvg-name="तेरी बातों में ऐसा उलझा जिया (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwsBpnwmMO0xtIgxvCrViJgZhVj.jpg" group-title="•➤ Lançamentos 📽️",तेरी बातों में ऐसा उलझा जिया (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846807.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The American Society of Magical Negroes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg" group-title="•➤ Lançamentos 2025 📽️",The American Society of Magical Negroes (2024)
+#EXTINF:-1 tvg-id="" tvg-name="The American Society of Magical Negroes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg" group-title="•➤ Lançamentos 📽️",The American Society of Magical Negroes (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846808.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Bloody Hundredth 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg" group-title="•➤ Lançamentos 2025 📽️",The Bloody Hundredth 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="The Bloody Hundredth (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg" group-title="•➤ Lançamentos 📽️",The Bloody Hundredth (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846810.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Book of Clarence (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPjISDZSYwQ1s5zc7ljFoyuYV6q.jpg" group-title="•➤ Lançamentos 2025 📽️",The Book of Clarence (2017)
+#EXTINF:-1 tvg-id="" tvg-name="The Book of Clarence (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPjISDZSYwQ1s5zc7ljFoyuYV6q.jpg" group-title="•➤ Lançamentos 📽️",The Book of Clarence (2017)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846811.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Greatest Hits (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cve12HkI9psBUfmkx7FeBciaQN7.jpg" group-title="•➤ Lançamentos 2025 📽️",The Greatest Hits (2024)
+#EXTINF:-1 tvg-id="" tvg-name="The Greatest Hits (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cve12HkI9psBUfmkx7FeBciaQN7.jpg" group-title="•➤ Lançamentos 📽️",The Greatest Hits (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846812.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Idea of a You (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8clne9uiXLUa0Y5GmOZDLQAxtS.jpg" group-title="•➤ Lançamentos 2025 📽️",The Idea of a You (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Idea of a You (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8clne9uiXLUa0Y5GmOZDLQAxtS.jpg" group-title="•➤ Lançamentos 📽️",The Idea of a You (2022)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846813.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Last Stop in Yuma County (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6ae2MMh8PpSamO3cIttLM5B18v.jpg" group-title="•➤ Lançamentos 2025 📽️",The Last Stop in Yuma County (2024)
+#EXTINF:-1 tvg-id="" tvg-name="The Last Stop in Yuma County (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6ae2MMh8PpSamO3cIttLM5B18v.jpg" group-title="•➤ Lançamentos 📽️",The Last Stop in Yuma County (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846814.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Ministry of Ungentlemanly Warfare 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6ae2MMh8PpSamO3cIttLM5B18v.jpg" group-title="•➤ Lançamentos 2025 📽️",The Ministry of Ungentlemanly Warfare 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="The Ministry of Ungentlemanly Warfare (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6ae2MMh8PpSamO3cIttLM5B18v.jpg" group-title="•➤ Lançamentos 📽️",The Ministry of Ungentlemanly Warfare (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846815.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Bungle: The Night They Came Home (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiqACHU5TC6SCWD71FKj0zTeGar.jpg" group-title="•➤ Lançamentos 2025 📽️",Mr. Bungle: The Night They Came Home (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Bungle: The Night They Came Home (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiqACHU5TC6SCWD71FKj0zTeGar.jpg" group-title="•➤ Lançamentos 📽️",Mr. Bungle: The Night They Came Home (2020)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846816.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Painter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="•➤ Lançamentos 2025 📽️",The Painter (2024)
+#EXTINF:-1 tvg-id="" tvg-name="The Painter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="•➤ Lançamentos 📽️",The Painter (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846817.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Seeding (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="•➤ Lançamentos 2025 📽️",The Seeding (2024)
+#EXTINF:-1 tvg-id="" tvg-name="The Seeding (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="•➤ Lançamentos 📽️",The Seeding (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846818.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Tiger's Apprentice 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="•➤ Lançamentos 2025 📽️",The Tiger's Apprentice 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="The Tiger's Apprentice (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="•➤ Lançamentos 📽️",The Tiger's Apprentice (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846819.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Underdoggs 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="•➤ Lançamentos 2025 📽️",The Underdoggs 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="The Underdoggs (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="•➤ Lançamentos 📽️",The Underdoggs (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846820.mkv
-#EXTINF:-1 tvg-id="" tvg-name="This Is Me...Now Radio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",This Is Me...Now Radio
+#EXTINF:-1 tvg-id="" tvg-name="This Is Me...Now Radio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 📽️",This Is Me...Now Radio
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846821.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tigers on the Rise (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho4EXQLuDnIqTNGIKB34rzQ6euH.jpg" group-title="•➤ Lançamentos 2025 📽️",Tigers on the Rise (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Tigers on the Rise (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho4EXQLuDnIqTNGIKB34rzQ6euH.jpg" group-title="•➤ Lançamentos 📽️",Tigers on the Rise (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846822.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Life, Upgraded (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 2025 📽️",Life, Upgraded (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Life, Upgraded (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="•➤ Lançamentos 📽️",Life, Upgraded (2019)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846823.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wanted Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="•➤ Lançamentos 2025 📽️",Wanted Man (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Wanted Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="•➤ Lançamentos 📽️",Wanted Man (2024)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846824.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Which Brings Me to You 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="•➤ Lançamentos 2025 📽️",Which Brings Me to You 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Which Brings Me to You (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="•➤ Lançamentos 📽️",Which Brings Me to You (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846825.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wicked Little Letters 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="•➤ Lançamentos 2025 📽️",Wicked Little Letters 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Wicked Little Letters (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" group-title="•➤ Lançamentos 📽️",Wicked Little Letters (cc)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yodha (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsiVE2dtwZITpnUxafDQtb4t8z8.jpg" group-title="•➤ Lançamentos 2025 📽️",Yodha (1991)
+#EXTINF:-1 tvg-id="" tvg-name="Yodha (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsiVE2dtwZITpnUxafDQtb4t8z8.jpg" group-title="•➤ Lançamentos 📽️",Yodha (1991)
 http://185.233.16.53:80/movie/UWCPVED8V2/H5gMVveKAHAD/846827.mkv
 
 
 --- 📺 📽️ 𝙏𝙍𝙞𝙊𝙇𝙊𝗚𝙞𝘼: Harry Potter
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal (2001) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Pedra Filosofal (2001) 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal (2001) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Pedra Filosofal (2001) (cc)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta (2002) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Câmara Secreta (2002) 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta (2002) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Câmara Secreta (2002) (cc)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban (2004) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Prisioneiro de Azkaban (2004) 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban (2004) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Prisioneiro de Azkaban (2004) (cc)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo (2005) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Cálice de Fogo (2005) 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo (2005) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Cálice de Fogo (2005) (cc)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix (2007) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Ordem da Fênix (2007) 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix (2007) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e a Ordem da Fênix (2007) (cc)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe (2009) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Enigma do Príncipe (2009) 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe (2009) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e o Enigma do Príncipe (2009) (cc)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 (2010) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e as Relíquias da Morte - Parte 1 (2010) 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 (2010) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e as Relíquias da Morte - Parte 1 (2010) (cc)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 (2011) 🇱🇪🇬" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e as Relíquias da Morte - Parte 2 (2011) 🇱🇪🇬
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 (2011) (cc)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="•➤ Trilogia: Harry Potter 📽️",Harry Potter e as Relíquias da Morte - Parte 2 (2011) (cc)
 http://xciptv.8888play.one:80/movie/228463308/r576049x/300898.mp4
 
 --- 📺 📽️ 𝙏𝙍𝙞𝙊𝙇𝙊𝗚𝙞𝘼: Beverly Hills Cop
