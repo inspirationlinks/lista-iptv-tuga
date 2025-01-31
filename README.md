@@ -44,18 +44,17 @@
 
 ---
 
-# 🥇 OTT Navigator IPTV 
+# 🥇 OTT Navigator IPTV Para Sistema Android 📺📱
 
 ![OTT Navigator screenshot](/LogosTv/OTTNavigator.png "OTT Navigator screenshot")
 
 [👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
 
-# 📢 ❗ <b>Sistema Android:</b> Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
+# 📢 ❗ Restaure este backup para ter acesso ao conteudo no OTTNavigator
+Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 * ✔️ Configurações Necessárias: (para poder usufruir da Lista Inspiration e listas Extras adicionais, incluindo Filmes e Series) :
 
-Restaure este backup: qDdpRd (senha: 654321)
-
-🔔 
+🔔 Restaure este backup: qDdpRd (senha: 654321)
 
 ⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código qDdpRd > Restaurar posição (Todos) > inserir senha 654321 > reiniciar aplicação.
 
