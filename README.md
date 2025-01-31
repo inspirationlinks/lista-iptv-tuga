@@ -50,18 +50,21 @@
 
 [👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
 
-* 📢 ❗ <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
-* (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista, (Provedor). É só copiar e colar o link da lista Inspiration e seguir os passos)
+# 📢 ❗ <b>Sistema Android:</b> Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
+* ✔️ Configurações Necessárias: (para poder usufruir da Lista Inspiration e listas Extras adicionais, incluindo Filmes e Series) :
+
+Restaure este backup: qDdpRd (senha: 654321)
+
+🔔 
+
+⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código qDdpRd > Restaurar posição (Todos) > inserir senha 654321 > reiniciar aplicação.
 
 ---
 
-## ✅ Lista Inspiration Free TV (Basta copiar e colar)
+## ✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
 ```bash
 🛡 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇᴛv (ᴍ3υ)
 🔗 https://bit.ly/InspirationFreetv
-OU
-🛡 ᴏɴʟʏ ғʀᴇᴇ sᴛʀᴇᴀᴍıɴɢ (ᴍ3υ)
-🔗 https://bit.ly/FreeStreamingtv
 ```
 
 ---
