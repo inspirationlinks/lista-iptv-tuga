@@ -92,17 +92,17 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 --- 📺 𝙏𝙑𝙡
 
 #EXTINF:-1 cuid="23" tvg-chno="23" tvg-name="TVI 🇵🇹" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="⬬ Portugal 🇵🇹",TVI Internacionalᶠᴴᴰ 🇵🇹 
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjUgNDo0MDozMyBQTSZoYXNoX3ZhbHVlPVdGRE1uWWR3TElQT3AxZWU5YU1iNlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04MDliZGE4OS05YzUwLTRjYjYtOWUwYS0yYjdjM2E4NzNjMjI=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjUgODozOToyNSBQTSZoYXNoX3ZhbHVlPUZPNVdMWHJWekJXbWdTaC9SZk5tM1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iODhlZWVlZi1kMWRiLTRmYWUtYWRjNi03YzYzMjg5ZjQxMTA=/
 
 #EXTINF:-1 cuid="25" tvg-chno="25" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="⬬ Portugal 🇵🇹",TVI 🇵🇹 (𝓑𝙮: thomraider12)
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 #EXTINF:-1 cuid="25" tvg-chno="25" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="⬬ Portugal 🇵🇹",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 cuid="26" tvg-chno="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="⬬ Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjUgNDo0MDozMSBQTSZoYXNoX3ZhbHVlPS85TW1rcGNzSWRmdlFYdGxZZ0JFd3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lZmMwZmIxZi02Y2ZhLTRkNDAtOWMwMS03MjRjZTZhOGNhMWI=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjUgODozOToyMiBQTSZoYXNoX3ZhbHVlPXBkeSs4N0hJY2VNdzhuSGg3L1BtaXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jYzIwYjJlOC00M2VkLTRiMGYtYTg2Mi00MGE0OWQzZmVmNTU=/
 
 #EXTINF:-1 cuid="28" tvg-chno="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="⬬ Portugal 🇵🇹",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjUgNDo0MDozMiBQTSZoYXNoX3ZhbHVlPWNLVkZIZEw3SzF4Q3Y4eWtBQzI5Tmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jZGRhM2Y1OS0xZTE1LTRiOWYtODI0Ny04OTY3NDNiNmE2M2I=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjUgODozOToyMyBQTSZoYXNoX3ZhbHVlPVV5ZzRzTlphS2tCcHZGSkdiMFV4Q2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03MjdjNjVmNS04Yzc4LTQzYWMtOWEyZS01YmFmNDVhM2UwY2Q=/
 #EXTINF:-1 cuid="27" tvg-chno="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="⬬ Portugal 🇵🇹",CNN Portugal 🇵🇹 (𝓑𝙮: thomraider12)
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 cuid="27" tvg-chno="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="⬬ Portugal 🇵🇹",CNN Portugal 🇵🇹
