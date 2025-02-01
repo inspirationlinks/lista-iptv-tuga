@@ -65,7 +65,7 @@ SENHA:
  654321
 ```
 
-⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código qDdpRd > Restaurar posição (Todos) > inserir senha 654321 > reiniciar aplicação.
+⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código: qDdpRd > Restaurar posição (Todos) > inserir senha: 654321 > reiniciar aplicação.
 
 ---
 
