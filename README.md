@@ -67,7 +67,8 @@ SENHA:
 
 ⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código: qDdpRd > Restaurar posição (Todos) > inserir senha: 654321 > reiniciar aplicação.
 
----
+[👉 Demonstração em Video](https://cld.pt/dl/download/fa4de240-3083-4d16-9775-6979a0f70934/BackupOTT.mp4?download=true)
+
 
 ## ✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
 ```bash
