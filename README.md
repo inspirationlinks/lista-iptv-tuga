@@ -55,6 +55,7 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 * ✔️ Configurações Necessárias: (para poder usufruir da Lista Inspiration e listas Extras adicionais, incluindo Filmes e Series) :
 
 🔔 Restaure este backup no OTT
+
 BACKUP:
 ```bash
 xZbCnp
