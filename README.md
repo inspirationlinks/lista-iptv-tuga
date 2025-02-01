@@ -54,7 +54,7 @@
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 * ✔️ Configurações Necessárias: (para poder usufruir da Lista Inspiration e listas Extras adicionais, incluindo Filmes e Series) :
 
-🔔 Restaure este backup: qDdpRd (senha: 654321)
+🔔 Restaure este backup: xZbCnp (senha: 654321)
 
 ⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código qDdpRd > Restaurar posição (Todos) > inserir senha 654321 > reiniciar aplicação.
 
