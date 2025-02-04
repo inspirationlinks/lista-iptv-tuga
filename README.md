@@ -51,9 +51,10 @@
 [👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
 
 ## ✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
-```bash
+
 🛡 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇᴛv (ᴍ3υ)
-🔗 https://bit.ly/InspirationFreetv
+```bash
+https://bit.ly/InspirationFreetv
 ```
 📢 (Existe outra lista mais completa, só disponível no OTTNavigator, pré Configurado com conteúdos de IPTV que o Inspiration partilha). No entanto esse conteúdo não está publico, terá que solicitar para ter acesso.
 
