@@ -50,31 +50,12 @@
 
 [👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
 
-# 📢 ❗ Restaure este backup para ter acesso ao conteudo no OTTNavigator
-Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
-* ✔️ Configurações Necessárias: (para poder usufruir da Lista Inspiration e listas Extras adicionais, incluindo Filmes e Series) :
-
-🔔 Restaure este backup no OTT
-
-BACKUP:
-```bash
-xZbCnp
-```
-SENHA:
-```bash
- 654321
-```
-
-⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código: qDdpRd > Restaurar posição (Todos) > inserir senha: 654321 > reiniciar aplicação.
-
-[👉 Demonstração em Video](https://cld.pt/dl/download/fa4de240-3083-4d16-9775-6979a0f70934/BackupOTT.mp4)
-
-
 ## ✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
 ```bash
 🛡 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇᴛv (ᴍ3υ)
 🔗 https://bit.ly/InspirationFreetv
 ```
+📢 (Existe outra lista mais completa, só disponível no OTTNavigator, pré Configurado com conteúdos de IPTV que o Inspiration partilha). No entanto esse conteúdo não está publico, terá que solicitar para ter acesso.
 
 ---
 
