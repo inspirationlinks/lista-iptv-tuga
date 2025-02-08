@@ -21,4 +21,4 @@
 
 #### ✔️ Categorias e Conteudos da Lista [ʟıᴠᴇᴛv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20LiveTV) 
 
-Inspi[я]ation ʟɪvᴇ ᴛv © 2024 All rights reserved
+Inspi[я]ation ʟɪvᴇ ᴛv © 2025 All rights reserved
