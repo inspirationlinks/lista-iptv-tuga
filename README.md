@@ -20,7 +20,6 @@
 
 ## ❓ Why?
 
-
 🇵🇹 ➾ Direcionada principalmente para os emigrantes que vivem no estrangeiro, mantendo dessa forma contacto com a sua cultura e País. Este projeto também pode ajudar qualquer pessoa que esteja interessado em Portugal ou apenas curiosa sobre o idioma. Alem disso, é uma alternativa bastante viável a baixo custo para verem tv.
 
 🇬🇧 ➾ Mainly aimed at emigrants living abroad, thus maintaining contact with their culture and country. This project can also help anyone who is interested in Portugal or just curious about the language. Furthermore, it is a very viable, low-cost alternative for watching TV.
@@ -35,15 +34,18 @@
 
 [📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
-## 🌍🌐 List of Main TV channels the Freetv and Livetv (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+#### 🌍🌐 List of Main TV channels the Freetv and Livetv (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-[📺 📋 Confira a Lista Completa de Canais](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categorias-%EF%B8%8F)
+[📺 📋 Confira a Lista Completa de Canais da Freetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20FreeTV)
 
-#### ✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
+✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
 🛡 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇᴛv (ᴍ3υ)
 ```bash
 https://bit.ly/InspirationFreetv
 ```
+
+[📺 📋 Confira a Lista Completa de Canais da Livetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20LiveTV)
+
 ---
 
 #### 📺📱 OTT Navigator IPTV Para Sistema Android
