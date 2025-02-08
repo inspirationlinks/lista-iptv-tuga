@@ -32,11 +32,11 @@
 
 #### 🔔 Indice e Legenda da lista inspiration Free and Live tv
 
-[📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
+* [📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
 #### 🌍🌐 List of Main TV channels the Freetv and Livetv (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-[📺 📋 Confira a Lista Completa de Canais da Freetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20FreeTV)
+* [📺 📋 Confira a Lista Completa de Canais da Freetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20FreeTV)
 
 ✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
 🛡 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇᴛv (ᴍ3υ)
@@ -44,7 +44,7 @@
 https://bit.ly/InspirationFreetv
 ```
 
-[📺 📋 Confira a Lista Completa de Canais da Livetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20LiveTV)
+* [📺 📋 Confira a Lista Completa de Canais da Livetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20LiveTV)
 
 ---
 
