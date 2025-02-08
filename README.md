@@ -6,19 +6,19 @@
 
 [![Paypal](https://github.com/inspirationlinks/m3u/blob/live/LogosTv/donativoPaypal.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS)
 
-# 🚩 Siga nos
+## 🚩 Siga nos
 
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="github Inspiration" width="133" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" width="133" height="140" border="0" /></a><a href="https://t.me/inspirationfreetv/1" target="_blank" rel="noopener"><img class="alignleft" style="border: 0px; height: 133px;" src="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/imag.png?w=210" alt="Grupo Telegram" width="124" height="150" border="0" /></a></p>
 
 ---
 
-# 🎯 Purpose
+## 🎯 Purpose
 
 🇵🇹 ➾ Oferece uma playlist IPTV Free em formato M3U, destacando canais de TV e rádios essencialmente em português, canais Hispânicos, Norte Americanos e ingleses. Oferecendo igualmente uma lista de canais oriundo de plataformas de streaming gratuitos, tais como: (Pluto tv, SamsungTVPlus, Stirr, Plex, Roku, etc...)
 
 🇬🇧 ➾ It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, etc...)
 
-# ❓ Why?
+## ❓ Why?
 
 
 🇵🇹 ➾ Direcionada principalmente para os emigrantes que vivem no estrangeiro, mantendo dessa forma contacto com a sua cultura e País. Este projeto também pode ajudar qualquer pessoa que esteja interessado em Portugal ou apenas curiosa sobre o idioma. Alem disso, é uma alternativa bastante viável a baixo custo para verem tv.
@@ -31,31 +31,28 @@
 
 ---
 
-# 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
-
-## [📺 📋 Confira a Lista Completa de Canais](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categorias-%EF%B8%8F)
-
----
-
-## 🔔 Indice da lista inspiration Free tv
+#### 🔔 Indice da lista inspiration Free anf Live tv
 * 👇 Para perceber como está organizada a lista Freetv em termos de <u> Estrutura</u> , clique em <b>"Indice"</b> 👇
 
 [📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
+## 🌍🌐 List of Main TV channels the Freetv and Livetv (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+
+- [📺 📋 Confira a Lista Completa de Canais](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categorias-%EF%B8%8F)
+
+#### ✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
+🛡 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇᴛv (ᴍ3υ)
+```bash
+https://bit.ly/InspirationFreetv
+```
 ---
 
-# 🥇 OTT Navigator IPTV Para Sistema Android 📺📱
+#### 📺📱 OTT Navigator IPTV Para Sistema Android
 
 ![OTT Navigator screenshot](/LogosTv/OTTNavigator.png "OTT Navigator screenshot")
 
 [👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
 
-## ✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
-
-🛡 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇᴛv (ᴍ3υ)
-```bash
-https://bit.ly/InspirationFreetv
-```
 📢 (Existe outra lista mais completa, só disponível no OTTNavigator, pré Configurado com conteúdos de IPTV que o Inspiration partilha). No entanto esse conteúdo não está publico, terá que solicitar para ter acesso.
 
 ---
