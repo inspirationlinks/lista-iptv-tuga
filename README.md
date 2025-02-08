@@ -30,11 +30,11 @@
 
 ---
 
-#### 🔔 Indice e Legenda da lista inspiration Free and Live tv
+### 🔔 Indice e Legenda da lista inspiration Free and Live tv
 
 * [📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
-#### 🌍🌐 List of Main TV channels the Freetv and Livetv (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+### 🌍🌐 List of Main TV channels the Freetv and Livetv (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
 * [📺 📋 Confira a Lista Completa de Canais da Freetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20FreeTV)
 
