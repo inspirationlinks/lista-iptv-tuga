@@ -38,8 +38,8 @@
 
 * [📺 📋 Confira a Lista Completa de Canais da Freetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20FreeTV)
 
-✅ Lista m3u só com Streams de Sinal Aberto (Basta copiar e colar)
-🛡 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ғʀᴇᴇᴛv (ᴍ3υ)
+✅ Lista m3u só com Streams de Sinal Aberto 
+(Basta copiar e colar)
 ```bash
 https://bit.ly/InspirationFreetv
 ```
