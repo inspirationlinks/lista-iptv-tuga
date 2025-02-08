@@ -58,8 +58,6 @@ https://bit.ly/InspirationFreetv
 
 [👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
 
-📢 (Existe outra lista mais completa, só disponível no OTTNavigator, pré Configurado com conteúdos de IPTV que o Inspiration partilha). No entanto esse conteúdo não está publico, terá que solicitar para ter acesso.
-
 ---
 
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
