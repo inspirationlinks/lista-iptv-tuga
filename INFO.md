@@ -1,8 +1,8 @@
 
-# 📺 💻 📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
+## 📺 💻 📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv
 
 
-# 📝 Indice | Legendas
+#### 📝 Indice | Legendas
 
 
 📌 Se verificar que um determinado canal não abre utilize uma VPN. Existem canais que em determinados Países, como Portugal e não só... <b>Bloqueiam geograficamente, (Geoblocked)</b> um determinado canal. Se usarem uma <b>VPN</b> de outro Pais diferente, existe fortes possibilidades de conseguirem abrir o canal em questão.
