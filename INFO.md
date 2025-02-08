@@ -15,10 +15,4 @@
 
 <b>📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)</b>
 
----
-
-#### ✔️ Categorias e Conteudos da Lista [ғʀᴇᴇᴛv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20FREETV) 
-
-#### ✔️ Categorias e Conteudos da Lista [ʟıᴠᴇᴛv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20LiveTV) 
-
 Inspi[я]ation ʟɪvᴇ ᴛv © 2025 All rights reserved
