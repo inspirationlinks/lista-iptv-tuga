@@ -26,7 +26,7 @@
 
 ---
 
-* Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline e a secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.
+* Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline na secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.
 
 ---
 
@@ -45,6 +45,10 @@ https://bit.ly/InspirationFreetv
 ```
 
 * [📺 📋 Confira a Lista Completa de Canais da Livetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/List%20Channels%20LiveTV)
+  
+🇵🇹 ➾ Esta lista é totalmente Gratuita mas... Não é facultada de forma Publica. Terá que solicitar o acesso à mesma. Por [AQUI](https://github.com/inspirationlinks/m3u/discussions) ou atravez do [Blog](https://wp.me/p11I1T-68V).
+
+🇬🇧 ➾ This list is completely free but... It is not publicly available. You will have to request access to it. Here or on the Blog.
 
 ---
 
